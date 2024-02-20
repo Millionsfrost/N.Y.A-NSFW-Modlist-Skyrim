@@ -93,3 +93,8 @@ Installing the list is straight forward, Wabbajack will do most of the heavy lif
 Set the installation location to a folder on the root of a drive, something like C:\WoD. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim Special Edition modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
 
 Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
+
+
+### Post Installation
+
+We dont have MCM Recorder Setup atm, so the only Thing really ingame that you need todo is Run Sexlab+ so it activates, and then in Yet Another Difficult Mod put the Preset Setting on Dynamic. Thats it for not. I guess ill add MCM Recoder when the List releases since many Mods will change until then.
