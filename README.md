@@ -49,7 +49,7 @@ Scroll down in Global Settings to find the Shader Cache Size option
 Set the Shader Cache to at least 10GB
 Done
 
-https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png
+[img]https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png[/img]
 
 Setup your Antivirus
 Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
