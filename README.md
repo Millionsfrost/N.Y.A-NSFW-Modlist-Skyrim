@@ -6,7 +6,7 @@ Support and general talk about N.Y.A you can find on the following Discord: http
 
 #### N.Y.A-NSFW-Modlist-Skyrim
 
-Alpha Test Version of N.Y.A.
+Alpha Test Version of N.Y.A. The List runs on 16640 Version. AE.
 
 
 
