@@ -1,37 +1,53 @@
 ![alt text](https://i.imgur.com/LLmFq2o.png "Logo Title Text 1")
 First things first: this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.
-
 Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
+
+
 #### N.Y.A-NSFW-Modlist-Skyrim
+
 Alpha Test Version of N.Y.A.
 
+
+
 #### Accounts
+
 In terms of accounts you will need:
 
-Nexus Premium Account
+
+
+#### Nexus Premium Account
+
 LoversLab Account - for manual downloads through your browser.
 
+
+
 #### Installation
+
 I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. All links to mods hosted on LoversLab can be found here. ( Links will be added later manually )
-
 When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.
-
 After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the N.Y.A downloads to be stored in. If you have an existing Skyrim mods downloads folder from other modlists or your own modding, use that as you might have mods N.Y.A needs already, meaning you won't need to download those mods again.
 
 
+
 #### Preparation
+
 Install Microsoft Visual C++ Redistributable Packages
 This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
-Download Visual C++ Redistributable Package.
+
+
+#### Download Visual C++ Redistributable Package and the Thing underneath it.
 
 Also get the Thing underneath, i think it was needet for Sexlab+.
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.15-windows-x64-installer
 
+
+
 #### Setup your Page File
-Fallout 4 modlists need a large amount of memory purely because of the amount of stuff in them - especially modlists on the larger side or with a lot going on. For the best experience, you should setup a pagefile of at least 20GB - yes, even if you have a million GB of RAM. To setup your pagefile;
+
+Skyrim modlists need a large amount of memory purely because of the amount of stuff in them - especially modlists on the larger side or with a lot going on. For the best experience, you should setup a pagefile of at least 20GB - yes, even if you have a million GB of RAM. To setup your pagefile;
 
 Hold down the LEFT Windows key and press R
 Type in systempropertiesadvanced in the run box and then press ENTER
@@ -67,13 +83,22 @@ How do I do this, you ask? Click here to find out how.
 
 Note: If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
 
+
+
 #### Disable Steam Overlay
+
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
+
+
 #### Set game language to English
+
 Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click Properties > Language > Select English.
 
+
+
 #### Change Steam's Updating Behavior
+
 If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
 
 Clean current Skyrim Special Edition installation
@@ -88,15 +113,22 @@ Head to Documents\My Games and delete the Fallout 4 folder.
 Install Skyrim Special Edition
 Once you've done the steps above, you can now set Steam to download Skyrim Special Edition again but do not install Skyrim Special Edition to a protected folder, such as Desktop, Downloads or Program Files of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as C:\SteamLibrary. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
+
+
 #### Start Skyrim Special Edition
+
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again. Also download all AE Content.
 
+
+
 #### Wabbajack
+
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
 Set the installation location to a folder on the root of a drive, something like C:\WoD. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim Special Edition modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
 
 Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
+
 
 
 #### Post Installation
