@@ -12,7 +12,9 @@ Alpha Test Version of N.Y.A. The List runs on 16640 Version. AE.
 
 #### Accounts
 
-In terms of accounts you will need:
+In terms of accounts you will need: Nexus Account, Premium would be best.
+
+ALSO WARNING: You cant login anymore into Loverslab in the Wabbajack Settings. You have todo it now when the first Loverslab Mod pop up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
 
 
 
