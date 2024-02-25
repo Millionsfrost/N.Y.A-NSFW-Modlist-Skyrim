@@ -148,6 +148,8 @@ I copied over some MCM Settings so that should be done actually. Other then that
 Noticable Button are Middle Mouse Press is not only Target Lock in Third Person, but also Masturbating if you are NOT engaged in Combat. Sexcraft had a couple new Additions, especially the Sensuality Tree. Pls check Sexcrafts Modpage on LL to see the Changes.
 If you dont like Middle Mouse, its probably easier to change the Hotkey for Target Selection.
 
+Dont forget when you are ingame, to initiate Sexlab via the MCM.
+
 On this Link here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
 On the Page above you can check whats not compatible with Sexlab+
 I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints dont work yet, or dont work that well. I thought i just tell people upfront.
