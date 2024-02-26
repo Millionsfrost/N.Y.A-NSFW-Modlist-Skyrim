@@ -6,7 +6,8 @@ Support and general talk about N.Y.A you can find on the following Discord: http
 
 #### N.Y.A-NSFW-Modlist-Skyrim
 
-Alpha Test Version of N.Y.A. The List runs on 16640 Version. AE.
+Alpha Test Version of N.Y.A. The List runs on 16640 Version. AE on its won.
+You still need latest Skyrim Version + AE Content. You get the AE Content when you start Vanilla and Download it all atleast once.
 
 
 
