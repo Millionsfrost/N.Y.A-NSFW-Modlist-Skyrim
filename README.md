@@ -73,7 +73,7 @@ Press OK
 Press APPLY and then OK
 Restart your PC to apply the pagefile setting
 Setup your Shader Cache
-Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Fallout 4 installs. Increasing the shader cache size is done via the Nvidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with).
+Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified out 4 installs. Increasing the shader cache size is done via the Nvidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with).
 
 AMD USERS: See this link for some manual tweaks that may or may not help.
 
@@ -96,13 +96,13 @@ Note: If you're using Webroot or any other free 3rd party antivirus it's likely 
 
 #### Disable Steam Overlay
 
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
+The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Skyrim Special Edition in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
 
 
 #### Set game language to English
 
-Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click Properties > Language > Select English.
+Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim Special Edition in your game library and click Properties > Language > Select English.
 
 
 
@@ -118,7 +118,7 @@ Uninstall the game via Steam - right click on Skyrim Special Edition in your gam
 Check the explorer window for any left over files - if there are any, delete them.
 Open Windows start menu/search and type in %LOCALAPPDATA%.
 Delete the Skyrim Special Edition folder.
-Head to Documents\My Games and delete the Fallout 4 folder.
+Head to Documents\My Games and delete the Skyrim Special Edition folder.
 Install Skyrim Special Edition
 Once you've done the steps above, you can now set Steam to download Skyrim Special Edition again but do not install Skyrim Special Edition to a protected folder, such as Desktop, Downloads or Program Files of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as C:\SteamLibrary. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
