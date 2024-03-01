@@ -145,7 +145,11 @@ https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%2
 
 #### Post Installation
 
-#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished please click enter and then Continue.
+#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+
+Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice you will pick Voice Slot 1. Then a new Screen opens. On the right side you will manually enter the Name of your Character, beware Typos. In the top right you can listen to Samples.
+Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
+You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
 
 #### Buttons
 
