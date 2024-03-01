@@ -145,15 +145,29 @@ https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%2
 
 #### Post Installation
 
-We dont have MCM Recorder Setup atm, so the only Thing really ingame that you need todo is Run Sexlab+ so it activates, and then in Yet Another Difficult Mod put the Preset Setting on Dynamic. Thats it for not. I guess ill add MCM Recoder when the List releases since many Mods will change until then.
-I copied over some MCM Settings so that should be done actually. Other then that you can adjust them as you want.
+#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished please click enter and then Continue.
 
-Noticable Button are Middle Mouse Press is not only Target Lock in Third Person, but also Masturbating if you are NOT engaged in Combat. Sexcraft had a couple new Additions, especially the Sensuality Tree. Pls check Sexcrafts Modpage on LL to see the Changes.
-If you dont like Middle Mouse, its probably easier to change the Hotkey for Target Selection.
+#### Buttons
 
-Dont forget when you are ingame, to initiate Sexlab via the MCM.
+Middle Mouse out of Combat = Masturbation, but also you can try to seduce People while looking at them via your Sexcraft Perk Tree. ( You can change Sexcraft Key via Console Command, how to is on Sexcraft Modpage. )
+
+Middle Mouse = Target Lock
+
+G Button = Quick Light
+
+C Button = Dodge Roll
+
+V Button = Block
+
+< Button = Additional Attack ( Every Weapon Type has a Special Attack, if you equip an Ashes of War, same Button uses that. < Button is left of Y, in US cases Z i think. You can change this in the Additional Attack MCM.
+
+L Button = Hunters Pride ( Turning this on and off lets you do things to downed Enemies )
+
+ß Button = Free Cam ( Button next after 0, can be adjustet. Lets you go into free Cam in Sex Scene, or well in general. Dont use auto Freecam.
+
 
 On this Link here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
 On the Page above you can check whats not compatible with Sexlab+
 I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints dont work yet, or dont work that well. I thought i just tell people upfront.
+PS: We dont have Intelligent Dirty Talk working atm in an Alpha State aswell.
 
