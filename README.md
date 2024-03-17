@@ -143,17 +143,18 @@ You can verify your Install here
 https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
 
 
+
+#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+
 #### Post Installation
 
 #### Manual Settings
 
-It could happen that your Gender is set to Futa, so please set it to Male or Female in Sexlab so you get accordingly the Animations.
-
- "Set CompassCheat to 1". Then save and reload the save. ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
+"Set CompassCheat to 1". Then save and reload the save. ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
  
 set fXPPerSkillRank to 0  that will stop unarmored defense and hand to hand from giving levels the vanilla way. Use this if you plan to play with These two.
 
-#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+Please remove the Autosave Feature in Skyrim Unbound for less Crashes on Character Creation for Future new Characters you create.
 
 Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice you will pick Voice Slot 1. Then a new Screen opens. On the right side you will manually enter the Name of your Character, beware Typos. In the top right you can listen to Samples.
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
