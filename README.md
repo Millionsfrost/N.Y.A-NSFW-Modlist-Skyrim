@@ -150,7 +150,7 @@ https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%2
 
 #### Manual Settings
 
-"Set CompassCheat to 1". Then save and reload the save. ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
+"Set CompassCheat to 1". Then save and reload the save ( Probably restart the Game ). ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
  
 set fXPPerSkillRank to 0  that will stop unarmored defense and hand to hand from giving levels the vanilla way. Use this if you plan to play with These two.
 
