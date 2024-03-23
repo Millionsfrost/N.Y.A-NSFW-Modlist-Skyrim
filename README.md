@@ -151,10 +151,10 @@ https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%2
 #### Manual Settings
 
 "Set CompassCheat to 1". Then save and reload the save ( Probably restart the Game ). ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
- 
-set fXPPerSkillRank to 0  that will stop unarmored defense and hand to hand from giving levels the vanilla way. Use this if you plan to play with These two.
 
 Please remove the Autosave Feature in Skyrim Unbound for less Crashes on Character Creation for Future new Characters you create.
+
+Please change the Hotkey from the Where are you MCM Menu for opening the Menu. Normal Key is F3 and that interferes with our Stances Mod. So pls rebind that. I use it on Comma Key and it works.
 
 Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice you will pick Voice Slot 1. Then a new Screen opens. On the right side you will manually enter the Name of your Character, beware Typos. In the top right you can listen to Samples.
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
