@@ -143,6 +143,8 @@ You can verify your Install here
 https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
 
 
+####### Please read very carefully from here on!
+
 
 #### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
 
@@ -160,9 +162,14 @@ Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice yo
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
 You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
 
+Better Third Person Selection is currently on 0.6.0 Installed. 0.6.0 may be causing Crashes on Loading Screens. Incompatible with faster hdt smp here and there. If you feel like on the current Version you get too many Crashes with 0.6.0, please revert the Mod back to 0.5.9.
+We have Report its more stable with 0.5.9. If this is the Case for you aswell, please message me so i can think about using 0.5.9 in general for the List.
+
 #### Buttons
 
 Middle Mouse out of Combat = Masturbation, but also you can try to seduce People while looking at them via your Sexcraft Perk Tree. ( You can change Sexcraft Key via Console Command, how to is on Sexcraft Modpage. )
+
+ß Button = Free Cam ( Button next after 0, can be adjustet. -> -_ Button = Free Cam ( Button next after 0, can be adjusted. For Sexlab/Scenes.
 
 Middle Mouse = Target Lock
 
