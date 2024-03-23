@@ -162,8 +162,7 @@ Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice yo
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
 You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
 
-Better Third Person Selection is currently on 0.6.0 Installed. 0.6.0 may be causing Crashes on Loading Screens. Incompatible with faster hdt smp here and there. If you feel like on the current Version you get too many Crashes with 0.6.0, please revert the Mod back to 0.5.9.
-We have Report its more stable with 0.5.9. If this is the Case for you aswell, please message me so i can think about using 0.5.9 in general for the List.
+Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
 
 #### Buttons
 
