@@ -164,6 +164,10 @@ You can also ignore all this and just dont use this Feature if you dont like Voi
 
 Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
 
+#### Survival Mode
+
+Do not use Survival Mode. It has been reported that with Survival there are many Freezes and Stuff and your Game will stop working!
+
 #### Buttons
 
 Middle Mouse out of Combat = Masturbation, but also you can try to seduce People while looking at them via your Sexcraft Perk Tree. ( You can change Sexcraft Key via Console Command, how to is on Sexcraft Modpage. )
