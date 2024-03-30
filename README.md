@@ -143,13 +143,17 @@ You can verify your Install here
 https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
 
 
-#### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
+
+#### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
 #### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
 
-#### Post Installation
+#### If you want a more stable Experience aka less Script Heavy Stuff, disable everything in relation to Paradise Halls, Diary of Mine and all its Addons. They are all close together in Mo2. Troubles of Heroines aswell. These are the big nsfw Mods atm in this List but some People might not like this Content.
+So if you dont wanna use it feel free to disable it and all of its PATCHES.
 
+
+#### Post Installation
 #### Manual Settings
 
 "Set CompassCheat to 1". Then save and reload the save ( Probably restart the Game ). ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
@@ -164,9 +168,15 @@ You can also ignore all this and just dont use this Feature if you dont like Voi
 
 Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
 
+
+
+
 #### Survival Mode
 
 Do not use Survival Mode. It has been reported that with Survival there are many Freezes and Stuff and your Game will stop working!
+
+
+
 
 #### Buttons
 
