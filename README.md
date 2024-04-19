@@ -147,7 +147,7 @@ https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%2
 
 #### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
-#### When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+#### In the MCM Menu Skyrim Undbound you do your Settings and then press Lets go. When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
 
 #### If you want a more stable Experience aka less Script Heavy Stuff, disable everything in relation to Paradise Halls, Diary of Mine and all its Addons. They are all close together in Mo2. Troubles of Heroines aswell. These are the big nsfw Mods atm in this List but some People might not like this Content.
 So if you dont wanna use it feel free to disable it and all of its PATCHES.
