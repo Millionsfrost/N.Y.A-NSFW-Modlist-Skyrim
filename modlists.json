@@ -3,23 +3,23 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "N.Y.A-NSFW-Modlist-Skyrim",
     "description": "Release Beta Test Version of N.Y.A. The List runs on 16640 Version. AE on its own. You still need latest Skyrim Version + AE Content. You get the AE Content when you start Vanilla and Download it all atleast once. Running on Sexlab + and Pandora Engine. Over 2000 Mods.",
-    "author": "<Vermillion>",
+    "author": "Vermillion",
     "maintainers": [
-      "github/<Millionsfrost>"
+      "github/Millionsfrost"
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "testing", "'Vokriinator Black', 'MCO', 'Stances', 'Power Fantasy', 'New Lands', 'New Quests', 'Sexlab+', 'Pandora Engine' ],
+      "'Vokriinator Black', 'MCO', 'Stances', 'Power Fantasy', 'New Lands', 'New Quests', 'Sexlab+', 'Pandora Engine' ],
     "nsfw": true,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://camo.githubusercontent.com/7930e301ccf1d8571ddb7d97191e2f7eeb8f6242d81a633d29278a5f2ef33074/68747470733a2f2f692e696d6775722e636f6d2f4c4c6d4671326f2e706e67",
-      "readme": "<https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/README.md>",
+      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/N.Y.A%20NSFW%20Skyrim.wabbajack_9f5a0183-093d-4e61-b82d-6a957fe3478c",
       "machineURL": "nyaskyrim",
-      "discordURL": "<https://discord.gg/V38xZ6CtzQ>"
+      "discordURL": "https://discord.gg/V38xZ6CtzQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
