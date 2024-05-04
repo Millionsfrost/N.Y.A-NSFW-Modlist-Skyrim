@@ -9,9 +9,7 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "testing",
-      "'Vokriinator Black','MCO','Stances','Power Fantasy','New Lands','New Quests','Sexlab+','Pandora Engine' "
-    ],
+      "testing", "'Vokriinator Black', 'MCO', 'Stances', 'Power Fantasy', 'New Lands', 'New Quests', 'Sexlab+', 'Pandora Engine' ],
     "nsfw": true,
     "image_contains_title": true,
     "force_down": false,
