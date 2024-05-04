@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<https://camo.githubusercontent.com/7930e301ccf1d8571ddb7d97191e2f7eeb8f6242d81a633d29278a5f2ef33074/68747470733a2f2f692e696d6775722e636f6d2f4c4c6d4671326f2e706e67>",
+      "image": "https://camo.githubusercontent.com/7930e301ccf1d8571ddb7d97191e2f7eeb8f6242d81a633d29278a5f2ef33074/68747470733a2f2f692e696d6775722e636f6d2f4c4c6d4671326f2e706e67",
       "readme": "<https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/README.md>",
       "download": "https://authored-files.wabbajack.org/N.Y.A%20NSFW%20Skyrim.wabbajack_9f5a0183-093d-4e61-b82d-6a957fe3478c",
       "machineURL": "nyaskyrim",
