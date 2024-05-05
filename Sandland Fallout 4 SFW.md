@@ -1,6 +1,6 @@
 ![Sandland Banner](https://i.imgur.com/xAC4TwG.jpeg)  
 
-Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
+Support and general talk about N.Y.A and Sandland you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
 Please read this: https://github.com/LivelyDismay/magnum-opus/blob/main/README.md
 
