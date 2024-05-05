@@ -1,4 +1,4 @@
-![Sandland Banner](https://i.imgur.com/LLmFq2o.png)  
+![Sandland Banner](https://i.imgur.com/xAC4TwG.jpeg)  
 
 Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
