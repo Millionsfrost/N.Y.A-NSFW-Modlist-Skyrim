@@ -36,6 +36,7 @@ Size: Downloads - 158 GB | Installation - 262 GB
 - Gameplay Difficulty with Scourge
 - A LOT of Settlement Mods
 - Heather Casdin and Ellen Companions
+- Auto Lockpicking ( Locks get openend automaticly when you have the Perk for it )
 - Lootables Crates ( They werent open before, including reduced Loot Patch for Balance )
 - Complete Audio Overaul
 - Complete Overhaul of GUN VFX
