@@ -12,6 +12,8 @@ It is important you do the Steps to make Magnum Opus running, since this List is
 
 Release Beta Test Version of Sandland, you need the latest Next gen Update from Fallout 4.
 
+Size: Downloads - 158 GB | Installation - 262 GB
+
 #### Features
 
 - Magnum Opus Baselist with some Changes
