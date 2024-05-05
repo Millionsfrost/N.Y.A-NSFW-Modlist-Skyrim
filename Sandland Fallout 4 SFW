@@ -98,7 +98,7 @@ Note: If you're using Webroot or any other free 3rd party antivirus it's likely 
 
 #### Disable Steam Overlay
 
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Skyrim Special Edition in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
+The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
 
 
@@ -112,23 +112,11 @@ Wabbajack and the modding tools out there only support English language versions
 
 If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
 
-Clean current Skyrim Special Edition installation
-If you have not yet installed Skyrim Special Edition, you can skip this part.
-
-Right click on Skyrim Special Edition in your game library and click Properties > Local Files > Browse.
-Uninstall the game via Steam - right click on Skyrim Special Edition in your game library and click Manage > Uninstall.
-Check the explorer window for any left over files - if there are any, delete them.
-Open Windows start menu/search and type in %LOCALAPPDATA%.
-Delete the Skyrim Special Edition folder.
-Head to Documents\My Games and delete the Skyrim Special Edition folder.
-Install Skyrim Special Edition
-Once you've done the steps above, you can now set Steam to download Skyrim Special Edition again but do not install Skyrim Special Edition to a protected folder, such as Desktop, Downloads or Program Files of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as C:\SteamLibrary. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
 
+#### Start Fallout 4
 
-#### Start Skyrim Special Edition
-
-That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again. Also download all AE Content.
+That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 
 
@@ -140,43 +128,17 @@ Set the installation location to a folder on the root of a drive, something like
 
 Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
-You can verify your Install here
-
-https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
-
-
 
 
 #### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
-#### In the MCM Menu Skyrim Undbound you do your Settings and then press Lets go. When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+After you start the Game, and made your Character, wait in the Room until all the Things are initiliazed. Once done, the Coice is yours, i prefer Vault 111 Start. When you are in the Game World, please open MCM Menu and go to MCM Settings and RUN the Sandland Preset, then you are done.
 
-#### If you want a more stable Experience aka less Script Heavy Stuff, disable everything in relation to Paradise Halls, Diary of Mine and all its Addons. They are all close together in Mo2. Troubles of Heroines aswell. These are the big nsfw Mods atm in this List but some People might not like this Content.
-So if you dont wanna use it feel free to disable it and all of its PATCHES.
-
-
-#### Post Installation
-#### Manual Settings
-
-"Set CompassCheat to 1". Then save and reload the save ( Probably restart the Game ). ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
-
-Please remove the Autosave Feature in Skyrim Unbound for less Crashes on Character Creation for Future new Characters you create.
-
-Please change the Hotkey from the Where are you MCM Menu for opening the Menu. Normal Key is F3 and that interferes with our Stances Mod. So pls rebind that. I use it on Comma Key and it works.
-
-Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice you will pick Voice Slot 1. Then a new Screen opens. On the right side you will manually enter the Name of your Character, beware Typos. In the top right you can listen to Samples.
-Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
-You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
-
-Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
-
-NOTE: DO NOT USE VANILLA as A START
 
 
 #### Survival Mode
 
-Do not use Survival Mode. It has been reported that with Survival there are many Freezes and Stuff and your Game will stop working!
-
+I dont know if it works, but it probably will.
 
 
 
@@ -200,9 +162,4 @@ L Button = Hunters Pride ( Turning this on and off lets you do things to downed 
 
 ß Button = Free Cam ( Button next after 0, can be adjustet. Lets you go into free Cam in Sex Scene, or well in general. Dont use auto Freecam.
 
-
-On this Link here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
-On the Page above you can check whats not compatible with Sexlab+
-I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints dont work yet, or dont work that well. I thought i just tell people upfront.
-PS: We dont have Intelligent Dirty Talk working atm in an Alpha State aswell.
 
