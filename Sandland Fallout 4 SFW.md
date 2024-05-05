@@ -12,6 +12,41 @@ It is important you do the Steps to make Magnum Opus running, since this List is
 
 Release Beta Test Version of Sandland, you need the latest Next gen Update from Fallout 4.
 
+#### Features
+
+- Magnum Opus Baselist with some Changes
+- Desert Theme
+- Reactor ENB
+- 100+ New Monsters, Creatures and Animals.
+- New Unique Bosses and Naming System.
+- Different Values and Sizes for Monsters
+- 50+ new Weapons
+- 2000+ new Pieces of Clothing
+- 50+ new Armors
+- Unique Replacers
+- Alias System
+- Extendet Characters Creation with lots of Hairs, Tatoos, Colors, Overlays and Eyes
+- Quest Mods Expansions such as South of the Sea and 3DNPC and CSEP DLC Size Quest Mod and many more.
+- FULL Sim Settlements 2 Package
+- Many UI`s to choose from
+- Highly cusomizable MCM Menus
+- Complete Perk Overhaul via LevelUpMenuEx and You Are Exceptional
+- Gameplay Difficulty with Scourge
+- A LOT of Settlement Mods
+- Heather Casdin and Ellen Companions
+- Lootables Crates ( They werent open before, including reduced Loot Patch for Balance )
+- Complete Audio Overaul
+- Complete Overhaul of GUN VFX
+- FIS + Complex Sorter
+- All Vanilla Animations are overhauled if you like to play in third Person
+- New Laser Designator allows you to call in Artillery, Nukes and Cruise Missiles if you fullfill the Quest Requirements. You can also call in CAS Support in form of BRRRRRRRRT. Its explained in a Lorefriendly Way why it works if you choose to utilize it
+- Water Overhauled
+- High Poly Faces and the Stuff
+- Vanilla Uniques Framework, meaning some Uniques got replaced with even uniquer Stuff
+- SKK Fast Start instead of Start me UP bcs of Compability with You are Expectional
+- Grave Digger ( You can Bury Enemies and also flatten them to make them completely dissapear. You can also build Graveyards now
+- The Rebuild Collection AIO ( You can now restore all Settlements to there former Glory )
+
 
 
 #### Accounts
@@ -157,5 +192,27 @@ Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. It
 Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
 
 Reminder: Change the VATS key ingame in Controls, so your VAFS aka Slow Motion gets picked up and is usable.
+
+
+#### Goals and Issues
+
+The most Glaring Issue atm is LOD. Sometimes its totally fine, but sometimes distant ROCKS/Mountains or Power Lines or Houses are very low Res, if that happens, Save and Reload mostly fixes it. If you have a Solution for this possibily, hit me up in Discord.
+Since this is basicly a Desert now, we see way more Stuff that we normally dont see bcs of Tress and all that Stuff, but on the other Side, we get really good FPS bcs less Foliage and Trees.
+
+Now the Things that need to be more tested and Adjusted including Feedback.
+
+- JD`s Weapon Overheating. I love the Mod, fits the Desert, but needs Finetuning.
+
+- Killtips and Sounds. Killtips aka the Symbol in the topleft that shows aka confirms your Kills, can be turned off, some might like it some not.
+
+- Weather from NAC needs tweaking bcs not everything fits.
+
+- Monster Mods in general like Unique Bosses and Mutant Menagerie. See how they are and how they fit. Some Enemies can be spongy but most can be adjusted in the MCM Menu. Make a List when you find out whos way too spongy.
+
+- If you encounter a crash, only report it if you can recreate the crash atleast 3 times in a row. Tell us what Item or Place from what Mod.
+
+- FGEP Scourge Patch not out YET so we waiting on that.
+
+- More Soon.
 
 
