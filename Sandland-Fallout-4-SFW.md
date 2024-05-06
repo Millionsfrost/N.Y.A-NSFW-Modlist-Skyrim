@@ -66,7 +66,7 @@ FSM Skin Textures( Warning Nudity ) : https://www.loverslab.com/topic/171099-fsm
 ( Download the left File on the Bottom , the one with more Downloads )
 
 OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/ 
-( Only 1 File to download here )
+( Only 1 File to download here, that is the CBBE Version. )
 
 
 
