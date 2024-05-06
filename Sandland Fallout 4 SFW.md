@@ -170,6 +170,8 @@ Once you have everything set in Wabbajack, hit GO and let it do its thing. It mi
 
 #### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
+#### If you play the List and press New Game, Wait 20-30 Seconds and hit Enter. Then you get to the Char Screen. I know its odd but its the Way it works.
+
 After you start the Game, and made your Character,it will ask you to wait in the Room until all the Things are initiliazed, please do so. If you load immediatly after Char Creation, something went wrong. Once done, the Coice is yours, i prefer Vault 111 Start. When you are in the Game World, please open MCM Menu and go to MCM Settings and RUN the Sandland Preset, then you are done.
 
 
