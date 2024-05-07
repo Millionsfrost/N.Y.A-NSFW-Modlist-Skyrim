@@ -69,7 +69,7 @@ OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/
 ( Only 1 File to download here, that is the CBBE Version. )
 
 ZGC Hairpack : https://www.loverslab.com/files/file/7877-zgc-hairpack/
-( Only 1 File to download
+( Only 1 File to download )
 
 
 
