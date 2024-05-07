@@ -224,3 +224,44 @@ Now the Things that need to be more tested and Adjusted including Feedback.
 - More Soon.
 
 
+
+#### This Step is for Widescreen Users Only
+
+Introduction - Provided by hades (lorehades on Discord)
+
+Hello everyone! This is my very first guide, so if you have any questions that aren't covered here, please feel free to reach out to me.
+
+#### Resolution Setup
+
+Ensure your resolution is properly set in your Fallout 4 .ini file. This is crucial for optimal performance, especially if you're using an ultrawide or super ultrawide monitor.
+
+21x9 and 32x9 Support
+
+When playing Fallout 4 on an ultrawide or super ultrawide monitor, you may notice that native support is less than ideal—it's just stretched. Fortunately, there are two mods available, created by the talented Aignistar, that cater to different monitor ratios:
+
+21:9: Super Ultra Wide Interface (21x9)
+32:9: Super Ultra Wide Interface (32x9)
+After downloading one of these mods (via Mod Organizer or manual installation), you'll find it comes with a FOmod. While having options is great, I'll guide you on which ones are essential for optimal performance in the wasteland.
+
+#### FOmod Instructions
+
+First Step
+
+Ensure you have the following mods installed:
+
+XDI
+Levelup Menuex
+Looksmenu
+Companion Command Menu Overhaul
+Pre-war Binoculars
+Second Step
+
+Select all FallUI options and opt for the vanilla Lockpicking menu.
+
+Third Step
+
+For your HUD, choose FallUI; the rest are based on personal preference. Also, enable the Wheel Menu and Baka Fullscreen.
+
+Note: The wheel menu (activated using the G key) may appear offset on most ultrawides. Adjust the X and Y values in the MCM settings to your liking. If needed, I can share my settings, as I use a 5120x1440 32x9 resolution. However, this adjustment is ultimately based on preference. Additionally, be aware that Baka Fullscreen may display pixelated text, especially at higher resolutions. I recommend disabling it via the MCM instead of through Mod Organizer to avoid potential issues.
+
+
