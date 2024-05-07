@@ -46,7 +46,6 @@ Size: Downloads - 158 GB | Installation - 262 GB
 - Water Overhauled
 - High Poly Faces and the Stuff
 - Vanilla Uniques Framework, meaning some Uniques got replaced with even uniquer Stuff
-- SKK Fast Start instead of Start me UP bcs of Compability with You are Expectional
 - Grave Digger ( You can Bury Enemies and also flatten them to make them completely dissapear. You can also build Graveyards now
 - The Rebuild Collection AIO ( You can now restore all Settlements to there former Glory )
 
