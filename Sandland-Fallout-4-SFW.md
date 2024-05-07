@@ -183,6 +183,10 @@ After you start the Game, and made your Character,it will ask you to wait in the
 I dont know if it works, but it probably will.
 
 
+#### Vault 111 Bugs aka Monster aka Boombug aka Forager Ant
+
+Feel free to use console kill commands for there. There is no way we can balance this beforehand.
+
 
 #### Buttons
 
