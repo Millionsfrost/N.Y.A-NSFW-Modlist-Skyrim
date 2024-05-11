@@ -168,6 +168,11 @@ You can also ignore all this and just dont use this Feature if you dont like Voi
 
 Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
 
+#### WARNING
+
+If your Sexlab+ doesnt get started correct via MCM Recorder, ignore it and do it manually afterwads yourself. Just open it in MCM and click Install. Also activate "Disable Victim Controls" and disable "Auto Advance Stages". 
+
+
 NOTE: DO NOT USE VANILLA as A START
 
 
