@@ -187,6 +187,12 @@ Do not use Survival Mode. It has been reported that with Survival there are many
 
 Middle Mouse out of Combat = Masturbation, but also you can try to seduce People while looking at them via your Sexcraft Perk Tree. ( You can change Sexcraft Key via Console Command, how to is on Sexcraft Modpage. )
 
+To change the sex key use "set SCConfHotkeySex to XX" where XX is the DX Scan Code, see https://ck.uesp.net/wiki/Input_Script#DXScanCodes
+To enable/disable the curves perk controlling weight use "set SCConfCurvesEnableWeightUpdate to 0/1" where 0 is off, 1 is on (Default is 1)
+lots of other settings, see full list at https://www.loverslab.com/files/file/31540-sexcraft-a-speechcraft-overhaul-beta/
+
+
+
 ß Button = Free Cam ( Button next after 0, can be adjustet. -> -_ Button = Free Cam ( Button next after 0, can be adjusted. For Sexlab/Scenes.
 
 Middle Mouse = Target Lock
