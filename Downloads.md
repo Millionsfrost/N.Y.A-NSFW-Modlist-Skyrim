@@ -6,7 +6,7 @@ HOSTED SITES: LOVER'S LAB, Patreon, Subsrcibestar, Mega, Mediafire
 Pandora Behavior Engine
 URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
 
-File: Pandora_Behaviour_Engine.zip from the top where it says Pandora Behaviour Engine v1.1.6-alpha
+File: Pandora_Behaviour_Engine.zip , scroll down alot to find Pandora Behaviour Engine v1.1.6-alpha and get the file there.
 
 
 
