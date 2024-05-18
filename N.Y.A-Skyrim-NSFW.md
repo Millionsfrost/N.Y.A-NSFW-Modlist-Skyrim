@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/LLmFq2o.png "Logo Title Text 1")
-First things first: this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.
+First things first: this list contains adult content, and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.
 Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
 
@@ -7,32 +7,22 @@ Support and general talk about N.Y.A you can find on the following Discord: http
 #### N.Y.A-NSFW-Modlist-Skyrim
 
 Release Beta Test Version of N.Y.A. The List runs on 16640 Version. AE on its own.
-You still need latest Skyrim Version + AE Content. You get the AE Content when you start Vanilla and Download it all atleast once.
+You still need latest Skyrim Version + AE Content. You get the AE Content when you start Vanilla and Download it all at least once.
 
 
 
 #### Accounts
 
-In terms of accounts you will need: Nexus Account, Premium would be best.
+In terms of accounts you will need a Nexus Account. Premium would be best to prevent needing to manually click download many times and get faster speeds.
 
-ALSO WARNING: You cant login anymore into Loverslab in the Wabbajack Settings. You have todo it now when the first Loverslab Mod pop up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
-
-
-#### Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
-
-https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads
+ALSO WARNING: You can't login anymore into Loverslab in the Wabbajack Settings. You have to do it now when the first Loverslab Mod pops up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
 
 
-#### Nexus Premium Account
+#### Manual Downloads
 
-LoversLab Account - for manual downloads through your browser.
+Wabbajack has bugs downloading some mods. Please download these mods manually before downloading the list with Wabbajack. Otherwise, you are likely to encounter confusing errors in Wabbajack.
 
-
-
-#### Installation
-
-I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. All links to mods hosted on LoversLab can be found here.
-( https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md )
+List of mods: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
 
 When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.
 After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the N.Y.A downloads to be stored in. If you have an existing Skyrim mods downloads folder from other modlists or your own modding, use that as you might have mods N.Y.A needs already, meaning you won't need to download those mods again.
@@ -86,9 +76,8 @@ Done
 ![alt text](https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png "Logo Title Text 1")
 
 #### Setup your Antivirus
-Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
-How do I do this, you ask? Click here to find out how.
+Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
 Note: If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
 
@@ -96,13 +85,13 @@ Note: If you're using Webroot or any other free 3rd party antivirus it's likely 
 
 #### Disable Steam Overlay
 
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Skyrim Special Edition in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
+The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way, and you can do so by heading into Steam, right clicking on Skyrim Special Edition in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
 
 
 #### Set game language to English
 
-Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim Special Edition in your game library and click Properties > Language > Select English.
+Wabbajack and the modding tools out there only support the English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim Special Edition in your game library and click Properties > Language > Select English.
 
 
 
@@ -132,33 +121,27 @@ That's right - start the game. You need to let the game do its initial start up 
 
 #### Wabbajack
 
-Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
+Installing the list is straight forward: Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
-Set the installation location to a folder on the root of a drive, something like C:\WoD. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim Special Edition modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
+Set the installation location to a folder on the root of a drive, something like C:\NYA. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim Special Edition modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
 
-Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
+Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download, and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
-You can verify your Install here
-
-https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
-
+You can verify your Install here: https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
 
 
 
 #### Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
-#### In the MCM Menu Skyrim Undbound you do your Settings and then press Lets go. When you are done with Character Creation please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
+#### MCM Recordings
 
-#### If you want a more stable Experience aka less Script Heavy Stuff, disable everything in relation to Paradise Halls, Diary of Mine and all its Addons. They are all close together in Mo2. Troubles of Heroines aswell. These are the big nsfw Mods atm in this List but some People might not like this Content.
-So if you dont wanna use it feel free to disable it and all of its PATCHES.
+In the MCM Menu Skyrim Unbound, press Lets go. When you are done with Character Creation, please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
 
 
 #### Post Installation
 #### Manual Settings
 
-"Set CompassCheat to 1". Then save and reload the save ( Probably restart the Game ). ( If you want Compass back, other Lorefriendly Way is Campfire Perks )
-
-Please remove the Autosave Feature in Skyrim Unbound for less Crashes on Character Creation for Future new Characters you create.
+"Set CompassCheat to 1". Then save, quit Skyrim, and re-load your save. ( If you want the compass back, the lorefriendly way is Campfire Perks )
 
 Please change the Hotkey from the Where are you MCM Menu for opening the Menu. Normal Key is F3 and that interferes with our Stances Mod. So pls rebind that. I use it on Comma Key and it works.
 
@@ -166,11 +149,16 @@ Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice yo
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
 You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
 
-Currently used version of Better Third Person Selection is 0.6.0. It was reported by some people that it can cause issues with Faster HDT-SMP and end up crashing the game on loading screens. If you experience such issues, please revert the Mod back to 0.5.9 and message me so i can think about using 0.5.9 in general for the List. Also send Crash Reports if you crash ONLY ON THE SAME SPOT more then twice. https://www.skyrimcrashdecoder.com/ Can be used to analyze Crash Reports but sometimes spits out nonsense Mods, so beware.
+In the Sexlab+ MCM, activate "Disable Victim Controls" and disable "Auto Advance Stages".
+
+The game defaults to Novice difficulty. You should change this to at least Apprentice for a balanced play through.
+
+SexLab and the key to target enemies are both both to mouse 3 by default. Change SexLab by running "SCConfHotkeySex to XX" in your console where XX is the DX Scan Code, see https://ck.uesp.net/wiki/Input_Script#DXScanCodes
+
 
 #### WARNING
 
-If your Sexlab+ doesnt get started correct via MCM Recorder, ignore it and do it manually afterwads yourself. Just open it in MCM and click Install. Also activate "Disable Victim Controls" and disable "Auto Advance Stages". 
+If your Sexlab+ doesn't get started correct via MCM Recorder, ignore it and do it manually afterwads yourself. Just open it in MCM and click Install.
 
 
 NOTE: DO NOT USE VANILLA as A START
@@ -205,13 +193,17 @@ V Button = Block
 
 < Button = Additional Attack ( Every Weapon Type has a Special Attack, if you equip an Ashes of War, same Button uses that. < Button is left of Y, in US cases Z i think. You can change this in the Additional Attack MCM.
 
-L Button = Hunters Pride ( Turning this on and off lets you do things to downed Enemies )
+L Button = Hunters Pride ( Turning this on and off lets you interact with downed Enemies, taking actions like capturing them )
 
 ß Button = Free Cam ( Button next after 0, can be adjustet. Lets you go into free Cam in Sex Scene, or well in general. Dont use auto Freecam.
 
 
-On this Link here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
-On the Page above you can check whats not compatible with Sexlab+
-I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints dont work yet, or dont work that well. I thought i just tell people upfront.
-PS: We dont have Intelligent Dirty Talk working atm in an Alpha State aswell.
+#### SexLab+
+
+This list uses SexLab+, a newer version of SexLab.
+
+You can check for additional SexLab mod compatibility here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
+
+I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints don't work yet, or don't work that well. I thought i just tell people upfront.
+PS: We don't have Intelligent Dirty Talk working atm in an Alpha State aswell.
 
