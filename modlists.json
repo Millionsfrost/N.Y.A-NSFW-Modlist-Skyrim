@@ -42,5 +42,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-05-19T13:17:18.7384324Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "Sandland",
+    "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul.",
+    "author": "Vermillion",
+    "maintainers": [
+      "github/Millionsfrost"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Desert Theme",
+      "You are Exceptional Perks System",
+      "Quest Mods",
+      "Outfit Mods",
+      "Sim Settlements 2",
+      "Gore",
+      "New Animation System"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
+      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
+      "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_696b96c2-2d83-45c2-9c3b-4fee496d4724",
+      "machineURL": "sandland",
+      "discordURL": "https://discord.gg/V38xZ6CtzQ"
+    },
+    "download_metadata": {
+      "Hash": "S2BTwxMZpPo=",
+      "Size": 270834583,
+      "NumberOfArchives": 1309,
+      "SizeOfArchives": 202205439854,
+      "NumberOfInstalledFiles": 145952,
+      "SizeOfInstalledFiles": 306150847344
+    },
+    "version": "1.7",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-05-19T13:17:18.7384324Z",
+    "repositoryName": ""
+      }
 ]
