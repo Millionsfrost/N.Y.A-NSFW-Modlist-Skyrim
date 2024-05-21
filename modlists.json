@@ -69,21 +69,21 @@
     "links": {
       "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
-      "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_0b6263fd-e4ef-4f4b-874d-ff6c2a720429",
+      "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_a80c98a2-2fa5-4f3a-a6fc-5c3d88d83371",
       "machineURL": "sandland",
       "discordURL": "https://discord.gg/V38xZ6CtzQ"
     },
     "download_metadata": {
-      "Hash": "KC+G2RjJBlc=",
-      "Size": 270835546,
-      "NumberOfArchives": 1310,
-      "SizeOfArchives": 202313662226,
+      "Hash": "cgDunY+kC6U=",
+      "Size": 270836121,
+      "NumberOfArchives": 1309,
+      "SizeOfArchives": 201749934853,
       "NumberOfInstalledFiles": 145942,
-      "SizeOfInstalledFiles": 306275224982
+      "SizeOfInstalledFiles": 306275224947
     },
     "version": "1.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-20T23:36:52.3122386Z",
+    "dateUpdated": "2024-05-21T00:00:39.953644Z",
     "repositoryName": ""
   }
 ]
