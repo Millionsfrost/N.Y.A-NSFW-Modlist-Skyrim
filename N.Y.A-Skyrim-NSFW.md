@@ -207,3 +207,24 @@ You can check for additional SexLab mod compatibility here: https://gist.github.
 I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints don't work yet, or don't work that well. I thought i just tell people upfront.
 PS: We don't have Intelligent Dirty Talk working atm in an Alpha State aswell.
 
+
+
+#### Simple Super Ultrawide (32:9) Guide
+
+Created for N.Y.A
+This guide is tailored specifically for 32:9 users. Currently, Edge UI only offers support for 21:9, so follow these steps to optimize your experience for 32:9.
+
+Steps to Set Up:
+Download the Required Mod: Untarnished UI - Super Ultrawide Fix by TheWalkyrian
+
+Run the FOMOD Installer, during the installation, select the Quick Loot System EE option.
+Disable Conflicting UI Elements:
+
+-Edge UI Wheeler
+-Edge UI
+
+These elements will conflict with the setup, so make sure they are disabled.
+
+You're All Set!
+After completing these steps, you'll be ready to play with the 32:9 setup. Hopefully, Edge UI will offer support for 32:9 in the future.
+
