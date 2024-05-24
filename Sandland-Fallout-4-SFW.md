@@ -60,9 +60,6 @@ So yeah there are like 2 Mods from Loverslab, a Skin mod, and a Physics Mod.
 
 #### Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
 
-FSM Skin Textures( Warning Nudity ) : https://www.loverslab.com/topic/171099-fsm-body-textures-redux-extreme-backup-of-deleted-mods-from-nexusmods/ ( FSM Got removed so for now you dont need it anymore. I used another Skinmod from nexus. )
-( Download the left File on the Bottom , the one with more Downloads )
-
 OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/ 
 ( Only 1 File to download here, that is the CBBE Version. )
 
