@@ -137,6 +137,9 @@ You can verify your Install here: https://github.com/Oghma-Infinium/Modding-Guid
 
 In the MCM Menu Skyrim Unbound, press Lets go. When you are done with Character Creation, please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
 
+#### IMPORTANT: I removed Sexlab + from the MCM recording bcs the Error doesnt go away. You need to manually install it now on every Name Game and add the 2 Settings: Turn ON ( Disable Victim Controls ) and Turn OFF ( Auto Advances Stages ) Added this to the Readme aswell.
+Installing Sexlab is Easy. After the MCM Recording has finished, you just go to Sexlab MCM and click Install. Then you let it do its Thing. After that do the 2 Settings i mentioned above.
+
 
 #### Post Installation
 #### Manual Settings
