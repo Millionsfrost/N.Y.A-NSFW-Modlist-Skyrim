@@ -176,6 +176,11 @@ Once you have everything set in Wabbajack, hit GO and let it do its thing. It mi
 
 After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Beta Preset in the MCM Settings, after you leave Vault 111 thank you very much. Dont forget to put Vats Key in Controls ingame on a Key you dont use, so VAFS can be used with Q instead.
 
+Please Check your NACX Settings and verify if they look like in the Screenshot. If not, tweaks like manually like you see on the Screenshot.
+
+![image](https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/assets/10090487/015a4f62-1498-449b-b447-9429bad72ff3)
+
+
 
 
 #### Survival Mode
