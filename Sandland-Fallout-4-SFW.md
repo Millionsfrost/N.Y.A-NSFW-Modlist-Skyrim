@@ -55,7 +55,7 @@ Size: Downloads - 158 GB | Installation - 262 GB
 In terms of accounts you will need: Nexus Account, Premium would be best.
 
 ALSO WARNING: You cant login anymore into Loverslab in the Wabbajack Settings. You have todo it now when the first Loverslab Mod pop up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
-So yeah there are like 2 Mods from Loverslab, a Skin mod, and a Physics Mod.
+So yeah there are like 2 Mods from Loverslab, a Hair mod, and a Physics Mod.
 
 
 #### Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
@@ -66,7 +66,7 @@ OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/
 ZGC Hairpack : https://www.loverslab.com/files/file/7877-zgc-hairpack/
 ( Only 1 File to download )
 
-
+You put the Mods you downloaded into the Sandland Downloads Folder ofc! 
 
 
 #### Nexus Premium Account
