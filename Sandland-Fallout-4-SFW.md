@@ -50,6 +50,26 @@ Size: Downloads - 158 GB | Installation - 262 GB
 
 
 
+#### Sandland Modlist: Open Beta Release Version
+Welcome to the Open Beta release of Sandland, a comprehensive modlist that transforms every aspect of the game with key mods such as Scourge, True Damage, Badlands 2, and Desperados. This list, built on the Magnum Opus baselist, incorporates a desert theme and utilizes the Reactor ENB for enhanced visuals.
+
+Sandland introduces over 100 new monsters, creatures, and animals, each with unique names, values, and sizes, along with new unique bosses to challenge. You'll also find over 50 new weapons, more than 2,000 new pieces of clothing, and 50+ new armors. The list includes unique replacers and an alias system, adding depth and variety to your encounters.
+
+Character creation is vastly expanded with numerous options for hairstyles, tattoos, colors, overlays, and eye colors. The modlist includes extensive quest expansions like South of the Sea, 3DNPC, CSEP DLC-sized quest mods, and many more. The full Sim Settlements 2 package is also integrated, offering a rich settlement-building experience.
+
+Customize your gameplay with multiple UI options and highly configurable MCM menus. The complete perk overhaul is achieved through LevelUpMenuEx and You Are Exceptional, while gameplay difficulty is enhanced with Scourge. There are numerous settlement mods included, along with companions Heather Casdin and Ellen.
+
+Lootable crates, previously unopenable, now contain balanced loot thanks to a reduced loot patch. The game’s audio has been completely overhauled, as have the gun VFX. FIS + Complex Sorter ensures your inventory stays organized. All vanilla animations are overhauled for an improved third-person experience.
+
+A new laser designator allows you to call in artillery, nukes, and cruise missiles after fulfilling quest requirements. You can also call in CAS support, explained in a lore-friendly manner. The water has been overhauled, and high-poly faces enhance character visuals.
+
+The Vanilla Uniques Framework has been implemented, replacing some unique items with even more unique counterparts. The Grave Digger feature allows you to bury enemies and flatten them, making them disappear entirely, and even build graveyards. The Rebuild Collection AIO lets you restore all settlements to their former glory.
+
+We use the CBBE Reduced (Nevernude) with dismemberment to maintain a balanced and immersive experience. Dive into Sandland and explore the countless improvements and enhancements that make this modlist a unique and engaging experience.
+
+
+
+
 #### Accounts
 
 In terms of accounts you will need: Nexus Account, Premium would be best.
