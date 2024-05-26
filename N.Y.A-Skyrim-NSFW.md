@@ -18,13 +18,6 @@ Every possible graphical element has been enhanced. We use the Picho ENB to ensu
 
 
 
-#### N.Y.A-NSFW-Modlist-Skyrim
-
-Release Beta Test Version of N.Y.A. The List runs on 16640 Version. AE on its own.
-You still need latest Skyrim Version + AE Content. You get the AE Content when you start Vanilla and Download it all at least once.
-
-
-
 #### Accounts
 
 In terms of accounts you will need a Nexus Account. Premium would be best to prevent needing to manually click download many times and get faster speeds.
