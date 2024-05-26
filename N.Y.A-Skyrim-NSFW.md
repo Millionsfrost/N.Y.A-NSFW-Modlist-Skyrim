@@ -3,7 +3,7 @@ First things first: this list contains adult content, and you must be of legal a
 Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
 
-####N.Y.A Mod List Version 2.0+
+#### N.Y.A Mod List Version 2.0+
 This list contains adult content, so you must be of legal age in your country to access it. In most countries, this means 18+, while in others, it’s 21+. Please ensure you meet the age requirement in your country.
 
 The NSFW elements in this list are designed to be non-intrusive. NPCs will not be seen in overly revealing armor, and you won't encounter unwanted interactions like those in mods such as Troubles of Heroine. This version of N.Y.A runs on Skyrim version 1.6.640, and Wabbajack will automatically handle the downgrade for you. However, you will need the Anniversary Edition and the latest Skyrim version from Steam.
