@@ -159,7 +159,7 @@ Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice yo
 Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
 You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
 
-In the Sexlab+ MCM, activate "Disable Victim Controls" and disable "Auto Advance Stages".
+In the Sexlab+ MCM, do not activate "Disable Victim Controls" and disable "Auto Advance Stages".
 
 The game defaults to Novice difficulty. You should change this to at least Apprentice for a balanced play through.
 
