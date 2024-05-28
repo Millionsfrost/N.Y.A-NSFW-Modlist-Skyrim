@@ -281,7 +281,7 @@ File: SLAL_M2MAnimations_SE_v20210222.7z
 FluffyFox SLAL Pack
 URL: https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-18122023
 
-File: FlufyFox_SLAL_SE_Creature 3.0.rar
+File: FlufyFox_SLAL_SE_C 3.2.1.rar
 
 
 
@@ -295,7 +295,7 @@ File: 3jiou-SE-19-12-2019.zip
 FluffyFox SLAL Pack
 URL: https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-18122023
 
-File: FlufyFox_SLAL_SE_Human.rar
+File: FlufyFox_SLAL_SE_Human 3.1.2.rar
 
 
 
