@@ -97,10 +97,8 @@ Ensure the download location matches the installation location or use a common d
 Verify your install: Verifying Your Modlist Install
 
 #### Post Installation
-MCM Recordings:
-In the MCM Menu Skyrim Unbound, press "Let’s go" after you configured how and where you wanna start. Read carefully.
-After character creation, click "Stay Here".
-Then go into the MCM Menus and go to MCM Recorder. Run N.Y.A Nr1 Recording. When everything is finished (Let Sexlab Install in Peace), click enter and then Continue. Sexlab install itself now. Make 100% sure that Disable Victim Controls and Auto Advance is turned OFF.
+MCM Recordings: In the MCM Menu Skyrim Unbound, press "Let’s go" after you configured how and where you wanna start. Read carefully. After character creation, click "Stay Here". Then go into the MCM Menus and go to MCM Recorder.
+Run N.Y.A Nr1 Recording. When everything is finished (Let Sexlab Install in Peace),  Sexlab installs itself now. Make 100% sure that Disable Victim Controls and Auto Advance is turned OFF. Then click enter and then Continue.
 
 #### Manual Settings:
 Set CompassCheat to 1. Then save, quit Skyrim, and reload your save. (If you want the compass back, the lore-friendly way is through Campfire Perks.)
