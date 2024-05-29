@@ -19,179 +19,112 @@ Every possible graphical element has been enhanced. We use the Picho ENB to ensu
 
 
 #### Accounts
+Nexus Account:
+You will need a Nexus Account. Premium is recommended to avoid needing to manually click download many times and to get faster speeds.
 
-In terms of accounts you will need a Nexus Account. Premium would be best to prevent needing to manually click download many times and get faster speeds.
-
-ALSO WARNING: You can't login anymore into Loverslab in the Wabbajack Settings. You have to do it now when the first Loverslab Mod pops up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
-
+Loverslab Login:
+You can't log in to Loverslab through Wabbajack settings anymore. You have to log in when the first Loverslab mod pops up. If it works the first time, great. If not, only log in, then restart the install.
 
 #### Manual Downloads
+Wabbajack Bugs: Wabbajack has bugs downloading some mods. Download these mods manually before downloading the list with Wabbajack to avoid errors.
 
-Wabbajack has bugs downloading some mods. Please download these mods manually before downloading the list with Wabbajack. Otherwise, you are likely to encounter confusing errors in Wabbajack.
+#### List of Mods:
+Mods to Download Manually: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
 
-List of mods: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
+#### Mega Downloads:
+Always right-click > Standard Download. Mega defaults to "Download as ZIP," which recompresses files and Wabbajack won't recognize them.
 
-When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.
-After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the N.Y.A downloads to be stored in. If you have an existing Skyrim mods downloads folder from other modlists or your own modding, use that as you might have mods N.Y.A needs already, meaning you won't need to download those mods again.
+#### Download Folder:
+Put all downloaded mods into the folder where you want the rest of the N.Y.A downloads to be stored. If you have an existing Skyrim mods downloads folder, use that to avoid downloading already existing mods.
 
+#### Preparation:
+Microsoft Visual C++ Redistributable Packages:
+Install this package, needed by MO2. If you’ve used MO2 before, you might already have it. If not, download the x64 version under "Visual Studio 2015, 2017, and 2019".
 
+#### .NET Runtime:
+Download and install the .NET runtime: Download .NET Runtime
 
-#### Preparation
+#### Setup Your Page File:
+Hold down the LEFT Windows key and press R.
+Type systempropertiesadvanced in the run box and press ENTER.
+Under "Performance", click "Settings...".
+Switch to the "Advanced" tab.
+Under "Virtual Memory", click "Change...".
+Uncheck "Automatically manage...".
+Select your fastest SSD in the list of drives.
+Check "Custom Size".
+Set Initial Size to 20480.
+Set Maximum Size to 40000.
+Press "Set".
+Press OK, then APPLY, then OK.
+Restart your PC to apply the page file setting.
 
-Install Microsoft Visual C++ Redistributable Packages
-This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
+#### Setup Your Shader Cache:
+Increase the shader cache size via Nvidia Control Panel to at least 10GB. For AMD users, similar steps might apply.
 
+#### Antivirus Settings:
+Exclude your Wabbajack folder and your NYA installation folder from your antivirus’ real-time protection. Disable or uninstall any third-party antivirus to avoid issues with usvfs_proxy_x86.exe.
 
+#### Disable Steam Overlay:
+Turn off the Steam overlay to prevent issues with ENBs: Right-click on Skyrim Special Edition in your Steam library, click Properties > General, and deselect "Enable Steam Overlay while in-game".
 
-#### Download Visual C++ Redistributable Package and the Thing underneath it.
+#### Set Game Language to English:
+Right-click on Skyrim Special Edition in your Steam library, click Properties > Language, and select English.
 
-Also get the Thing underneath, i think it was needet for Sexlab+.
+#### Change Steam's Updating Behavior:
+Right-click on Skyrim in your Steam library, click Properties > Updates, and change "Automatic Updates" to "Only update this game when I launch it". Disable Steam Cloud as well.
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.15-windows-x64-installer
+#### Clean Current Skyrim Special Edition Installation
+If Already Installed:
+Right-click on Skyrim Special Edition in your Steam library, click Properties > Local Files > Browse.
+Uninstall the game via Steam.
+Check the explorer window for leftover files and delete them.
+Delete the Skyrim Special Edition folder in %LOCALAPPDATA%.
+Delete the Skyrim Special Edition folder in Documents\My Games.
 
+#### Reinstall Skyrim Special Edition:
+Install Skyrim Special Edition in a dedicated folder on the root of a drive, e.g., C:\SteamLibrary.
 
+#### Start Skyrim Special Edition:
+Start the game to create registry entries and default config files. Then close the game.
 
-#### Setup your Page File
+#### Wabbajack Installation
+Installation:
+Set the installation location to a folder on the root of a drive, like C:\NYA.
+Ensure the download location matches the installation location or use a common download folder for multiple modlists.
 
-Skyrim modlists need a large amount of memory purely because of the amount of stuff in them - especially modlists on the larger side or with a lot going on. For the best experience, you should setup a pagefile of at least 20GB - yes, even if you have a million GB of RAM. To setup your pagefile;
-
-Hold down the LEFT Windows key and press R
-Type in systempropertiesadvanced in the run box and then press ENTER
-Under the "Performance" option, click the "Settings..." button
-Switch to the "Advanced" tab
-Under "Virtual Memory", click the "Change..." button
-Uncheck Automatically manage... if it's checked
-Select your fastest SSD in the list of drives
-Check "Custom Size"
-Set Initial Size to 20480
-Set Maximum Size to 40000
-Press the "Set" button
-Press OK
-Press APPLY and then OK
-Restart your PC to apply the pagefile setting
-Setup your Shader Cache
-Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified out 4 installs. Increasing the shader cache size is done via the Nvidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with).
-
-AMD USERS: See this link for some manual tweaks that may or may not help.
-
-Open the NVidia Control Panel
-Head to Manage 3D Settings
-Scroll down in Global Settings to find the Shader Cache Size option
-Set the Shader Cache to at least 10GB
-Done
-
-![alt text](https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png "Logo Title Text 1")
-
-#### Setup your Antivirus
-
-Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your NYA installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
-
-Note: If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
-
-
-
-#### Disable Steam Overlay
-
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way, and you can do so by heading into Steam, right clicking on Skyrim Special Edition in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
-
-
-
-#### Set game language to English
-
-Wabbajack and the modding tools out there only support the English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim Special Edition in your game library and click Properties > Language > Select English.
-
-
-
-#### Change Steam's Updating Behavior
-
-If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
-
-Clean current Skyrim Special Edition installation
-If you have not yet installed Skyrim Special Edition, you can skip this part.
-
-Right click on Skyrim Special Edition in your game library and click Properties > Local Files > Browse.
-Uninstall the game via Steam - right click on Skyrim Special Edition in your game library and click Manage > Uninstall.
-Check the explorer window for any left over files - if there are any, delete them.
-Open Windows start menu/search and type in %LOCALAPPDATA%.
-Delete the Skyrim Special Edition folder.
-Head to Documents\My Games and delete the Skyrim Special Edition folder.
-Install Skyrim Special Edition
-Once you've done the steps above, you can now set Steam to download Skyrim Special Edition again but do not install Skyrim Special Edition to a protected folder, such as Desktop, Downloads or Program Files of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as C:\SteamLibrary. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
-
-
-
-#### Start Skyrim Special Edition
-
-That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again. Also download all AE Content.
-
-
-
-#### Wabbajack
-
-Installing the list is straight forward: Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
-
-Set the installation location to a folder on the root of a drive, something like C:\NYA. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim Special Edition modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
-
-Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download, and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
-
-You can verify your Install here: https://github.com/Oghma-Infinium/Modding-Guides/blob/main/tutorials/Verifying%20your%20Modlist%20Install.md
-
-
-
-#### Please read very carefully from here on!!!!!!!!!!!!!!!!!
-
-#### MCM Recordings
-
-In the MCM Menu Skyrim Unbound, press Lets go. When you are done with Character Creation, please click Stay Here. Then go into the MCM Menus and go to MCM Recorder. Please run N.Y.A Nr1 Recording. When everything is finished ( Let Sexlab Install in Peace ) then please click enter and then Continue.
-
-#### IMPORTANT: I removed Sexlab + from the MCM recording bcs the Error doesnt go away. You need to manually install it now on every Name Game and add the 2 Settings: Turn ON ( Disable Victim Controls ) and Turn OFF ( Auto Advances Stages ) Added this to the Readme aswell.
-Installing Sexlab is Easy. After the MCM Recording has finished, you just go to Sexlab MCM and click Install. Then you let it do its Thing. After that do the 2 Settings i mentioned above.
-
+#### Verification:
+Verify your install: Verifying Your Modlist Install
 
 #### Post Installation
-#### Manual Settings
+MCM Recordings:
+In the MCM Menu Skyrim Unbound, press "Let’s go" after you configured how and where you wanna start. Read carefully.
+After character creation, click "Stay Here".
+Then go into the MCM Menus and go to MCM Recorder. Run N.Y.A Nr1 Recording. When everything is finished (Let Sexlab Install in Peace), click enter and then Continue. Sexlab install itself now. Make 100% sure that Disable Victim Controls and Auto Advance is turned OFF.
 
-"Set CompassCheat to 1". Then save, quit Skyrim, and re-load your save. ( If you want the compass back, the lorefriendly way is Campfire Perks )
+#### Manual Settings:
+Set CompassCheat to 1. Then save, quit Skyrim, and reload your save. (If you want the compass back, the lore-friendly way is through Campfire Perks.)
 
-Please change the Hotkey from the Where are you MCM Menu for opening the Menu. Normal Key is F3 and that interferes with our Stances Mod. So pls rebind that. I use it on Comma Key and it works.
+Change the Hotkey from the Where are you MCM Menu for opening the Menu. The normal key is F3 and that interferes with our Stances Mod. So please rebind that. I use the Comma Key, and it works.
 
-Later in the Game you can open the Int. Voiced Ditry Talk. Under Assign Voice you will pick Voice Slot 1. Then a new Screen opens. On the right side you will manually enter the Name of your Character, beware Typos. In the top right you can listen to Samples.
-Under assign Voice as Default you pick Voice 2 for Females and for the Male one you can pick 1-8. Keep in Mind this is an Alpha Patch, so not everything might work 100%. Dialogue Options dont work yet.
-You can also ignore all this and just dont use this Feature if you dont like Voices during Scenes. But this Mod also has moaning and such, so i think you wanna use it. You can fiddle around with it as you want.
+Later in the game, you can open the Int. Voiced Dirty Talk. Under Assign Voice, pick Voice Slot 1. Then a new screen opens. On the right side, manually enter the name of your character (beware of typos). In the top right, you can listen to samples. Under Assign Voice as Default, pick Voice 2 for females and for the male one, you can pick 1-8. Keep in mind this is an alpha patch, so not everything might work 100%. Dialogue options don’t work yet. You can also ignore all this and just don’t use this feature if you don’t like voices during scenes. This mod also has moaning and such, so you might want to use it. You can fiddle around with it as you want. Normally its setup correct if you are female but it cant hurt to double Check.
 
-In the Sexlab+ MCM, do not activate "Disable Victim Controls" and disable "Auto Advance Stages".
+The game defaults to Novice difficulty. Yet another Difficulty Mods makes the Game harder the more you level up, but you do start on Novice.
 
-The game defaults to Novice difficulty. You should change this to at least Apprentice for a balanced play through.
+In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
-SexLab and the key to target enemies are both both to mouse 3 by default. Change SexLab by running "SCConfHotkeySex to XX" in your console where XX is the DX Scan Code, see https://ck.uesp.net/wiki/Input_Script#DXScanCodes
-
-
-#### WARNING
-
-If your Sexlab+ doesn't get started correct via MCM Recorder, ignore it and do it manually afterwads yourself. Just open it in MCM and click Install.
-
-
-NOTE: DO NOT USE VANILLA as A START
-
+#### NOTE:
+DO NOT USE VANILLA as A START
 
 #### Survival Mode
-
-Do not use Survival Mode. It has been reported that with Survival there are many Freezes and Stuff and your Game will stop working!
-
-
-
+Do not use Survival Mode. It has been reported that with Survival, there are many freezes and issues causing the game to stop working.
 
 #### Buttons
+Z ( Y ) = Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
-Middle Mouse out of Combat = Masturbation, but also you can try to seduce People while looking at them via your Sexcraft Perk Tree. ( You can change Sexcraft Key via Console Command, how to is on Sexcraft Modpage. )
+You can disable the Curves Perk Weight Function in Sexcraft MCM or turn it on.
 
-To change the sex key use "set SCConfHotkeySex to XX" where XX is the DX Scan Code, see https://ck.uesp.net/wiki/Input_Script#DXScanCodes
-To enable/disable the curves perk controlling weight use "set SCConfCurvesEnableWeightUpdate to 0/1" where 0 is off, 1 is on (Default is 1)
-lots of other settings, see full list at https://www.loverslab.com/files/file/31540-sexcraft-a-speechcraft-overhaul-beta/
-
-
-
-ß Button = Free Cam ( Button next after 0, can be adjustet. -> -_ Button = Free Cam ( Button next after 0, can be adjusted. For Sexlab/Scenes.
+ß Button = Free Cam (Button next to 0, can be adjusted.)
 
 Middle Mouse = Target Lock
 
@@ -201,40 +134,80 @@ C Button = Dodge Roll
 
 V Button = Block
 
-< Button = Additional Attack ( Every Weapon Type has a Special Attack, if you equip an Ashes of War, same Button uses that. < Button is left of Y, in US cases Z i think. You can change this in the Additional Attack MCM.
+< Button = Additional Attack (Every weapon type has a special attack. If you equip an Ashes of War, the same button uses that. The < button is left of Y, in US cases, Z. You can change this in the Additional Attack MCM.)
 
-L Button = Hunters Pride ( Turning this on and off lets you interact with downed Enemies, taking actions like capturing them )
+L Button = Hunter's Pride (Turning this on and off lets you interact with downed enemies, taking actions like capturing them.)
 
-ß Button = Free Cam ( Button next after 0, can be adjustet. Lets you go into free Cam in Sex Scene, or well in general. Dont use auto Freecam.
-
+ß Button = Free Cam (Button next to 0, can be adjusted. Lets you go into free cam in sex scenes or in general. Don’t use auto Freecam.)
 
 #### SexLab+
-
 This list uses SexLab+, a newer version of SexLab.
 
-You can check for additional SexLab mod compatibility here: https://gist.github.com/MissCorruption/887725102fb18d96d43e26555e008bbb 
-
-I should also mention Sexlab+ and Pandora are in an Alpha State, so some thing Like Orgasms/Sounds, Voices, Seperate Orgasms, Schlong Control Up/Down and some other Thints don't work yet, or don't work that well. I thought i just tell people upfront.
-PS: We don't have Intelligent Dirty Talk working atm in an Alpha State aswell.
-
+#### Note:
+Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly yet.
 
 
 #### Simple Super Ultrawide (32:9) Guide
+Created for N.Y.A. This only applies if you have a 32:9 super ultrawide monitor.
 
-Created for N.Y.A
-This guide is tailored specifically for 32:9 users. Currently, Edge UI only offers support for 21:9, so follow these steps to optimize your experience for 32:9.
+1. DDD:
+Download and Install Flawless Widescreen and Enable the Skyrim SE Plugin.
+Turn off and remove all Camera Mods (Customizable Camera, 3rd Person Camera Overhaul, etc.) from the game. You need the default vanilla camera, otherwise, this will not work.
 
-Steps to Set Up:
-Download the Required Mod: Untarnished UI - Super Ultrawide Fix by TheWalkyrian
+2. FWS:
+Launch the game.
+Enable the Skyrim SE Plugin under Installed Plugins.
+Change display resolution, aspect ratio, and other settings to match your monitor. Set HUD Safezone Adjustment to 0.800 (this adjusts HUD elements to stay within viewable area).
+Press Apply.
+Close FWS.
+Adjust SkyrimPrefs.ini to support 32:9 Aspect Ratio (located in C:\Users\YOURUSERNAME\Documents\My Games\Skyrim Special Edition).
 
-Run the FOMOD Installer, during the installation, select the Quick Loot System EE option.
-Disable Conflicting UI Elements:
+Find:
 
--Edge UI Wheeler
--Edge UI
+[Display]
+iSize H=
+iSize W=
 
-These elements will conflict with the setup, so make sure they are disabled.
+Replace with:
 
-You're All Set!
-After completing these steps, you'll be ready to play with the 32:9 setup. Hopefully, Edge UI will offer support for 32:9 in the future.
+[General]
+fdefaultfov=95
+fdefaultworldfov=95
+fdefault1stpersonfov=95
+
+Adjust FOV (Field of View) by adding or changing the following lines in Skyrim.ini (located in the same folder):
+
+[General]
+fdefaultfov=95
+fdefaultworldfov=95
+fdefault1stpersonfov=95
+Adjust any other settings based on your personal preferences and hardware capabilities.
+
+3. SSME:
+(Optional) Download and install Skyrim Startup Memory Editor (SSME) to enhance game performance by managing memory allocation better.
+Launch SSME and configure memory settings based on your system's RAM. The general rule is to allocate half of your available RAM to Skyrim. For example, if you have 16GB of RAM, allocate 8192MB (8GB) to Skyrim.
+Save and close SSME.
+
+4. Ultrawide UI Fixes:
+Install a mod like Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE to fix UI elements on super ultrawide screens. This will ensure menus and other UI elements display correctly.
+
+5. ENB:
+If using an ENB, adjust the aspect ratio settings in the enblocal.ini file located in the main Skyrim SE folder to support 32:9 aspect ratio.
+Find:
+
+[FIX]
+ForceBorderlessFullscreen=
+ForceBorderless=
+
+Replace with:
+
+[FIX]
+ForceBorderlessFullscreen=true
+ForceBorderless=true
+
+Save and close the file.
+
+6. Enjoy:
+Launch Skyrim SE and enjoy the game in glorious super ultrawide 32:9. Adjust in-game settings as necessary to ensure the best performance and visual quality.
+
 
