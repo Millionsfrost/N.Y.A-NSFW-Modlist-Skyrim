@@ -486,17 +486,6 @@ File: Please download the following:  Only 1 File
 
 
 
-Sexcraft
-URL: https://www.loverslab.com/files/file/31540-sexcraft-a-speechcraft-overhaul-beta/?do=download
-File: Please download the following:  Sexcraft_0.6.0.7z
-
-
-
-Sexcraft Vokrinator Black Patch
-URL: https://www.loverslab.com/topic/224863-sexcraft-a-speechcraft-overhaul-beta/page/4/#comment-4283019
-File: Please download the following:  Sexcraft Vokriinator Patch
-
-
 
 
 
