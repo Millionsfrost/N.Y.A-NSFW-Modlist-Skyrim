@@ -126,6 +126,10 @@ You can disable the Curves Perk Weight Function in Sexcraft MCM or turn it on.
 
 Middle Mouse = Target Lock
 
+H Button = Wheeler
+
+, /comma = Where are you
+
 G Button = Quick Light
 
 C Button = Dodge Roll
