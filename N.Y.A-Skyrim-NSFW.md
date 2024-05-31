@@ -46,7 +46,7 @@ Make sure you have the latest VC redistributable: https://aka.ms/vs/17/release/v
 If you think you do, try updating anyway. They aren't distributed through Windows updates, but are often packed with programs and are updated along while installing. Can't really do that automatically with a SKSE plugin.
 
 #### .NET Runtime:
-Download and install the .NET runtime: Download .NET Runtime
+Download and install the .NET runtime: Download .NET Runtime https://dotnet.microsoft.com/en-us/download
 
 #### Setup Your Page File:
 Hold down the LEFT Windows key and press R.
