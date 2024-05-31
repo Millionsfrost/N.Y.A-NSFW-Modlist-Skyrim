@@ -41,6 +41,10 @@ Put all downloaded mods into the folder where you want the rest of the N.Y.A dow
 Microsoft Visual C++ Redistributable Packages:
 Install this package, needed by MO2. If you’ve used MO2 before, you might already have it. If not, download the x64 version under "Visual Studio 2015, 2017, and 2019".
 
+Make sure you have the latest VC redistributable: https://aka.ms/vs/17/release/vc_redist.x64.exe. Its needet for Open Animation Replacer.
+
+If you think you do, try updating anyway. They aren't distributed through Windows updates, but are often packed with programs and are updated along while installing. Can't really do that automatically with a SKSE plugin.
+
 #### .NET Runtime:
 Download and install the .NET runtime: Download .NET Runtime
 
