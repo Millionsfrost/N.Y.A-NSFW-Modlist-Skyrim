@@ -146,6 +146,35 @@ L Button = Hunter's Pride (Turning this on and off lets you interact with downed
 
 ß Button = Free Cam (Button next to 0, can be adjusted. Lets you go into free cam in sex scenes or in general. Don’t use auto Freecam.)
 
+#### INSTRUCTIONS FOR RIGHT HAND USERS:
+
+Launch the game and bring up the Skyrim Settings -> Controls.
+
+If you are used to "Left Mouse Button (LMB)" being the "Right Hand" (Right handed users) feel free to map LMB to "Right Hand"
+
+If you followed the above step, you may prefer to use M1 (LMB) instead of M2 (RMB) In "One Click Power Attack" -> "Main Settings" -> "Right Power Attack" -> "Key"
+
+Below steps make block/parry be functional for our dual weapon wielding enthusiasts. Disregard if not interested
+
+In your Mod Manager, go to separator 24 - GAMEPLAY FRAMEWORK - and uncollapse to find "Dual Wield Parrying SKSE"
+
+Right click on the mod and click "Open in Explorer." Click on SKSE folder and then the Plugins folder within. Finally open the "DualWieldParryingSKSE.ini".
+
+In the .ini file, modify "ParryKey = x" where x is the key of your preference. Refer to: https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them
+(I recommend 257/Right Mouse Button which is default for block)
+
+Feel free to edit or remove second parry key or modifiers, there is no harm leaving it as is.
+
+Now, go to "One Click Power Attack"  and tick "Main Settings" -> "Misc" -> "Disable block key."
+
+WARNING THIS WILL REMOVE YOUR "LEFT HAND" FROM SKYRIM VANILLA CONTROL OPTIONS, IF YOU WISH TO REVERT IT, JUST RESET IT TO DEFAULTS USING "T."
+
+If you no longer wish to dual wield weapons, you have to do the above steps to get your "Left hand" option enabled again.
+
+#### INSTRUCTION END 
+
+
+
 #### SexLab+
 This list uses SexLab+, a newer version of SexLab.
 
