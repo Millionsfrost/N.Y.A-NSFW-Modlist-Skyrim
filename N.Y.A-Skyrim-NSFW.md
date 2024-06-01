@@ -152,6 +152,12 @@ L Button = Hunter's Pride (Turning this on and off lets you interact with downed
 
 #### INSTRUCTIONS FOR RIGHT HAND USERS:
 
+In your Mod Manager, go to separator 24 - GAMEPLAY FRAMEWORK - and uncollapse to find "Dual Wield Parrying SKSE"
+
+Right click on the mod and click "Open in Explorer." Click on SKSE folder and then the Plugins folder within. Finally open the "DualWieldParryingSKSE.ini".
+
+In the .ini file, modify "ParryKey2 = 257" to "ParryKey2 = 1000000" and save.
+
 Launch the game and bring up the Skyrim Settings -> Controls.
 
 If you are used to "Left Mouse Button (LMB)" being the "Right Hand" (Right handed users) feel free to map LMB to "Right Hand"
@@ -173,10 +179,9 @@ Now, go to "One Click Power Attack"  and tick "Main Settings" -> "Misc" -> "Disa
 
 WARNING THIS WILL REMOVE YOUR "LEFT HAND" FROM SKYRIM VANILLA CONTROL OPTIONS, IF YOU WISH TO REVERT IT, JUST RESET IT TO DEFAULTS USING "T."
 
-If you no longer wish to dual wield weapons, you have to do the above steps to get your "Left hand" option enabled again.
+If you no longer wish to dual wield weapons, you have to do the above step to get your "Left hand" option enabled again.
 
 #### INSTRUCTION END 
-
 
 
 #### SexLab+
