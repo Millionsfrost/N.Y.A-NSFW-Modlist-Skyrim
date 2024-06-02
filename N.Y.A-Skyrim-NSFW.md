@@ -102,8 +102,8 @@ Verify your install: Verifying Your Modlist Install
 
 #### Post Installation
 
-Once you get into the game, Wait 30 seconds or until mods in the top right have disappeared
-Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. Make your character. Once you finish your character. Click Stay Here on the prompt that follows. Another prompt will appear that will most of NYAs custom MCM settings automatically. (idk what the prompt says though or the option to click)  Wait again until its finished.
+Once you get into the game, Wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
+Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
 
 Now you can press enter and spawn in the gameworld. Then proceed to watch my Youtube video https://www.youtube.com/watch?v=pplMle5Tyd4&lc=UgxL2oGjoPVjsJft_5J4AaABAg for additional MCM settings not covered by the automatic MCM setup.
 
