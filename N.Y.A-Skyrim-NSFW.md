@@ -101,8 +101,12 @@ Ensure the download location matches the installation location or use a common d
 Verify your install: Verifying Your Modlist Install
 
 #### Post Installation
-MCM Recordings: In the MCM Menu Skyrim Unbound, press "Let’s go" after you configured how and where you wanna start. Read carefully. After character creation, click "Stay Here". Then go into the MCM Menus and go to MCM Recorder.
-Run N.Y.A Nr1 Recording. When everything is finished (Let Sexlab Install in Peace),  Sexlab installs itself now. Make 100% sure that Disable Victim Controls and Auto Advance is turned OFF. Then click enter and then Continue.
+
+Once you get into the game, Wait 30 seconds or until mods in the top right have disappeared
+Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. Make your character. Once you finish your character. Click Stay Here on the prompt that follows. Another prompt will appear that will most of NYAs custom MCM settings automatically. (idk what the prompt says though or the option to click)  Wait again until its finished.
+
+Now you can press enter and spawn in the gameworld. Then proceed to watch my Youtube video https://www.youtube.com/watch?v=pplMle5Tyd4&lc=UgxL2oGjoPVjsJft_5J4AaABAg for additional MCM settings not covered by the automatic MCM setup.
+
 
 We also got Fill her up working again. In Sexlab MCM under Extra Effects you wanna change the option to Seperate Orgasms. Then Fill her up works again!
 
