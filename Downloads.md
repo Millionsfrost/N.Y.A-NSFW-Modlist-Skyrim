@@ -8,7 +8,7 @@ URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
 
 File: Pandora_Behaviour_Engine.zip , scroll down alot to find Pandora Behaviour Engine v1.1.6-alpha and get the file there.
 
-
+Pandora 1.1.6 and the Universal Patch are on Page 2 in the Forums now, so you gotta go to Page 2 to see 1.1.6 and 1.1.3.
 
 Scroll down to Pandora Behaviour Engine v1.1.3-alpha and click on the small Arrow called Assets, download Pandora.XPMSE.Patch.v1.1.3.Universal.zip.
 URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
