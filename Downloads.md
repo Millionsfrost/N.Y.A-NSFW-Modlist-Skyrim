@@ -45,15 +45,6 @@ File: Sexlab Approach Redux
 
 
 
-Baka Motion Data Pack
-URL: https://www.loverslab.com/files/file/26992-baka-motion-data-pack
-
-Click download and then 993525 , then you get linked to another Page, and there you downloads Baka Motion.
-
-File: Baka Motion Data Pack.7z
-
-
-
 SexLab Confabulation - TCIY Patch SE
 URL: https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020
 
@@ -208,13 +199,6 @@ File: 1537070476_AnubSLAL022023SSELLver.7z
 
 
 
-BakaFactory SLAL Animation
-URL: https://subscribestar.adult/posts/905582
-
-File: BakaFactory SLAL Animation.7z
-
-
-
 GS Poses SLAL
 URL: https://www.loverslab.com/files/file/8148-gsposes-slal
 
@@ -237,9 +221,9 @@ File: SL - Ayasato Animations 1.1 SLAL SSE.7z
 
 
 Milky SLAL for SE
-URL: https://www.loverslab.com/files/file/6019-milkyslal-for-se
+URL: https://www.loverslab.com/topic/162940-milky-slal-23-se-conversion/
 
-File: MilkySLAL-1-8.7z
+File: MilkySLAL-2-3(SE) from the first Post and milkyanimobj-2-0 SE from the third post.
 
 
 
