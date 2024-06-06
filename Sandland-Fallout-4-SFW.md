@@ -2,11 +2,6 @@
 
 Support and general talk about N.Y.A and Sandland you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
-Please read this: https://github.com/LivelyDismay/magnum-opus/blob/main/README.md
-
-It is important you do the Steps to make Magnum Opus running, since this List is based upon it. Post Installation will be covered on this Page.
-
-
 
 #### Sandland-SFW-Modlist-Fallout 4
 
