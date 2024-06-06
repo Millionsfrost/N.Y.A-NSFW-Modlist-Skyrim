@@ -214,9 +214,9 @@ File: SL - Ayasato Animations 1.1 SLAL SSE.7z
 
 
 Milky SLAL for SE
-URL: https://www.loverslab.com/topic/162940-milky-slal-23-se-conversion/
+URL: https://www.loverslab.com/topic/162940-milky-slal-23-se-conversion/ and https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1222502&key=cd0317a2f53a62e751305f65f37c622f
 
-File: MilkySLAL-2-3(SE) from the first Post and milkyanimobj-2-0 SE from the third post.
+File: MilkySLAL-2-3(SE) from the first Post and milkyanimobj-2-0 SE from the 2nd link i posted above.
 
 
 
