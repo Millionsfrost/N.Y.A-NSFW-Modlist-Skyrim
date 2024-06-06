@@ -154,39 +154,6 @@ L Button = Hunter's Pride (Turning this on and off lets you interact with downed
 
 ß Button = Free Cam (Button next to 0, can be adjusted. Lets you go into free cam in sex scenes or in general. Don’t use auto Freecam.)
 
-#### INSTRUCTIONS FOR RIGHT HAND USERS:
-
-In your Mod Manager, go to separator 24 - GAMEPLAY FRAMEWORK - and uncollapse to find "Dual Wield Parrying SKSE"
-
-Right click on the mod and click "Open in Explorer." Click on SKSE folder and then the Plugins folder within. Finally open the "DualWieldParryingSKSE.ini".
-
-In the .ini file, modify "ParryKey2 = 257" to "ParryKey2 = 1000000" and save.
-
-Launch the game and bring up the Skyrim Settings -> Controls.
-
-If you are used to "Left Mouse Button (LMB)" being the "Right Hand" (Right handed users) feel free to map LMB to "Right Hand"
-
-If you followed the above step, you may prefer to use M1 (LMB) instead of M2 (RMB) In "One Click Power Attack" -> "Main Settings" -> "Right Power Attack" -> "Key"
-
-Below steps make block/parry be functional for our dual weapon wielding enthusiasts. Disregard if not interested
-
-In your Mod Manager, go to separator 24 - GAMEPLAY FRAMEWORK - and uncollapse to find "Dual Wield Parrying SKSE"
-
-Right click on the mod and click "Open in Explorer." Click on SKSE folder and then the Plugins folder within. Finally open the "DualWieldParryingSKSE.ini".
-
-In the .ini file, modify "ParryKey = x" where x is the key of your preference. Refer to: https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them
-(I recommend 257/Right Mouse Button which is default for block)
-
-Feel free to edit or remove second parry key or modifiers, there is no harm leaving it as is.
-
-Now, go to "One Click Power Attack"  and tick "Main Settings" -> "Misc" -> "Disable block key."
-
-WARNING THIS WILL REMOVE YOUR "LEFT HAND" FROM SKYRIM VANILLA CONTROL OPTIONS, IF YOU WISH TO REVERT IT, JUST RESET IT TO DEFAULTS USING "T."
-
-If you no longer wish to dual wield weapons, you have to do the above step to get your "Left hand" option enabled again.
-
-#### INSTRUCTION END 
-
 
 #### SexLab+
 This list uses SexLab+, a newer version of SexLab.
@@ -198,64 +165,7 @@ Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly 
 #### Simple Super Ultrawide (32:9) Guide
 Created for N.Y.A. This only applies if you have a 32:9 super ultrawide monitor.
 
-1. DDD:
-Download and Install Flawless Widescreen and Enable the Skyrim SE Plugin.
-Turn off and remove all Camera Mods (Customizable Camera, 3rd Person Camera Overhaul, etc.) from the game. You need the default vanilla camera, otherwise, this will not work.
-
-2. FWS:
-Launch the game.
-Enable the Skyrim SE Plugin under Installed Plugins.
-Change display resolution, aspect ratio, and other settings to match your monitor. Set HUD Safezone Adjustment to 0.800 (this adjusts HUD elements to stay within viewable area).
-Press Apply.
-Close FWS.
-Adjust SkyrimPrefs.ini to support 32:9 Aspect Ratio (located in C:\Users\YOURUSERNAME\Documents\My Games\Skyrim Special Edition).
-
-Find:
-
-[Display]
-iSize H=
-iSize W=
-
-Replace with:
-
-[General]
-fdefaultfov=95
-fdefaultworldfov=95
-fdefault1stpersonfov=95
-
-Adjust FOV (Field of View) by adding or changing the following lines in Skyrim.ini (located in the same folder):
-
-[General]
-fdefaultfov=95
-fdefaultworldfov=95
-fdefault1stpersonfov=95
-Adjust any other settings based on your personal preferences and hardware capabilities.
-
-3. SSME:
-(Optional) Download and install Skyrim Startup Memory Editor (SSME) to enhance game performance by managing memory allocation better.
-Launch SSME and configure memory settings based on your system's RAM. The general rule is to allocate half of your available RAM to Skyrim. For example, if you have 16GB of RAM, allocate 8192MB (8GB) to Skyrim.
-Save and close SSME.
-
-4. Ultrawide UI Fixes:
-Install a mod like Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE to fix UI elements on super ultrawide screens. This will ensure menus and other UI elements display correctly.
-
-5. ENB:
-If using an ENB, adjust the aspect ratio settings in the enblocal.ini file located in the main Skyrim SE folder to support 32:9 aspect ratio.
-Find:
-
-[FIX]
-ForceBorderlessFullscreen=
-ForceBorderless=
-
-Replace with:
-
-[FIX]
-ForceBorderlessFullscreen=true
-ForceBorderless=true
-
-Save and close the file.
-
-6. Enjoy:
-Launch Skyrim SE and enjoy the game in glorious super ultrawide 32:9. Adjust in-game settings as necessary to ensure the best performance and visual quality.
+Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecialedition/mods/115241
+Install the mod right below Untarnished UI 1.1.6 and above Sovngarde - A Nordic Font.
 
 
