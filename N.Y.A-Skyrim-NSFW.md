@@ -97,9 +97,6 @@ Installation:
 Set the installation location to a folder on the root of a drive, like C:\NYA.
 Ensure the download location matches the installation location or use a common download folder for multiple modlists.
 
-#### Verification:
-Verify your install: Verifying Your Modlist Install
-
 #### Post Installation
 
 Once you get into the game, Wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
