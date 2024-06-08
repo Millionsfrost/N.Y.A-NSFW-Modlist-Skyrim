@@ -116,6 +116,8 @@ Later in the game, you can open the Int. Voiced Dirty Talk. Under Assign Voice, 
 
 If you wanna fix High Heels in First person you need to go to Heels Fix MCM and go to Camera options and Correct first Person and Correct third Person.
 
+Setting Default Male Voice to Slot 0 in IVDT removes male orgasm sound from female Scenes.
+
 The game defaults to Novice difficulty. Yet another Difficulty Mods makes the Game harder the more you level up, but you do start on Novice.
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
