@@ -16,6 +16,10 @@ There are over 100 armor and clothing mods, comprising more than 2,500 individua
 
 Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
 
+#### Required Specs
+
+
+![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
 
 #### Accounts
