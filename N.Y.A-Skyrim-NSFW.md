@@ -169,6 +169,7 @@ Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly 
 Created for N.Y.A. This only applies if you have a 32:9 super ultrawide monitor.
 
 Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecialedition/mods/115241
+
 Install the mod right below Untarnished UI 1.1.6 and above Sovngarde - A Nordic Font.
 
 Search the installed mods filter in MO2 located bottom middle.
