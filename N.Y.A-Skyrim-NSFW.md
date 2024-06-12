@@ -172,10 +172,15 @@ Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecial
 Install the mod right below Untarnished UI 1.1.6 and above Sovngarde - A Nordic Font.
 
 Search the installed mods filter in MO2 located bottom middle.
+
 Type in SSE Display Tweaks, right click on the mod and click "Open in Explorer".
+
 Navigate to SSEDisplayTweaks.ini located in SKSE > Plugins and open it up.
+
 On the [Render] section modify "Fullscreen = false", "Borderless = true" to set your game to borderless fullscreen.
+
 Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00".
+
 Feel free to set your resolution to what you want, but I recommend having ResolutionScale = 1.00 as that changes the location of Wheeler HUD.
 
 
