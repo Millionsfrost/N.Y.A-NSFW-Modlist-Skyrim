@@ -443,10 +443,17 @@ URL: https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/?do=downloa
 File: Schlongs_of_Skyrim_SE - v1.1.4.rar
 
 
-Schlongs of Skyrim 16640 DLL
+Schlongs of Skyrim 1170 DLL
 URL: https://www.loverslab.com/topic/208074-schlongs-of-skyrim-dll-for-ae/
 
-File: Please download the following: SchlongsOfSkyrim_1_1_5-DLL-1_6_640.7z
+File: Please download the following: SchlongsOfSkyrim_1_1_5-DLL-1_6_1170.zip
+
+
+
+Quickloot 1170 Fix
+URL: https://github.com/WaterFace/QuickLootEE/releases/tag/v1
+
+File: QuickLootEE.1170-fixed.7z under Assets
 
 
 
