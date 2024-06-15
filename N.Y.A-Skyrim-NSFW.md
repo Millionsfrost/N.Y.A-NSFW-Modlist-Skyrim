@@ -165,14 +165,32 @@ This list uses SexLab+, a newer version of SexLab.
 Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly yet.
 
 
-#### Simple Super Ultrawide (32:9) Guide
-Created for N.Y.A. This only applies if you have a 32:9 super ultrawide monitor.
+#### Simple (Ultra)wide Guide
+
+
+If you have 21:9, you can just reinstall Edge UI - 0.55 and tick 21:9 in "Resolution Patches" and all three of the patches available at the bottom of the section.
+
+
+Following are the steps for 32:9.
 
 Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecialedition/mods/115241
 
 Install the mod right below Untarnished UI 1.1.6 and above Sovngarde - A Nordic Font.
 
+
 Search the installed mods filter in MO2 located bottom middle.
+
+Type in edge ui and right click on Edge UI - 0.55 then proceed to click on the reinstall option.
+
+On the installation pop-up scroll down until you see "Resolution Patches" and click on "21:9" and install.
+If you find that skill description gets cut off, try "Other" option.
+
+Scroll down to Patches section and tick all three boxes, then click install.
+
+When MO2 gives you a pop up to replace or merge, click replace.
+
+
+Search the installed mods filter in MO2 located bottom middle again.
 
 Type in SSE Display Tweaks, right click on the mod and click "Open in Explorer".
 
@@ -181,7 +199,5 @@ Navigate to SSEDisplayTweaks.ini located in SKSE > Plugins and open it up.
 On the [Render] section modify "Fullscreen = false", "Borderless = true" to set your game to borderless fullscreen.
 
 Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00".
-
-Feel free to set your resolution to what you want, but I recommend having ResolutionScale = 1.00 as that changes the location of Wheeler HUD.
 
 
