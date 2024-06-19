@@ -200,4 +200,8 @@ On the [Render] section modify "Fullscreen = false", "Borderless = true" to set 
 
 Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00".
 
+Install "Skyblivion Lockpick Menu - Widescreen Patches" for "Skyblivion Lockpick Menu."
+https://www.nexusmods.com/skyrimspecialedition/mods/117184?tab=files 
+
+
 
