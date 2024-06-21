@@ -163,6 +163,8 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 
 ## Buttons
 
+Please open as Fullscreen in your Brower or download the Picture.
+
 ![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
 
 
