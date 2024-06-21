@@ -45,32 +45,32 @@ Character Creation: Extensive overhauls and additions, offering numerous new opt
 
 Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
 
-#### Required Specs
+## Required Specs
 
 
 ![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
 
-#### Accounts
+## Accounts
 Nexus Account:
 You will need a Nexus Account. Premium is recommended to avoid needing to manually click download many times and to get faster speeds.
 
 Loverslab Login:
 You can't log in to Loverslab through Wabbajack settings anymore. You have to log in when the first Loverslab mod pops up. If it works the first time, great. If not, only log in, then restart the install.
 
-#### Manual Downloads
+## Manual Downloads
 Wabbajack Bugs: Wabbajack has bugs downloading some mods. Download these mods manually before downloading the list with Wabbajack to avoid errors.
 
-#### List of Mods:
+## List of Mods:
 Mods to Download Manually: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
 
-#### Mega Downloads:
+## Mega Downloads:
 Always right-click > Standard Download. Mega defaults to "Download as ZIP," which recompresses files and Wabbajack won't recognize them.
 
 #### Download Folder:
 Put all downloaded mods into the folder where you want the rest of the N.Y.A downloads to be stored. If you have an existing Skyrim mods downloads folder, use that to avoid downloading already existing mods.
 
-#### Preparation:
+## Preparation:
 Microsoft Visual C++ Redistributable Packages:
 Install this package, needed by MO2. If you’ve used MO2 before, you might already have it. If not, download the x64 version under "Visual Studio 2015, 2017, and 2019".
 
@@ -78,10 +78,10 @@ Make sure you have the latest VC redistributable: https://aka.ms/vs/17/release/v
 
 If you think you do, try updating anyway. They aren't distributed through Windows updates, but are often packed with programs and are updated along while installing. Can't really do that automatically with a SKSE plugin.
 
-#### .NET Runtime:
+## .NET Runtime:
 Download and install the .NET runtime: Download .NET Runtime https://dotnet.microsoft.com/en-us/download
 
-#### Setup Your Page File:
+## Setup Your Page File:
 Hold down the LEFT Windows key and press R.
 Type systempropertiesadvanced in the run box and press ENTER.
 Under "Performance", click "Settings...".
@@ -96,22 +96,22 @@ Press "Set".
 Press OK, then APPLY, then OK.
 Restart your PC to apply the page file setting.
 
-#### Setup Your Shader Cache:
+## Setup Your Shader Cache:
 Increase the shader cache size via Nvidia Control Panel to at least 10GB. For AMD users, similar steps might apply.
 
-#### Antivirus Settings:
+## Antivirus Settings:
 Exclude your Wabbajack folder and your NYA installation folder from your antivirus’ real-time protection. Disable or uninstall any third-party antivirus to avoid issues with usvfs_proxy_x86.exe.
 
-#### Disable Steam Overlay:
+## Disable Steam Overlay:
 Turn off the Steam overlay to prevent issues with ENBs: Right-click on Skyrim Special Edition in your Steam library, click Properties > General, and deselect "Enable Steam Overlay while in-game".
 
-#### Set Game Language to English:
+## Set Game Language to English:
 Right-click on Skyrim Special Edition in your Steam library, click Properties > Language, and select English.
 
-#### Change Steam's Updating Behavior:
+## Change Steam's Updating Behavior:
 Right-click on Skyrim in your Steam library, click Properties > Updates, and change "Automatic Updates" to "Only update this game when I launch it". Disable Steam Cloud as well.
 
-#### Clean Current Skyrim Special Edition Installation
+## Clean Current Skyrim Special Edition Installation
 If Already Installed:
 Right-click on Skyrim Special Edition in your Steam library, click Properties > Local Files > Browse.
 Uninstall the game via Steam.
@@ -119,18 +119,18 @@ Check the explorer window for leftover files and delete them.
 Delete the Skyrim Special Edition folder in %LOCALAPPDATA%.
 Delete the Skyrim Special Edition folder in Documents\My Games.
 
-#### Reinstall Skyrim Special Edition:
+## Reinstall Skyrim Special Edition:
 Install Skyrim Special Edition in a dedicated folder on the root of a drive, e.g., C:\SteamLibrary.
 
-#### Start Skyrim Special Edition:
+## Start Skyrim Special Edition:
 Start the game to create registry entries and default config files. Then close the game.
 
-#### Wabbajack Installation
+## Wabbajack Installation
 Installation:
 Set the installation location to a folder on the root of a drive, like C:\NYA.
 Ensure the download location matches the installation location or use a common download folder for multiple modlists.
 
-#### Post Installation
+## Post Installation
 
 Once you get into the game, Wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
 Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
@@ -140,7 +140,7 @@ Now you can press enter and spawn in the gameworld. Then proceed to watch my You
 
 We also got Fill her up working again. In Sexlab MCM under Extra Effects you wanna change the option to Seperate Orgasms. Then Fill her up works again!
 
-#### Manual Settings:
+## Manual Settings:
 Set CompassCheat to 1. Then save, quit Skyrim, and reload your save. (If you want the compass back, the lore-friendly way is through Campfire Perks.)
 
 Change the Hotkey from the Where are you MCM Menu for opening the Menu. The normal key is F3 and that interferes with our Stances Mod. So please rebind that. I use the Comma Key, and it works.
@@ -155,46 +155,25 @@ The game defaults to Novice difficulty. Yet another Difficulty Mods makes the Ga
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
-#### NOTE:
+## NOTE:
 DO NOT USE VANILLA as A START
 
-#### Survival Mode
+## Survival Mode
 Do not use Survival Mode. It has been reported that with Survival, there are many freezes and issues causing the game to stop working.
 
-#### Buttons
-Z ( Y ) = Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
+## Buttons
 
-You can disable the Curves Perk Weight Function in Sexcraft MCM or turn it on.
-
-ß Button = Free Cam (Button next to 0, can be adjusted.)
-
-Middle Mouse = Target Lock
-
-H Button = Wheeler
-
-, /comma = Where are you
-
-G Button = Quick Light
-
-C Button = Dodge Roll
-
-V Button = Block
-
-< Button = Additional Attack (Every weapon type has a special attack. If you equip an Ashes of War, the same button uses that. The < button is left of Y, in US cases, Z. You can change this in the Additional Attack MCM.)
-
-L Button = Hunter's Pride (Turning this on and off lets you interact with downed enemies, taking actions like capturing them.)
-
-ß Button = Free Cam (Button next to 0, can be adjusted. Lets you go into free cam in sex scenes or in general. Don’t use auto Freecam.)
+![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
 
 
-#### SexLab+
+## SexLab+
 This list uses SexLab+, a newer version of SexLab.
 
-#### Note:
+## Note:
 Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly yet.
 
 
-#### Simple (Ultra)wide Guide
+## Simple (Ultra)wide Guide
 
 
 If you have 21:9, you can just reinstall Edge UI - 0.55 and tick 21:9 in "Resolution Patches" and all three of the patches available at the bottom of the section.
