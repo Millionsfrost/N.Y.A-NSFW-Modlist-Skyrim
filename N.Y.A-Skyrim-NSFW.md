@@ -3,16 +3,45 @@ First things first: this list contains adult content, and you must be of legal a
 Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
 
-#### N.Y.A Mod List Version 2.0+
-This list contains adult content, so you must be of legal age in your country to access it. In most countries, this means 18+, while in others, it’s 21+. Please ensure you meet the age requirement in your country.
+# N.Y.A Mod List Version 3.0+
 
-The NSFW elements in this list are designed to be non-intrusive. NPCs will not be seen in overly revealing armor, and you won't encounter unwanted interactions like those in mods such as Troubles of Heroine. This version of N.Y.A runs on Skyrim version 1.6.640, and Wabbajack will automatically handle the downgrade for you. However, you will need the Anniversary Edition and the latest Skyrim version from Steam.
+#### N.Y.A NSFW Modlist Key Features
 
-The mod list includes over 2,300 mods, resulting in a total size of over 650GB when downloaded and installed. A performance version is also available in the downloads folder for those looking to optimize performance. To save FPS, you can use the console command tg to remove grass.
+What you are about to read is just a small Taste, bcs we cannot display all the Features bcs it is just too much, but we hope it will help you find certain Things faster that you might have never known about!
 
-We utilize the Pandora Behavior Engine, eliminating the need for Nemesis or FNIS. The list features over 110 monster mods and more than 30 combat mods. We use MCO + MCO Dodge and Stances, a system where each weapon type has four different animation sets. With the additional attack button, each weapon has a special attack. Additionally, you can purchase over 100 unique special attacks to customize your fighting style.
+Main Gameplay Changes
+Combat Systems: Sets of Skills: Choose one perk for Warrior, Mage, Thief, or Priest every 5 levels in the Custom Skills menu. Subclasses of Skyrim 2: Select a perk in the Destiny tree every 5 levels from the Custom Skills menu. Custom Skill Trees: Adds around 15+ new perk trees. Stormcrown: Overhauls the entire Shouting System/Powers and adds a new Perk tree. Bloodskal Magic: Fixes the Bloodskal Quest, allowing beam enchantments on any weapon. Compatible with MCO. Know Your Enemy Redux and Know Your Enemy 2: Enemies now have resistances and weaknesses, requiring flexible combat strategies. Stances Framework: Four stances per weapon type, each with different animation sets and bonuses. Includes Ashes of War special attacks. SIGA: Slows down spellcasting for inexperienced casters, with speed increasing as you gain experience. Archery: Perfectly timed fully drawn bows trigger special effects or charge power shots. Boss Fights: Engage in custom boss battles with unique, non-craftable armor.
 
-There are over 100 armor and clothing mods, comprising more than 2,500 individual pieces. These modded items can be found in chests throughout the open world. Unique bosses drop exclusive items upon defeat, adding an extra layer of challenge and reward.
+Gameplay Additions
+Quests: The college offers generated quests that reward you with modded items of your choice, at a price. Tons of Followers: Includes M’rissi, Yazakh, Malryn, Val Serano, Celine, and around 80+ new followers. A Home in the Sky: Dev Aveza, a floating airship, serves as a customizable home with immersive functions. 25+ New Lands Spaces: Explore Vominheim, Unslaad, Glenmoril, Siege at Icemoth, Vigilant, and more! Immersive Hunting: Overhauled hunting mechanics with the ability to pick up carcasses using Shift + E. Quests and Adventures: Adds over 100 new questlines. Where Are You: An in-game system to search, track, and teleport to any NPC or companion. Stress and Fear: Manage stress through in-game activities. Fear certain enemies if they defeat you. Camping Experience: Build a campfire and unlock new survival skills, like faster horse-riding. Lawbringer: Claim bandit strongholds for nearby factions to bring order to the world. Photomode: Access photomode via the escape menu. Summon Your Horse: Keybind your last ridden horse for easy summoning from the MCM menu. New ENB: Silent Horizons 2 core for enhanced graphics. Skyblivion Lockpick Menu: Brings Oblivion’s lockpick menu to Skyrim.
+
+Creatures
+Creatures: Adds over 100+ new creatures, monsters, and animals.
+
+Textures
+Textures: Nearly every mesh and texture in the game is overhauled or replaced.
+
+Enchantments
+Enchantments: Overhauled by Thaumaturgy and other mods.
+
+Wearable Items
+Clothing: Over 100 new clothing items (non-armor). 
+Weapons: Over 250 new weapons. 
+Cursed Sword: This feature adds cursed swords to the game. Check your MCM for more information. 
+Armors: Over 150 new armors. 
+Gear Spreader: Adds modded armors and clothing into chests, dressers, and end tables.
+
+Werewolves, Vampires, and Werebears
+Overhaul: Werewolves and vampires are overhauled by Sacrosanct and Manbeast. Become a werebear via quest!
+
+Pilgrim
+Pilgrim: Pray to gods, worship them, and unlock new abilities.
+
+NSFW Additions
+New Bodies for OBody: Includes 60+ new bodyslides. Apropos: Displays descriptive messages during NSFW scenes and includes a wear & tear system. Sexlab Sleep: Engage with sleeping NPCs. Sexlab Light Me Up: Ensures scenes are lit, excluding quicklight. Sexlab+: Enhanced Sexlab with faster scene initiation. Pandora: Combines FNIS with Nemesis to load over 45,000 animations in under 5 seconds. Non-intrusive NSFW Quests and Systems: Integrated without negatively interrupting gameplay.
+
+Character Creation
+Character Creation: Extensive overhauls and additions, offering numerous new options.
 
 Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
 
