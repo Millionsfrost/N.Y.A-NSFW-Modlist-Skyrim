@@ -18,29 +18,29 @@ Quests: The college offers generated quests that reward you with modded items of
 ### Creatures
 Creatures: Adds over 100+ new creatures, monsters, and animals.
 
-## Textures
+### Textures
 Textures: Nearly every mesh and texture in the game is overhauled or replaced.
 
-## Enchantments
+### Enchantments
 Enchantments: Overhauled by Thaumaturgy and other mods.
 
-## Wearable Items
+### Wearable Items
 Clothing: Over 100 new clothing items (non-armor). 
 Weapons: Over 250 new weapons. 
 Cursed Sword: This feature adds cursed swords to the game. Check your MCM for more information. 
 Armors: Over 150 new armors. 
 Gear Spreader: Adds modded armors and clothing into chests, dressers, and end tables.
 
-## Werewolves, Vampires, and Werebears
+### Werewolves, Vampires, and Werebears
 Overhaul: Werewolves and vampires are overhauled by Sacrosanct and Manbeast. Become a werebear via quest!
 
-## Pilgrim
+### Pilgrim
 Pilgrim: Pray to gods, worship them, and unlock new abilities.
 
-## NSFW Additions
+### NSFW Additions
 New Bodies for OBody: Includes 60+ new bodyslides. Apropos: Displays descriptive messages during NSFW scenes and includes a wear & tear system. Sexlab Sleep: Engage with sleeping NPCs. Sexlab Light Me Up: Ensures scenes are lit, excluding quicklight. Sexlab+: Enhanced Sexlab with faster scene initiation. Pandora: Combines FNIS with Nemesis to load over 45,000 animations in under 5 seconds. Non-intrusive NSFW Quests and Systems: Integrated without negatively interrupting gameplay.
 
-## Character Creation
+### Character Creation
 Character Creation: Extensive overhauls and additions, offering numerous new options.
 
 Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
@@ -51,23 +51,23 @@ Every possible graphical element has been enhanced. We use the Picho ENB to ensu
 ![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
 
-## Accounts
+### Accounts
 Nexus Account:
 You will need a Nexus Account. Premium is recommended to avoid needing to manually click download many times and to get faster speeds.
 
-Loverslab Login:
+### Loverslab Login
 You can't log in to Loverslab through Wabbajack settings anymore. You have to log in when the first Loverslab mod pops up. If it works the first time, great. If not, only log in, then restart the install.
 
-## Manual Downloads
+### Manual Downloads
 Wabbajack Bugs: Wabbajack has bugs downloading some mods. Download these mods manually before downloading the list with Wabbajack to avoid errors.
 
 ## List of Mods:
 Mods to Download Manually: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
 
-## Mega Downloads:
+### Mega Downloads:
 Always right-click > Standard Download. Mega defaults to "Download as ZIP," which recompresses files and Wabbajack won't recognize them.
 
-#### Download Folder:
+### Download Folder:
 Put all downloaded mods into the folder where you want the rest of the N.Y.A downloads to be stored. If you have an existing Skyrim mods downloads folder, use that to avoid downloading already existing mods.
 
 ## Preparation:
@@ -78,7 +78,7 @@ Make sure you have the latest VC redistributable: https://aka.ms/vs/17/release/v
 
 If you think you do, try updating anyway. They aren't distributed through Windows updates, but are often packed with programs and are updated along while installing. Can't really do that automatically with a SKSE plugin.
 
-## .NET Runtime:
+### .NET Runtime:
 Download and install the .NET runtime: Download .NET Runtime https://dotnet.microsoft.com/en-us/download
 
 ## Setup Your Page File:
@@ -99,19 +99,19 @@ Restart your PC to apply the page file setting.
 ## Setup Your Shader Cache:
 Increase the shader cache size via Nvidia Control Panel to at least 10GB. For AMD users, similar steps might apply.
 
-## Antivirus Settings:
+### Antivirus Settings:
 Exclude your Wabbajack folder and your NYA installation folder from your antivirus’ real-time protection. Disable or uninstall any third-party antivirus to avoid issues with usvfs_proxy_x86.exe.
 
-## Disable Steam Overlay:
+### Disable Steam Overlay:
 Turn off the Steam overlay to prevent issues with ENBs: Right-click on Skyrim Special Edition in your Steam library, click Properties > General, and deselect "Enable Steam Overlay while in-game".
 
-## Set Game Language to English:
+### Set Game Language to English:
 Right-click on Skyrim Special Edition in your Steam library, click Properties > Language, and select English.
 
-## Change Steam's Updating Behavior:
+### Change Steam's Updating Behavior:
 Right-click on Skyrim in your Steam library, click Properties > Updates, and change "Automatic Updates" to "Only update this game when I launch it". Disable Steam Cloud as well.
 
-## Clean Current Skyrim Special Edition Installation
+### Clean Current Skyrim Special Edition Installation
 If Already Installed:
 Right-click on Skyrim Special Edition in your Steam library, click Properties > Local Files > Browse.
 Uninstall the game via Steam.
@@ -119,16 +119,16 @@ Check the explorer window for leftover files and delete them.
 Delete the Skyrim Special Edition folder in %LOCALAPPDATA%.
 Delete the Skyrim Special Edition folder in Documents\My Games.
 
-## Reinstall Skyrim Special Edition:
+### Reinstall Skyrim Special Edition:
 Install Skyrim Special Edition in a dedicated folder on the root of a drive, e.g., C:\SteamLibrary.
 
-## Start Skyrim Special Edition:
+### Start Skyrim Special Edition:
 Start the game to create registry entries and default config files. Then close the game.
 
-## Wabbajack Installation
+### Wabbajack Installation
 Installation:
-Set the installation location to a folder on the root of a drive, like C:\NYA.
-Ensure the download location matches the installation location or use a common download folder for multiple modlists.
+Set the installation location to a folder on the root of a drive, like C:\NYA. And Downloads to something like C:\NYA Downloads
+The download location can be on a seperate Drive than the installation location or use a common download folder for multiple modlists.
 
 ## Post Installation
 
@@ -140,25 +140,19 @@ Now you can press enter and spawn in the gameworld. Then proceed to watch my You
 
 We also got Fill her up working again. In Sexlab MCM under Extra Effects you wanna change the option to Seperate Orgasms. Then Fill her up works again!
 
-## Manual Settings:
+### Manual Settings:
 Set CompassCheat to 1. Then save, quit Skyrim, and reload your save. (If you want the compass back, the lore-friendly way is through Campfire Perks.)
-
-Change the Hotkey from the Where are you MCM Menu for opening the Menu. The normal key is F3 and that interferes with our Stances Mod. So please rebind that. I use the Comma Key, and it works.
 
 Later in the game, you can open the Int. Voiced Dirty Talk. Under Assign Voice, pick Voice Slot 1. Then a new screen opens. On the right side, manually enter the name of your character (beware of typos). In the top right, you can listen to samples. Under Assign Voice as Default, pick Voice 2 for females and for the male one, you can pick 1-8. Keep in mind this is an alpha patch, so not everything might work 100%. Dialogue options don’t work yet. You can also ignore all this and just don’t use this feature if you don’t like voices during scenes. This mod also has moaning and such, so you might want to use it. You can fiddle around with it as you want. Normally its setup correct if you are female but it cant hurt to double Check.
 
-If you wanna fix High Heels in First person you need to go to Heels Fix MCM and go to Camera options and Correct first Person and Correct third Person.
-
 Setting Default Male Voice to Slot 0 in IVDT removes male orgasm sound from female Scenes.
-
-The game defaults to Novice difficulty. Yet another Difficulty Mods makes the Game harder the more you level up, but you do start on Novice.
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
 ## NOTE:
 DO NOT USE VANILLA as A START
 
-## Survival Mode
+### Survival Mode
 Do not use Survival Mode. It has been reported that with Survival, there are many freezes and issues causing the game to stop working.
 
 ## Buttons
@@ -168,11 +162,11 @@ Please open as Fullscreen in your Brower or download the Picture.
 ![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
 
 
-## SexLab+
+### SexLab+
 This list uses SexLab+, a newer version of SexLab.
 
-## Note:
-Sexlab+ and Pandora are in an alpha state, so some features dont work perfectly yet.
+### Note:
+Sexlab+ and Pandora are in an Beta and Alpha state, so some features dont work perfectly yet.
 
 
 ## Simple (Ultra)wide Guide
