@@ -5,11 +5,11 @@ Support and general talk about N.Y.A you can find on the following Discord: http
 
 # N.Y.A Mod List Version 3.0+
 
-#### N.Y.A NSFW Modlist Key Features
+# N.Y.A NSFW Modlist Key Features
 
 What you are about to read is just a small Taste, bcs we cannot display all the Features bcs it is just too much, but we hope it will help you find certain Things faster that you might have never known about!
 
-Main Gameplay Changes
+## Main Gameplay Changes
 Combat Systems: Sets of Skills: Choose one perk for Warrior, Mage, Thief, or Priest every 5 levels in the Custom Skills menu. Subclasses of Skyrim 2: Select a perk in the Destiny tree every 5 levels from the Custom Skills menu. Custom Skill Trees: Adds around 15+ new perk trees. Stormcrown: Overhauls the entire Shouting System/Powers and adds a new Perk tree. Bloodskal Magic: Fixes the Bloodskal Quest, allowing beam enchantments on any weapon. Compatible with MCO. Know Your Enemy Redux and Know Your Enemy 2: Enemies now have resistances and weaknesses, requiring flexible combat strategies. Stances Framework: Four stances per weapon type, each with different animation sets and bonuses. Includes Ashes of War special attacks. SIGA: Slows down spellcasting for inexperienced casters, with speed increasing as you gain experience. Archery: Perfectly timed fully drawn bows trigger special effects or charge power shots. Boss Fights: Engage in custom boss battles with unique, non-craftable armor.
 
 Gameplay Additions
