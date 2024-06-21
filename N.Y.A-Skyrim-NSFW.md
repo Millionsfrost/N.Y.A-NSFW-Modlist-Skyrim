@@ -12,35 +12,35 @@ What you are about to read is just a small Taste, bcs we cannot display all the 
 ## Main Gameplay Changes
 Combat Systems: Sets of Skills: Choose one perk for Warrior, Mage, Thief, or Priest every 5 levels in the Custom Skills menu. Subclasses of Skyrim 2: Select a perk in the Destiny tree every 5 levels from the Custom Skills menu. Custom Skill Trees: Adds around 15+ new perk trees. Stormcrown: Overhauls the entire Shouting System/Powers and adds a new Perk tree. Bloodskal Magic: Fixes the Bloodskal Quest, allowing beam enchantments on any weapon. Compatible with MCO. Know Your Enemy Redux and Know Your Enemy 2: Enemies now have resistances and weaknesses, requiring flexible combat strategies. Stances Framework: Four stances per weapon type, each with different animation sets and bonuses. Includes Ashes of War special attacks. SIGA: Slows down spellcasting for inexperienced casters, with speed increasing as you gain experience. Archery: Perfectly timed fully drawn bows trigger special effects or charge power shots. Boss Fights: Engage in custom boss battles with unique, non-craftable armor.
 
-Gameplay Additions
+## Gameplay Additions
 Quests: The college offers generated quests that reward you with modded items of your choice, at a price. Tons of Followers: Includes M’rissi, Yazakh, Malryn, Val Serano, Celine, and around 80+ new followers. A Home in the Sky: Dev Aveza, a floating airship, serves as a customizable home with immersive functions. 25+ New Lands Spaces: Explore Vominheim, Unslaad, Glenmoril, Siege at Icemoth, Vigilant, and more! Immersive Hunting: Overhauled hunting mechanics with the ability to pick up carcasses using Shift + E. Quests and Adventures: Adds over 100 new questlines. Where Are You: An in-game system to search, track, and teleport to any NPC or companion. Stress and Fear: Manage stress through in-game activities. Fear certain enemies if they defeat you. Camping Experience: Build a campfire and unlock new survival skills, like faster horse-riding. Lawbringer: Claim bandit strongholds for nearby factions to bring order to the world. Photomode: Access photomode via the escape menu. Summon Your Horse: Keybind your last ridden horse for easy summoning from the MCM menu. New ENB: Silent Horizons 2 core for enhanced graphics. Skyblivion Lockpick Menu: Brings Oblivion’s lockpick menu to Skyrim.
 
-Creatures
+## Creatures
 Creatures: Adds over 100+ new creatures, monsters, and animals.
 
-Textures
+## Textures
 Textures: Nearly every mesh and texture in the game is overhauled or replaced.
 
-Enchantments
+## Enchantments
 Enchantments: Overhauled by Thaumaturgy and other mods.
 
-Wearable Items
+## Wearable Items
 Clothing: Over 100 new clothing items (non-armor). 
 Weapons: Over 250 new weapons. 
 Cursed Sword: This feature adds cursed swords to the game. Check your MCM for more information. 
 Armors: Over 150 new armors. 
 Gear Spreader: Adds modded armors and clothing into chests, dressers, and end tables.
 
-Werewolves, Vampires, and Werebears
+## Werewolves, Vampires, and Werebears
 Overhaul: Werewolves and vampires are overhauled by Sacrosanct and Manbeast. Become a werebear via quest!
 
-Pilgrim
+## Pilgrim
 Pilgrim: Pray to gods, worship them, and unlock new abilities.
 
-NSFW Additions
+## NSFW Additions
 New Bodies for OBody: Includes 60+ new bodyslides. Apropos: Displays descriptive messages during NSFW scenes and includes a wear & tear system. Sexlab Sleep: Engage with sleeping NPCs. Sexlab Light Me Up: Ensures scenes are lit, excluding quicklight. Sexlab+: Enhanced Sexlab with faster scene initiation. Pandora: Combines FNIS with Nemesis to load over 45,000 animations in under 5 seconds. Non-intrusive NSFW Quests and Systems: Integrated without negatively interrupting gameplay.
 
-Character Creation
+## Character Creation
 Character Creation: Extensive overhauls and additions, offering numerous new options.
 
 Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
