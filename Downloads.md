@@ -6,15 +6,7 @@ HOSTED SITES: LOVER'S LAB, Patreon, Subsrcibestar, Mega, Mediafire
 Pandora Behavior Engine
 URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
 
-File: Pandora_Behaviour_Engine.zip , scroll down alot to find Pandora Behaviour Engine v1.1.6-alpha and get the file there.
-
-Pandora 1.1.6 and the Universal Patch are on Page 2 in the Forums now, so you gotta go to Page 2 to see 1.1.6 and 1.1.3.
-
-Scroll down to Pandora Behaviour Engine v1.1.3-alpha and click on the small Arrow called Assets, download Pandora.XPMSE.Patch.v1.1.3.Universal.zip.
-URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
-
-File: Pandora.XPMSE.Patch.v1.1.3.Universal.zip
-
+File: Pandora_Behaviour_Engine_v1.5.1-alpha.zip
 
 
 The Book of Sex
@@ -372,20 +364,6 @@ Hex Tenebria
 URL: https://www.mediafire.com/file/g1ei06w0wd6hlsd/[Cloud]+Hex+Tenebris+-+3BA.zip/file
 
 File: Only 1 File
-
-
-
-SC_HorseReplacer
-URL: https://www.patreon.com/posts/sc-horses-35289631
-
-File: SC_HorseReplacer.7z
-
-
-
-SC_HorseReplacer
-URL: https://www.patreon.com/posts/sc-horses-35289631
-
-File: SC_HorseReplacer_SSE(overwrites LE folder).7z
 
 
 
