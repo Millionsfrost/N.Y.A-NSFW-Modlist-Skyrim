@@ -15,7 +15,7 @@ Combat Systems: Sets of Skills: Choose one perk for Warrior, Mage, Thief, or Pri
 ## Gameplay Additions
 Quests: The college offers generated quests that reward you with modded items of your choice, at a price. Tons of Followers: Includes M’rissi, Yazakh, Malryn, Val Serano, Celine, and around 80+ new followers. A Home in the Sky: Dev Aveza, a floating airship, serves as a customizable home with immersive functions. 25+ New Lands Spaces: Explore Vominheim, Unslaad, Glenmoril, Siege at Icemoth, Vigilant, and more! Immersive Hunting: Overhauled hunting mechanics with the ability to pick up carcasses using Shift + E. Quests and Adventures: Adds over 100 new questlines. Where Are You: An in-game system to search, track, and teleport to any NPC or companion. Stress and Fear: Manage stress through in-game activities. Fear certain enemies if they defeat you. Camping Experience: Build a campfire and unlock new survival skills, like faster horse-riding. Lawbringer: Claim bandit strongholds for nearby factions to bring order to the world. Photomode: Access photomode via the escape menu. Summon Your Horse: Keybind your last ridden horse for easy summoning from the MCM menu. New ENB: Silent Horizons 2 core for enhanced graphics. Skyblivion Lockpick Menu: Brings Oblivion’s lockpick menu to Skyrim.
 
-## Creatures
+### Creatures
 Creatures: Adds over 100+ new creatures, monsters, and animals.
 
 ## Textures
