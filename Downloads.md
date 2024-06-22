@@ -461,6 +461,13 @@ File: `Scroll to the Bottom and grab 2.1 from the Guy with the Clown Face Post.`
 URL: https://www.loverslab.com/files/file/34130-bdor-2024-female-collection-by-kirax/
 File: Please download the following: `view or bCRQ2RQI`
 
-Go to download and click bCRQ2RQI and download the File from Mega. Or use Google Drive as an alternative. Mega works through WJ though.
+Go to download and click bCRQ2RQI and download the File from Mega. Or use Google Drive as an alternative.
+
+
+###  BDOR Complete Collection by Kirax ( Males )
+URL: https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw
+File: Please download the following: `Only 1 File`
+
+
 
 
