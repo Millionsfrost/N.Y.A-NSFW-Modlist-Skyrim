@@ -173,10 +173,7 @@ Sexlab+ and Pandora are in an Beta and Alpha state, so some features dont work p
 ## Simple (Ultra)wide Guide
 
 
-If you have 21:9, you can just reinstall Edge UI - 0.55 and tick 21:9 in "Resolution Patches" and all three of the patches available at the bottom of the section.
-
-
-Following are the steps for 32:9.
+Following are the steps for both 21:9 32:9.
 
 Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecialedition/mods/115241
 
@@ -187,8 +184,7 @@ Search the installed mods filter in MO2 located bottom middle.
 
 Type in edge ui and right click on Edge UI - 0.55 then proceed to click on the reinstall option.
 
-On the installation pop-up scroll down until you see "Resolution Patches" and click on "21:9" and install.
-If you find that skill description gets cut off, try "Other" option.
+On the installation pop-up scroll down until you see "Resolution Patches" and click on "Other".
 
 Scroll down to Patches section and tick all three boxes, then click install.
 
@@ -203,10 +199,9 @@ Navigate to SSEDisplayTweaks.ini located in SKSE > Plugins and open it up.
 
 On the [Render] section modify "Fullscreen = false", "Borderless = true" to set your game to borderless fullscreen.
 
-Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00".
+Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00" or whatever your resolution is.
 
 Install "Skyblivion Lockpick Menu - Widescreen Patches" for "Skyblivion Lockpick Menu."
-https://www.nexusmods.com/skyrimspecialedition/mods/117184?tab=files 
-
+https://www.nexusmods.com/skyrimspecialedition/mods/117184?tab=files
 
 
