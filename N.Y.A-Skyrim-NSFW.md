@@ -63,6 +63,7 @@ Wabbajack Bugs: Wabbajack has bugs downloading some mods. Download these mods ma
 
 ## List of Mods:
 Mods to Download Manually: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
+There are 4 Mega Downloads that need to be done manually! They wont work through Wabbajack.
 
 ### Mega Downloads:
 Always right-click > Standard Download. Mega defaults to "Download as ZIP," which recompresses files and Wabbajack won't recognize them.
