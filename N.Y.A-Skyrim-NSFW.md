@@ -204,4 +204,6 @@ Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 
 Install "Skyblivion Lockpick Menu - Widescreen Patches" for "Skyblivion Lockpick Menu."
 https://www.nexusmods.com/skyrimspecialedition/mods/117184?tab=files
 
+If you followed all the steps above, you may have a stretched UI, but all the UI component should fit in your monitor.
+
 
