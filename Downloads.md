@@ -174,7 +174,7 @@ File: `SLAL_AnimationsByLeito_v1.6SE.7z `
 ### Sir Nibbles Anim Pack
 URL: https://www.loverslab.com/topic/97964-sir-nibbles-anim-pack-se/page/3/#comment-3381469
 
-File: `Scroll a bit down and download SLAL NibblesAnims 5.82 SE Converted `
+File: `Scroll a bit down and download SLAL NibblesAnims 5.82 SE `
 
 
 
