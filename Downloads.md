@@ -58,10 +58,10 @@ File: `SexLab Confabulation ***SE*** V1.7.4.zip`
 
 
 
-### Sexlab Aroused NG
-URL: https://www.loverslab.com/files/file/27713-alpha-sexlab-aroused-ng
+### Sexlab Cum Overlays Extended 0.1.0
+URL: https://www.loverslab.com/files/file/25743-sexlab-cum-overlays-extended/
 
-File: `Sexlab Aroused NG v0.2.2.7z`
+File: `Sexlab Cum Overlays Extended v0.1.0.7z` and `SCOE Texture Set - SLACS Plus 4K v1.7z`
 
 
 
@@ -318,13 +318,6 @@ File: `SexLabFrameworkAE_v166.7z`
 
 
 
-### Sexlab Cum Overlays Extended
-URL: https://www.loverslab.com/files/file/25743-sexlab-cum-overlays-extended
-
-File: `Sexlab Cum Overlays Extended v0.1.0.7z`
-
-
-
 ### Dragon Marauder by Christine
 URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.7z/file
 
@@ -462,12 +455,5 @@ URL: https://www.loverslab.com/files/file/34130-bdor-2024-female-collection-by-k
 File: Please download the following: `view or bCRQ2RQI`
 
 Go to download and click bCRQ2RQI and download the File from Mega. Or use Google Drive as an alternative.
-
-
-###  BDOR Complete Collection by Kirax ( Males )
-URL: https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw
-File: Please download the following: `Only 1 File`
-
-
 
 
