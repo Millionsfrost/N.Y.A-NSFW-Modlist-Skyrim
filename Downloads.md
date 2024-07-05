@@ -17,7 +17,7 @@ File: `The Book Of Sex SE v1.1.7z`
 
 
 ### Fill Her Up Baka Edition Alternate Sounds
-URL: https://www.loverslab.com/files/file/17960-fill-her-up-baka-edition-alternate-sound-files/?do=download&csrf
+URL: https://www.loverslab.com/topic/169739-fill-her-up-baka-edition-alternate-sound-files/page/2/
 
 File: **Needs the file posted on the mod support forum page two, Baka Edition 1.96**
 
