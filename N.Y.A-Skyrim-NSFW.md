@@ -1,137 +1,118 @@
-![alt text](https://i.imgur.com/LLmFq2o.png "Logo Title Text 1")
-First things first: this list contains adult content, and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.
-Support and general talk about N.Y.A you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
+# N.Y.A NSFW Modlist Version 3.0+
+Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
+
+![alt text](https://i.imgur.com/LLmFq2o.png "N.Y.A Poster Image")
+
+## ATTENTION
+*This content is intended for individuals who are of legal age in their respective countries. By accessing or using this material, you confirm that you meet the age requirement to view adult content. If you are not of legal age, please exit immediately.
+Please be aware that it is your responsibility to comply with local laws and regulations regarding age restrictions.*
+
+ 
+Before posting a new support request in #unmodified-support or #modified-support, **please check our [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096)** on the Discord, and *ensure you have read the ReadMe properly* (you are here).
+
+[Community Discord](https://discord.gg/V38xZ6CtzQ)
+
+[Alternative Google Docs F.A.Q.](https://docs.google.com/document/d/1GPxGqeynqwNBjkZXYeFkhIO0hDv_lxKF3E8MEFg-EcA/edit?usp=sharing) (outdated)
+
+# Pre-installation Steps
+Before you install the modlist, there are some very important steps you need to take in order for a smooth installation process as well as a more seamless experience in-game.
+Before diving into the modlist, it's essential to prepare your game environment. These pre-installation steps will help ensure a smooth installation process and a more seamless experience in-game. Follow **all** guidelines carefully:
 
 
-# N.Y.A Mod List Version 3.0+
-
-# N.Y.A NSFW Modlist Key Features
-
-What you are about to read is just a small Taste, bcs we cannot display all the Features bcs it is just too much, but we hope it will help you find certain Things faster that you might have never known about!
-
-## Main Gameplay Changes
-Combat Systems: Sets of Skills: Choose one perk for Warrior, Mage, Thief, or Priest every 5 levels in the Custom Skills menu. Subclasses of Skyrim 2: Select a perk in the Destiny tree every 5 levels from the Custom Skills menu. Custom Skill Trees: Adds around 15+ new perk trees. Stormcrown: Overhauls the entire Shouting System/Powers and adds a new Perk tree. Bloodskal Magic: Fixes the Bloodskal Quest, allowing beam enchantments on any weapon. Compatible with MCO. Know Your Enemy Redux and Know Your Enemy 2: Enemies now have resistances and weaknesses, requiring flexible combat strategies. Stances Framework: Four stances per weapon type, each with different animation sets and bonuses. Includes Ashes of War special attacks. SIGA: Slows down spellcasting for inexperienced casters, with speed increasing as you gain experience. Archery: Perfectly timed fully drawn bows trigger special effects or charge power shots. Boss Fights: Engage in custom boss battles with unique, non-craftable armor.
-
-## Gameplay Additions
-Quests: The college offers generated quests that reward you with modded items of your choice, at a price. Tons of Followers: Includes M’rissi, Yazakh, Malryn, Val Serano, Celine, and around 80+ new followers. A Home in the Sky: Dev Aveza, a floating airship, serves as a customizable home with immersive functions. 25+ New Lands Spaces: Explore Vominheim, Unslaad, Glenmoril, Siege at Icemoth, Vigilant, and more! Immersive Hunting: Overhauled hunting mechanics with the ability to pick up carcasses using Shift + E. Quests and Adventures: Adds over 100 new questlines. Where Are You: An in-game system to search, track, and teleport to any NPC or companion. Stress and Fear: Manage stress through in-game activities. Fear certain enemies if they defeat you. Camping Experience: Build a campfire and unlock new survival skills, like faster horse-riding. Lawbringer: Claim bandit strongholds for nearby factions to bring order to the world. Photomode: Access photomode via the escape menu. Summon Your Horse: Keybind your last ridden horse for easy summoning from the MCM menu. New ENB: Silent Horizons 2 core for enhanced graphics. Skyblivion Lockpick Menu: Brings Oblivion’s lockpick menu to Skyrim.
-
-### Creatures
-Creatures: Adds over 100+ new creatures, monsters, and animals.
-
-### Textures
-Textures: Nearly every mesh and texture in the game is overhauled or replaced.
-
-### Enchantments
-Enchantments: Overhauled by Thaumaturgy and other mods.
-
-### Wearable Items
-Clothing: Over 100 new clothing items (non-armor). 
-Weapons: Over 250 new weapons. 
-Cursed Sword: This feature adds cursed swords to the game. Check your MCM for more information. 
-Armors: Over 150 new armors. 
-Gear Spreader: Adds modded armors and clothing into chests, dressers, and end tables.
-
-### Werewolves, Vampires, and Werebears
-Overhaul: Werewolves and vampires are overhauled by Sacrosanct and Manbeast. Become a werebear via quest!
-
-### Pilgrim
-Pilgrim: Pray to gods, worship them, and unlock new abilities.
-
-### NSFW Additions
-New Bodies for OBody: Includes 60+ new bodyslides. Apropos: Displays descriptive messages during NSFW scenes and includes a wear & tear system. Sexlab Sleep: Engage with sleeping NPCs. Sexlab Light Me Up: Ensures scenes are lit, excluding quicklight. Sexlab+: Enhanced Sexlab with faster scene initiation. Pandora: Combines FNIS with Nemesis to load over 45,000 animations in under 5 seconds. Non-intrusive NSFW Quests and Systems: Integrated without negatively interrupting gameplay.
-
-### Character Creation
-Character Creation: Extensive overhauls and additions, offering numerous new options.
-
-Every possible graphical element has been enhanced. We use the Picho ENB to ensure the best visual experience. Explore a transformed Skyrim with this comprehensive mod list, blending enhanced gameplay, stunning visuals, and unique content to create an immersive and captivating experience.
-
-## Required Specs
-
+## Requirements
+Verify that your system meets the recommended requirement for running the modlist. Having a "worse" computer than this will not stop you from playing, but being below these requirements will likely result in performance issues.
 
 ![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
+#### Page File and Shader Cache
+You will need to manually increase your page file as well as increase the size of your shader cache in order to avoid performance issues, even if you have a monster PC.
 
-### Accounts
-Nexus Account:
-You will need a Nexus Account. Premium is recommended to avoid needing to manually click download many times and to get faster speeds.
+To increase your page file, press Windows+R and enter **systempropertiesadvanced** into it. Under "Performance", click "Settings..." and swap to the Advanced tab. Here you want to click "Change" under virtual memory.
 
-### Loverslab Login
-You can't log in to Loverslab through Wabbajack settings anymore. You have to log in when the first Loverslab mod pops up. If it works the first time, great. If not, only log in, then restart the install.
 
-### Manual Downloads
-Wabbajack Bugs: Wabbajack has bugs downloading some mods. Download these mods manually before downloading the list with Wabbajack to avoid errors.
+Uncheck "Automatically manage..." and select your fastest SSD in the list of drives. Check "Custom Size" and set **Initial Size to 20480** and set **Maximum Size to 40000**. Now press "Set" and then APPLY before restarting your PC.
 
-## List of Mods:
-Mods to Download Manually: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md
-There are 4 Mega Downloads that need to be done manually! They wont work through Wabbajack.
 
-### Mega Downloads:
-Always right-click > Standard Download. Mega defaults to "Download as ZIP," which recompresses files and Wabbajack won't recognize them.
+Increase the shader cache size via Nvidia Control Panel to at least **10GB**. For AMD users, similar steps might apply.
 
-### Download Folder:
-Put all downloaded mods into the folder where you want the rest of the N.Y.A downloads to be stored. If you have an existing Skyrim mods downloads folder, use that to avoid downloading already existing mods.
 
-## Preparation:
-Microsoft Visual C++ Redistributable Packages:
-Install this package, needed by MO2. If you’ve used MO2 before, you might already have it. If not, download the x64 version under "Visual Studio 2015, 2017, and 2019".
 
-Make sure you have the latest VC redistributable: https://aka.ms/vs/17/release/vc_redist.x64.exe. Its needet for Open Animation Replacer.
+## Microsoft
+Download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
-If you think you do, try updating anyway. They aren't distributed through Windows updates, but are often packed with programs and are updated along while installing. Can't really do that automatically with a SKSE plugin.
+You are also going to need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
 
-### .NET Runtime:
-Download and install the .NET runtime: Download .NET Runtime https://dotnet.microsoft.com/en-us/download
 
-## Setup Your Page File:
-Hold down the LEFT Windows key and press R.
-Type systempropertiesadvanced in the run box and press ENTER.
-Under "Performance", click "Settings...".
-Switch to the "Advanced" tab.
-Under "Virtual Memory", click "Change...".
-Uncheck "Automatically manage...".
-Select your fastest SSD in the list of drives.
-Check "Custom Size".
-Set Initial Size to 20480.
-Set Maximum Size to 40000.
-Press "Set".
-Press OK, then APPLY, then OK.
-Restart your PC to apply the page file setting.
 
-## Setup Your Shader Cache:
-Increase the shader cache size via Nvidia Control Panel to at least 10GB. For AMD users, similar steps might apply.
+## Accounts
+You need an account on [Nexus](https://www.nexusmods.com). Premium is recommended to avoid having to manually click the download button for an entire day or so.
 
-### Antivirus Settings:
-Exclude your Wabbajack folder and your NYA installation folder from your antivirus’ real-time protection. Disable or uninstall any third-party antivirus to avoid issues with usvfs_proxy_x86.exe.
+You will also need an account on [Loverslab](https://www.loverslab.com). You will have to log in for manual downloads (a step later on), and you might need to log in to Loverslab inside Wabbajack once the modlist download actually begins.
 
-### Disable Steam Overlay:
-Turn off the Steam overlay to prevent issues with ENBs: Right-click on Skyrim Special Edition in your Steam library, click Properties > General, and deselect "Enable Steam Overlay while in-game".
+![alt text](https://i.imgur.com/zvSoCH9.png)
 
-### Set Game Language to English:
-Right-click on Skyrim Special Edition in your Steam library, click Properties > Language, and select English.
+# Preparing For Installation
+In order to avoid issues when installing through Wabbajack, you will need to follow these **VERY IMPORTANT** steps.
 
-### Change Steam's Updating Behavior:
-Right-click on Skyrim in your Steam library, click Properties > Updates, and change "Automatic Updates" to "Only update this game when I launch it". Disable Steam Cloud as well.
+## Setting Up Your Folders
+Press Windows+E and locate the Driver you would like to play Skyrim from, for example "C:\" or "D:\". Ensure that you have enough space for the list (750+ GB). You want to create 4 folders on the *root* of the drive (Here C:\).
 
-### Clean Current Skyrim Special Edition Installation
-If Already Installed:
-Right-click on Skyrim Special Edition in your Steam library, click Properties > Local Files > Browse.
-Uninstall the game via Steam.
-Check the explorer window for leftover files and delete them.
-Delete the Skyrim Special Edition folder in %LOCALAPPDATA%.
-Delete the Skyrim Special Edition folder in Documents\My Games.
+C:\NYA
 
-### Reinstall Skyrim Special Edition:
-Install Skyrim Special Edition in a dedicated folder on the root of a drive, e.g., C:\SteamLibrary.
+C:\wabbajack
 
-### Start Skyrim Special Edition:
-Start the game to create registry entries and default config files. Then close the game.
+C:\ModDownloads
 
-### Wabbajack Installation
-Installation:
-Set the installation location to a folder on the root of a drive, like C:\NYA. And Downloads to something like C:\NYA Downloads
-The download location can be on a seperate Drive than the installation location or use a common download folder for multiple modlists.
+C:\SkyrimGAME
 
-## Post Installation
+If you already have a folder on your PC which has mods from another modlist such as Eldergleam or your own collection, you can use this one instead of "C:\ModDownloads". However, make sure it is easily accessable via Wabbajack by having it placed on the root of the drive.
+
+
+You then **need** to *exclude* these folders completely in all of your Antivirus Programs, even if it is just Windows Defender. You should also disable or uninstall any third-party antivirus to avoid issues with usvfs_proxy_x86.exe.
+
+## Manual Downloads
+Wabbajack has issues downloading some mods which are not found on Nexus. This means you *need* to download a portion of the modlist manually before you begin.
+
+Make sure that every single digit matches for the downloads, because there are many mods which have slightly different versions. These mods must be placed into your mod folder "C:\ModDownloads". For **Mega Downloads**, *always* right-click > Standard Download, or they will not be recognized properly by Wabbajack.
+
+[Manual Download List](https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Downloads.md)
+
+
+## Steam Settings
+*Disable Steam Overlay*. Right-click on Skyrim Special Edition in your Steam > "Properties" > "General" > untick "Enable Steam Overlay while in-game". 
+
+*Set Game Language to English*. Right-click on Skyrim Special Edition in your Steam > "Properties" > "Language" > select English.
+
+*Change Updating Behavior*. Right-click Skyrim Special Edition in your Steam > "Properties" > "Updates" > change "Automatic Updates" to "Only update this game when I launch it". Disable Steam Cloud as well.
+
+After you have completed these steps, you will need to add a new library on the root of your drive so that Skyrim is **not** installed to Program Files (x86). We already made a folder for this earlier here: "C:\SkyrimGAME". To make this a Steam library, you need to click on Steam (top left of your Steam) > Settings > Storage > click the tab at the top > "Add Drive". From here, locate C:\SkyrimGAME *(or whatever you named it)* and select this as the folder. 
+
+It seems that Steam has issues when it comes to adding more libraries to the same drive, so in the case that it does not create a new library for you, you can try to follow the steps listed here: [Changing the default install folder](https://steamcommunity.com/discussions/forum/1/3395163747110198261/#c3395163747110912094).
+
+## Clean Your Skyrim Installation
+If you already have Skyrim Special Edition (with AE) installed, right-click on Skyrim Special Edition in your Steam library, click Properties > Local Files > Browse. Keep this explorer tab open and *uninstall* your Skyrim through Steam. If any files remain in the explorer, make sure to delete them. Following this, locate %localappdata% and delete the Skyrim folder. You must also delete the Skyrim folder in Documents\My Games.
+
+
+Reinstall Skyrim Special Edition in a dedicated folder on the root of a drive, e.g., C:\SkyrimGAME.
+
+
+Start the game to create registry entries and default config files. Make sure you do not alt-tab while the Creation Club content is installing. To avoid issues down the lines, also go into Creations menu and install all owned Creation Club content. Then close the game.
+
+After you have done this, you need to make sure to download Creation Kit for SE. This must be installed to the same Steam Library as your Skyrim *(for example "C:\SkyrimGAME")*.
+
+![alt text](https://i.imgur.com/KrIDlCk.png)
+
+## Installing via Wabbajack
+If you have completed **all** steps above, you can now begin to download N.Y.A through Wabbajack! For this, you naturally need to have [Wabbajack](https://www.wabbajack.org) installed *(into C:\wabbajack which should be excluded by antivirus)*.
+
+
+You need to log into Nexus within Wabbajack by clicking the Gear at the top before you begin your installation. Set the install location to an empty folder on the root of a drive, such as C:\NYA, and downloads to something like C:\ModDownloads. Note that you should usually tick the "Overwrite" if it is available.
+
+
+If you encounter any issues during the installation process, consider going through the steps of the ReadMe once more. If you still cannot figure out what the problem is, please refer to the [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096) in the Discord.
+
+
+# Post Installation
 
 Once you get into the game, Wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
 Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
