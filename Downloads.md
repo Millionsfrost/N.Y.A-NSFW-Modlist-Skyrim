@@ -367,7 +367,7 @@ File: `Intelligent Voiced Dirty Talk SE V1-4-0.zip`
 
 
 
-### Sexlab LightMeUp
+### Sexlab LightMeUp ( Disabled currently in the Modlist, download only if you want to use it manually. I disabled it bcs it makes light better in NSFW Scenes but sometimes with the ENBS you get black Squares on the Ground bcs the Game doesnt like that )
 URL: https://www.loverslab.com/files/file/8275-sexlab-lightmeup/
 
 File: `Sexlab LightMeUp SE 2.9.4.7z`
@@ -392,7 +392,7 @@ File: **You want to grab 4 Files here. **
 
 
 
-### Sexlab Light me up
+### Sexlab Light me up ( Disabled currently in the Modlist, download only if you want to use it manually. I disabled it bcs it makes light better in NSFW Scenes but sometimes with the ENBS you get black Squares on the Ground bcs the Game doesnt like that )
 URL: https://www.loverslab.com/topic/116474-sexlab-lightmeup/page/7/#comment-4050038
 
 File: `SLLMU Patch April 2023.7z`
