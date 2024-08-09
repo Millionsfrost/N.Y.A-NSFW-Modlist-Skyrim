@@ -137,9 +137,9 @@ File: `HornyCreaturesofSkyrimSE&AE_V2-3.7z`
 
 
 ### SLAL Billyy Animations
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-6-1/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-8-2/
 
-File: `SLAL_Billyy_Animations v7.9 SE.7z`
+File: `SLAL_Billyy_Animations v8.1 SE.7z`
 
 
 
@@ -448,5 +448,11 @@ URL: https://www.loverslab.com/files/file/34130-bdor-2024-female-collection-by-k
 File: Please download the following: `view or bCRQ2RQI`
 
 Go to download and click bCRQ2RQI and download the File from Mega. Or use Google Drive as an alternative.
+
+
+
+### Sexual Vampire Feeding SE 1.4
+URL: https://www.loverslab.com/files/file/9933-sexual-vampire-feeding-se/
+File: `SLAL Pack - Sexual Vampire Feed SE.7z`
 
 
