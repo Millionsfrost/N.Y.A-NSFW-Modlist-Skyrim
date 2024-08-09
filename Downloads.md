@@ -456,3 +456,8 @@ URL: https://www.loverslab.com/files/file/9933-sexual-vampire-feeding-se/
 File: `SLAL Pack - Sexual Vampire Feed SE.7z`
 
 
+
+### ZAZ Animation Packs for SE 2023
+URL: https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/
+File: `ZAZ 7.0SE-Rev1.7z`
+
