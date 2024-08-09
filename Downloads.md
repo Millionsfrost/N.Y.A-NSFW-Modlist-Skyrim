@@ -214,7 +214,9 @@ File: `MilkySLAL-2-3(SE) from the first Post and milkyanimobj-2-0 SE from the 2n
 
 
 ### NCK30 Animations
-URL: https://www.loverslab.com/files/file/6878-nck30-animations
+URL: https://www.loverslab.com/files/file/6878-nck30-animations < < < Dont use this Link
+
+URL 2 :https://www.loverslab.com/topic/107275-nck30-animations/page/77/  < < < This is for Version 3.9
 
 File: `NCK30 SLAL 3.9 SE.7z`
 
