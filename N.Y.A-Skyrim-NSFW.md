@@ -143,6 +143,16 @@ Please open as Fullscreen in your Brower or download the Picture.
 
 ![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
 
+## Extra Button not on Picture:
+
+Equipment Toggle
+
+This mod will hide certain Slots on your Body with 2 Hotkeys.
+
+Left Arrow Key = Armors Pieces, like Quivers and such. Works for NSFW Scenes
+
+Right Arrow Key = Weapons , like Bows, Right handed Weapons etc. Also good for NSFW Scenes.
+
 
 ### SexLab+
 This list uses SexLab+, a newer version of SexLab.
