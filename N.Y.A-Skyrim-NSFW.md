@@ -143,9 +143,9 @@ Please open as Fullscreen in your Brower or download the Picture.
 
 ![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
 
-## Extra Button not on Picture:
+## Extra Buttons not on Picture:
 
-Equipment Toggle
+### Equipment Toggle
 
 This mod will hide certain Slots on your Body with 2 Hotkeys.
 
