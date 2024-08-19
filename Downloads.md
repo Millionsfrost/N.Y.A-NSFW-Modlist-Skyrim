@@ -306,10 +306,29 @@ File: `TRX - Futa Armor Addon WIP 1.0.1`
 
 
 
-### TRX - Futanari Addon
-URL: https://www.loverslab.com/files/file/19039-trx-futanari-addon-wip
+### DW 3BA Futanari Schlong
+URL: https://www.loverslab.com/files/file/30414-dw-3ba-futanari-schlong/
 
-File: `TRX - Futanari Addon124.7z`
+File: `DW 3BA Futanari Schlong.7z`
+
+
+
+### TRX - Futanari Canine Addon Lite
+URL: https://www.loverslab.com/files/file/22787-trx-futanari-canine-addon-lite/
+
+File: `1543272595_TRXFutaaddonCanine1.7z`
+
+
+
+### Assorted Futanari Texture Patches
+URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/
+
+File: `Assorted Futanari Texture Patches - PB's Silky DW 3BA.7z`
+`Assorted Futanari Texture Patches - PB's Silky TRX Horse.7z`
+`Assorted Futanari Texture Patches - PB's Silky TRX Canine.7z`
+`Assorted Futanari Texture Patches - Zhizhen TRX Horse.7z`
+`Assorted Futanari Texture Patches - Zhizhen DW 3BA.7z`
+`Assorted Futanari Texture Patches - Zhizhen TRX Canine.7z`
 
 
 
