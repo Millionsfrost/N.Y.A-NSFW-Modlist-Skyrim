@@ -166,35 +166,7 @@ Sexlab+ and Pandora are in an Beta and Alpha state, so some features dont work p
 
 Following are the steps for both 21:9 32:9.
 
-Download Untarnished UI - Ultrawide Fix: https://www.nexusmods.com/skyrimspecialedition/mods/115241
+https://www.nexusmods.com/skyrimspecialedition/mods/127233?tab=description
 
-Install the mod right below Untarnished UI 1.1.6 and above Sovngarde - A Nordic Font.
-
-
-Search the installed mods filter in MO2 located bottom middle.
-
-Type in edge ui and right click on Edge UI - 0.55 then proceed to click on the reinstall option.
-
-On the installation pop-up scroll down until you see "Resolution Patches" and click on "Other".
-
-Scroll down to Patches section and tick all three boxes, then click install.
-
-When MO2 gives you a pop up to replace or merge, click replace.
-
-
-Search the installed mods filter in MO2 located bottom middle again.
-
-Type in SSE Display Tweaks, right click on the mod and click "Open in Explorer".
-
-Navigate to SSEDisplayTweaks.ini located in SKSE > Plugins and open it up.
-
-On the [Render] section modify "Fullscreen = false", "Borderless = true" to set your game to borderless fullscreen.
-
-Scroll down a little bit more to modify the resolution: "Resolution = 5120x1440 ResolutionScale = 1.00" or whatever your resolution is.
-
-Install "Skyblivion Lockpick Menu - Widescreen Patches" for "Skyblivion Lockpick Menu."
-https://www.nexusmods.com/skyrimspecialedition/mods/117184?tab=files
-
-If you followed all the steps above, you may have a stretched UI, but all the UI component should fit in your monitor.
-
+Grab this Mod and put it at the Bottom and boom you are done.
 
