@@ -468,7 +468,7 @@ File: `Scroll to the Bottom and grab 2.1 from the Guy with the Clown Face Post.`
 URL: https://www.loverslab.com/files/file/34130-bdor-2024-female-collection-by-kirax/
 File: Please download the following: `view or bCRQ2RQI`
 
-Go to download and click bCRQ2RQI and download the File from Mega. Or use Google Drive as an alternative.
+Go to download and click view and download the File from Mega. Or use bCRQ2RQI for Google Drive as an alternative.
 
 
 
