@@ -42,6 +42,11 @@ Download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 202
 
 You are also going to need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
 
+Make Onedrive exclude folders from syncing:
+https://support.microsoft.com/en-us/office/choose-which-onedrive-folders-to-sync-to-your-computer-98b8b011-8b94-419b-aa95-a14ff2415e85
+
+or Disabling Onedrive:
+https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0
 
 
 ## Accounts
