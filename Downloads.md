@@ -482,3 +482,11 @@ File: `SLAL Pack - Sexual Vampire Feed SE.7z`
 URL: https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/
 File: `ZAZ 7.0SE-Rev1.7z`
 
+
+
+### Demonic Creatures
+URL: [https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/](https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v18-patch-v182/)
+File: `V1.8 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt`
+Download it manually via Mediafire.
+
+
