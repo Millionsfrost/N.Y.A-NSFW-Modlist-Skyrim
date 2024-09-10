@@ -459,10 +459,6 @@ URL: https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mo
 File: Please download the following:  `Only 1 File`
 
 
-### Apropos 2
-URL: https://www.loverslab.com/topic/136768-apropos-2-for-sse/
-File: `Scroll to the Bottom and grab 2.1 from the Guy with the Clown Face Post.`
-
 
 ### Kirax BDOR 2024 Female Collection
 URL: https://www.loverslab.com/files/file/34130-bdor-2024-female-collection-by-kirax/
