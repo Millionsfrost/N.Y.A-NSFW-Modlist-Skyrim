@@ -128,7 +128,6 @@ Now you can press enter and spawn in the gameworld. Then proceed to watch my You
 We also got Fill her up working again. In Sexlab MCM under Extra Effects you wanna change the option to Seperate Orgasms. Then Fill her up works again!
 
 ### Manual Settings:
-Set CompassCheat to 1. Then save, quit Skyrim, and reload your save. (If you want the compass back, the lore-friendly way is through Campfire Perks.)
 
 Later in the game, you can open the Int. Voiced Dirty Talk. Under Assign Voice, pick Voice Slot 1. Then a new screen opens. On the right side, manually enter the name of your character (beware of typos). In the top right, you can listen to samples. Under Assign Voice as Default, pick Voice 2 for females and for the male one, you can pick 1-8. Keep in mind this is an alpha patch, so not everything might work 100%. Dialogue options don’t work yet. You can also ignore all this and just don’t use this feature if you don’t like voices during scenes. This mod also has moaning and such, so you might want to use it. You can fiddle around with it as you want. Normally its setup correct if you are female but it cant hurt to double Check.
 
