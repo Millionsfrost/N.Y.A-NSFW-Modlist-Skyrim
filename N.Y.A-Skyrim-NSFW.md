@@ -135,6 +135,22 @@ Setting Default Male Voice to Slot 0 in IVDT removes male orgasm sound from fema
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
+### Beth Pie
+
+Beth Pie is now in Mo2
+You can adjust Graphics Settings now in Mo2 in the top right Drop Down Menu, If you dont know what you are doing only Choose the Low/ Medium / High / or Ultra Settings. The List uses High Settings now.
+
+DO NOT FORGET to check the Skyrim Prefs INI if you wanna use MAIN ENB or Performance Version.
+
+
+Skyrimprefs.ini for MAIN:
+bIBLFenable=0
+bSAOenable=0
+
+Skyrimprefs.ini for PERFORMANCE:
+bIBLFenable=0
+bSAOenable=1
+
 ## NOTE:
 DO NOT USE VANILLA as A START
 
@@ -149,13 +165,9 @@ Please open as Fullscreen in your Brower or download the Picture.
 
 ## Extra Buttons not on Picture:
 
-### Equipment Toggle
+### Lazy Item Hider
 
-This mod will hide certain Slots on your Body with 2 Hotkeys.
-
-Left Arrow Key = Armors Pieces, like Quivers and such. Works for NSFW Scenes
-
-Right Arrow Key = Weapons , like Bows, Right handed Weapons etc. Also good for NSFW Scenes.
+Lazy Item Hider - Toggle helm weapons and more. When you equip a Helm now, it automaticly hides when you put your Weapon away. This Mod has an MCM and is highly adjustable. You can hide all Kinds of Things like Weapons etc etc, even use a Hotkey or dont use Auto hide. Its all on you. I only set it up for Heads so its not so intrusive. Normally the manual way is right Shift, but you should be able to set it up later ingame after you are in the Gameworl, set it up as you see fit.
 
 
 ### SexLab+
