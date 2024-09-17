@@ -7,8 +7,7 @@ Welcome to the Nasa Punk centered Modlist! This comprehensive mod compilation ai
 *This content is intended for individuals who are of legal age in their respective countries. By accessing or using this material, you confirm that you meet the age requirement to view adult content. If you are not of legal age, please exit immediately.
 Please be aware that it is your responsibility to comply with local laws and regulations regarding age restrictions.*
 
- 
-Before posting a new support request in #unmodified-support or #modified-support, **please check our [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096)** on the Discord, and *ensure you have read the ReadMe properly* (you are here).
+Before posting a new support request in #unmodified-support or #modified-support, **please check our FAQ.
 
 [Community Discord](https://discord.gg/V38xZ6CtzQ)
 
