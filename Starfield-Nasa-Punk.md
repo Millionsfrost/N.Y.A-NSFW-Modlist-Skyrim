@@ -37,32 +37,32 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## Wabbajack install
 
-- 1.Before you go through this install, please be aware that this List is in Beta (since September 15).
-- 2.Create the following three folders at the root of your drive (e.g., C:, D:, or whichever drive you’re using). Star Field Nasa Punk Install / Starfield Nasa Punk Downloads and Compiler.
-- 3.Download Starfield Nasa Punk 0.1.wabbajack and put it inside the COMPILER folder. Later on the Version might Change ofc. The Wabbajack File is currently only available on Discord. Later on also Nexus and Wabbajack itself.
-- 4.Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the WABBAJACK folder.
-- 5.In the WABBAJACK folder, run Wabbajack.exe to install it.
-- 6.After the install finishes, run Wabbajack.exe again to open it.
-- 7.Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you’re already logged in, log out and log back in. Trust me
-- 8.Go back to the Wabbajack Main Menu and select Install From Disk
-- 9.Match everything to this (remember the drive letter like K, C, etc should match yours, not mine): Target Modlist = Wabbajack File you got from Nexus or Discord. Modlist Installation will be your Install Folder you setup and Downloads will be the Downloads Folder you setup.
-- 10.Start the install. if you don’t have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
-- 11.Wait for the install to finish. I advise you to read the Nasa Punk Documentation to know what awaits you! Nasa Punk Documentation here: https://docs.google.com/document/d/e/2PACX-1vQINWjsR9EOJ1IiGA_gFaJwR1ZPbHbq_S6uedBOXDbjCafcjnkT4HC-2EPHDE9Dj2wNB4dXGRhrl7vx/pub
+- 1. Before you go through this install, please be aware that this List is in Beta (since September 15).
+- 2. Create the following three folders at the root of your drive (e.g., C:, D:, or whichever drive you’re using). Star Field Nasa Punk Install / Starfield Nasa Punk Downloads and Compiler.
+- 3. Download Starfield Nasa Punk 0.1.wabbajack and put it inside the COMPILER folder. Later on the Version might Change ofc. The Wabbajack File is currently only available on Discord. Later on also Nexus and Wabbajack itself.
+- 4. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the WABBAJACK folder.
+- 5. In the WABBAJACK folder, run Wabbajack.exe to install it.
+- 6. After the install finishes, run Wabbajack.exe again to open it.
+- 7. Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you’re already logged in, log out and log back in. Trust me
+- 8. Go back to the Wabbajack Main Menu and select Install From Disk
+- 9. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine): Target Modlist = Wabbajack File you got from Nexus or Discord. Modlist Installation will be your Install Folder you setup and Downloads will be the Downloads Folder you setup.
+- 10. Start the install. if you don’t have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
+- 11. Wait for the install to finish. I advise you to read the Nasa Punk Documentation to know what awaits you! Nasa Punk Documentation here: https://docs.google.com/document/d/e/2PACX-1vQINWjsR9EOJ1IiGA_gFaJwR1ZPbHbq_S6uedBOXDbjCafcjnkT4HC-2EPHDE9Dj2wNB4dXGRhrl7vx/pub
 
 # Note: If you encounter any installation errors, please read what the error is on the left-hand side and consult the FAQ, or take a picture of it and send it to the help section of my Discord.
 
 ## Post Installation Steps
 
-- 1.Go to Documents\My Games\Starfield and place the StarfieldCustom.ini and prefs ini in there. You can get the 2 Ini files on my Nexus Modpage for the List or on my Discord. Overwrite if asked. PS: Do not use BethPie, it will overwrite the Custom Settings!
-- 2.Launch ModOrganizer.exe in the Star Wars Nasa Punk Install Folder. You will get a popup asking about nxm links. Click Yes.
-- 3.Note: If ModOrganizer.exe is failing to open or is missing, then simply refer to the solutions in my F.A.Q.
+- 1. Go to Documents\My Games\Starfield and place the StarfieldCustom.ini and prefs ini in there. You can get the 2 Ini files on my Nexus Modpage for the List or on my Discord. Overwrite if asked. PS: Do not use BethPie, it will overwrite the Custom Settings!
+- 2. Launch ModOrganizer.exe in the Star Wars Nasa Punk Install Folder. You will get a popup asking about nxm links. Click Yes.
+- 3. Note: If ModOrganizer.exe is failing to open or is missing, then simply refer to the solutions in my F.A.Q.
 - 4. Make sure if you launch the Game to always use the Launch Button in the top right called SFSE Starfield. Without it everything breaks.
 
 ## In Game Settings
 
-- 1.Launch the game by selecting SFSE Starfield at the top right side and clicking Run. Do not panic if this takes awhile. It is normal for it to take a few minutes for the first time. If this is a fresh install of Starfield, then I recommend you restart your game after reaching the main menu. Otherwise your mods won’t properly load in.
-- 2.After starting a new game, you spawn in Coruscant and choose your starting area and loadout. Option 0 of Constellation allows you to go to the Lodge whenever you want to start the main quest. Option 1 starts you off at the Lodge. Press confirm at the bottom to enter character creation.
-- 3.You can skip the Intro to get into Character Creation directly. After creating your character, you must save and then fully restart your game. Otherwise you will have sound, animation, and texture issues.
+- 1. Launch the game by selecting SFSE Starfield at the top right side and clicking Run. Do not panic if this takes awhile. It is normal for it to take a few minutes for the first time. If this is a fresh install of Starfield, then I recommend you restart your game after reaching the main menu. Otherwise your mods won’t properly load in.
+- 2. After starting a new game, you spawn in Coruscant and choose your starting area and loadout. Option 0 of Constellation allows you to go to the Lodge whenever you want to start the main quest. Option 1 starts you off at the Lodge. Press confirm at the bottom to enter character creation.
+- 3. You can skip the Intro to get into Character Creation directly. After creating your character, you must save and then fully restart your game. Otherwise you will have sound, animation, and texture issues.
 - 4. WARNING WARNING: Do not skip to the Constellation Lodge, it can be problematic and cause random Crashes from going forward.
 
 Many of your graphics settings have probably reset. There are some graphics setting you should configure regardless of your the specs of your PC:
