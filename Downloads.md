@@ -139,7 +139,7 @@ File: `HornyCreaturesofSkyrimSE&AE_V2-3.7z`
 ### SLAL Billyy Animations
 URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-8-2/
 
-File: `SLAL_Billyy_Animations v8.1 SE.7z`
+File: `SLAL_Billyy_Animations v8.2 SE.7z`
 
 
 
@@ -154,6 +154,13 @@ File: `K4_anims-1.5SE.7z`
 URL: https://www.loverslab.com/files/file/3975-znaroks-animations-with-slal-packsse-version-included
 
 File: `SlalZnaroksPack3.0(SSE).7z`
+
+
+
+### Wizard6 Animations
+URL: https://www.loverslab.com/files/file/35012-wizard6-animation-pack/
+
+File: `Wizard6 Animations v2.0 BETA.rar`
 
 
 
@@ -214,11 +221,9 @@ File: `MilkySLAL-2-3(SE) from the first Post and milkyanimobj-2-0 SE from the 2n
 
 
 ### NCK30 Animations
-URL: https://www.loverslab.com/files/file/6878-nck30-animations < < < Dont use this Link
+URL: https://www.loverslab.com/files/file/6878-nck30-animations
 
-URL 2 :https://www.loverslab.com/topic/107275-nck30-animations/page/77/  < < < This is for Version 3.9
-
-File: `NCK30 SLAL 3.9 SE.7z`
+File: `NCK30 SLAL 4.4 SE.7z`
 
 
 
