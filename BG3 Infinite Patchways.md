@@ -78,6 +78,8 @@ Choose whatever Difficulty you want, i reccomend Custom, Balanced Settings and A
 
 Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. But dont worry you can respec ingame easily via Respec Spell.
 
+Dont open the Mod Manage ingame, only the Mod Configuration Menu if you wanna adjust Settings.
+
 
 ### Launching the Modlist
 
