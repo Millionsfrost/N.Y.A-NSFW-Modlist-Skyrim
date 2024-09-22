@@ -4,7 +4,7 @@
 
 # Infinite Pathways
 
-## "The Essentials, Plus Sloot."
+## "Infinite Possibilities, Plus Tons and Tons of new Loot."
 
 ## Preamble
 
