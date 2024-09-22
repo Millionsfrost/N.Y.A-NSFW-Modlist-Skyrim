@@ -62,6 +62,23 @@ _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur
 
 Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, mostly you can disable them in Mod Organizer 2. The Sex Framework is optional and doesnt add much Content anyway.
 
+## Important Information
+
+In Mo2, there is a Mod at the very Bottom called Output Overwrite. Please copy its contents into the Mo2 overwrite at the very bottom thats written in red. Overwrite everything if asked.
+
+![image](https://github.com/user-attachments/assets/2cd7e1c0-6ab1-46ce-b8a1-0e5abfa465c1) 
+
+You can rightclick the Output and click Open in Explorer, and then copy the Contents into the red overwrite, also by rightclicking it and Opening it in the Explorer.
+
+There is 2 Undead Races bcs of different Bodies.
+
+Certain Origins Characters have wrong Body Colors in Character Creation its fixed ingame.
+
+Choose whatever Difficulty you want, i reccomend Custom, Balanced Settings and Activate Honour Ruleset. Rest is on you.
+
+Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. But dont worry you can respec ingame easily via Respec Spell.
+
+
 ### Launching the Modlist
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **BG3** entry in the drop-down menu. 
