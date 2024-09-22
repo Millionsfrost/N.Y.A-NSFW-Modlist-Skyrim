@@ -1,24 +1,26 @@
 # PLEASE DO NOT CLOSE THIS WINDOW. 
 
-### THIS DOCUMENT MUST BE FOLLOWED FOR VENTURE FORTH TO WORK PROPERLY.
+### THIS DOCUMENT MUST BE FOLLOWED FOR Infinite Patchways TO WORK PROPERLY.
 
-# VENTURE FORTH
+# Infinite Pathways
 
 ## "The Essentials, Plus Sloot."
 
 ## Preamble
 
-_Venture Forth_ is a small, proof-of-concept Quality of Life improvement for _Baldur's Gate 3_ which also includes the latest nude body overhauls and a selection of skimpy outfits.
+Inifnite Pathways as the Name suggests, is a Massive Modlist that gives you a ton of Possibilities. There is an Extreme Amount of new Classes and Subclasses aswell as Races and Cusomization Choices. Updated Textures aswell.
+
+The Loot is modded and contains over 3000 new Items. The whole Basegame has been overhauled aswell with the Homebrew Comprehensive Gameplay Overhaul. Everything is new and Exiting. Running on Patch 7.
 
 #### More Information
 
-If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/venture-forth)
+If you are interested in examining a complete list of the mods in this modlist, Mod Library Link: Follows Later.
 
 ### Requirements
 
 - [Nexus Account](https://nexusmods.com/)
 
-This account is mandatory, it must be created before continuing. _Nexus Free_ is probably adequate because the modlist is minimal in size.
+This account is mandatory, it must be created before continuing. Nexus Premium would be good because its over 600 Mods. Its possibile being free yes, but you have to click quite abit.
 
 ## Installation
 
@@ -54,13 +56,11 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 **Wabbajack could not find my game folder:**
 
-_Venture Forth_ will not work with anything but a legitimate copy of _Baldur's Gate 3_ purchased on _Steam._ If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
+_Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur's Gate 3_ purchased on _Steam._ If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
 
 ## Post-Installation
 
-### Registering the Mods with _BG3 Mod Manager_
-
-Unfortunately, while _Wabbajack_ can handle the installation of all the mods necessary for this modlist, it cannot yet automatically register configuration changes necessary to make them work in game. To accomplish this yourself, you need to launch "BG3 Mod Manager" from the dropdown menu. Once it is open, select "Import Order From File..." from the "File" menu. The BG3MM directory will appear, double click on the **bottom most** mod configuration (the `.tsv` file). You will receive an error that mods are missing, this is a false flag because of MO2's VFS file structure. You must click "Remove All Missing" here. Don't worry -- _ModFixer_ is still in the list as an override. Once that is done, select "Export Order to Game" from the "File" menu and the mods will all be registered to your game.
+Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, mostly you can disable them in Mod Organizer 2. The Sex Framework is optional and doesnt add much Content anyway.
 
 ### Launching the Modlist
 
@@ -74,18 +74,15 @@ Download the modlist's `.wabbajack` file again and specify the same directories.
 
 ## Removing the Modlist
 
-You can just remove the _Venture Forth_ folder. 
+You can just remove the _Infinite Pathways_ folder. 
 
 ## Contact
 
-I am regularly available on [my discord server](https://discord.gg/jolly-coop).
+I am regularly available on https://discord.gg/AsJPrAv7MU
 
-For more information about me, as well as ways to show your appreciation for my work, visit https://cacophony.me
+For more information about me, as well as ways to show your appreciation for my work you can visit my Patreon or donate directly via Paypal.
 
-**cacophony's SubscribeStar:** [https://subscribestar.adult/cacophony](https://subscribestar.adult/cacophony)
+## Vermillions Patreon: https://www.patreon.com/user?u=97465154
 
-**cacophony1979's Patreon:** [https://patreon.com/cacophony1979](https://patreon.com/cacophony1979)
+## Vermillion Paypal: https://bit.ly/2Q2sBoa 
 
-**cacophony1979's Ko-Fi:** [https://ko-fi.com/cacophony1979](https://ko-fi.com/cacophony1979)
-
-My _Wabbajack_ related email is cacophony-wj@outlook.com.
