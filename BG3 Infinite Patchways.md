@@ -24,6 +24,12 @@ This account is mandatory, it must be created before continuing. Nexus Premium w
 
 ## Installation
 
+Nuke Baldurs Gate 3 ( Delete everything ) : Uninstall the game completely, delete anything left of the install folder (e.g. d:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo. This is especially true now with Mod.io integration and Larian's official mod manager services.
+
+Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of your drive (IE: C:/Steam/.../BaldursGate3), Wabbajack/MO2 might struggle if it is in a default Steam location like C:/program files(86)/Steam/.../BG3.
+
+Launch the game (vanilla) once to regenerate all of the folders/paths that MO2 needs.
+
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
