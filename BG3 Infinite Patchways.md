@@ -91,7 +91,7 @@ Ignore Missing Icons.
 Randomize Button will crash your Game.
 
 
-### Launching the Modlist
+### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up.
 
 1. Open Mod Organizer 2
 2. Install  the first mod in there ( Should be ImpUi )
