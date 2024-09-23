@@ -86,6 +86,8 @@ Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. 
 
 Dont open the Mod Manage ingame, only the Mod Configuration Menu if you wanna adjust Settings.
 
+Some Classes work until Level 20, other only unti Level 12. I advice to Multiclass then.
+
 Ignore Missing Icons.
 
 Randomize Button will crash your Game.
