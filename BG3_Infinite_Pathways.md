@@ -104,7 +104,10 @@ Info: Ignore Errors when you load a Save. Its normal.
 3. Then uninstall the Imp UI Mod again.
 4. Close the game
 5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
-6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading. 
+6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
+7. If you followed the Overwrite Instructions above you will have a Checkmark in the Picture down below. If its unchecked you missed the Overwrite Copy Part. Remember, after every Update you need to redo the Overwrite Step.
+8. ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
+
 
 Please remember that if for some reason you launch _Baldur's Gate 3_ outside of _MO2_, all of the mods will become unregistered and you must repeat the steps in the Registering Mods paragraph.
 
