@@ -1,132 +1,132 @@
 [
-    {
-        "title": "N.Y.A-NSFW-Modlist-Skyrim",
-        "description": "Experience N.Y.A. on version 1170 for the Anniversary Edition. Powered by Sexlab\u002B and the Pandora Engine, this release includes over 2500 mods and optimized performance LODs. Enjoy an immersive and refined Skyrim experience, with non-intrusive NSFW elements seamlessly integrated.",
-        "author": "Vermillion",
-        "maintainers": [
-            "github/Millionsfrost"
-        ],
-        "game": "skyrimspecialedition",
-        "official": false,
-        "tags": [
-            "Vokriinator Black",
-            "MCO",
-            "Stances",
-            "Power Fantasy",
-            "New Lands",
-            "New Quests",
-            "Sexlab\u002B",
-            "Pandora Engine"
-        ],
-        "nsfw": true,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://camo.githubusercontent.com/7930e301ccf1d8571ddb7d97191e2f7eeb8f6242d81a633d29278a5f2ef33074/68747470733a2f2f692e696d6775722e636f6d2f4c4c6d4671326f2e706e67",
-            "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
-            "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_d1b485b8-21a4-4c68-a2e9-a0204e0a1879",
-            "machineURL": "nyaskyrim",
-            "discordURL": "https://discord.gg/V38xZ6CtzQ"
-        },
-        "download_metadata": {
-            "Hash": "j3cD0fr+SC4=",
-            "Size": 1030538635,
-            "NumberOfArchives": 3265,
-            "SizeOfArchives": 287700074247,
-            "NumberOfInstalledFiles": 418982,
-            "SizeOfInstalledFiles": 561308032992
-        },
-        "version": "4.2",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2024-09-22T14:31:50.9092088Z",
-        "repositoryName": ""
+  {
+    "title": "N.Y.A-NSFW-Modlist-Skyrim",
+    "description": "Experience N.Y.A. on version 1170 for the Anniversary Edition. Powered by Sexlab\u002B and the Pandora Engine, this release includes over 2500 mods and optimized performance LODs. Enjoy an immersive and refined Skyrim experience, with non-intrusive NSFW elements seamlessly integrated.",
+    "author": "Vermillion",
+    "maintainers": [
+      "github/Millionsfrost"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Vokriinator Black",
+      "MCO",
+      "Stances",
+      "Power Fantasy",
+      "New Lands",
+      "New Quests",
+      "Sexlab\u002B",
+      "Pandora Engine"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://camo.githubusercontent.com/7930e301ccf1d8571ddb7d97191e2f7eeb8f6242d81a633d29278a5f2ef33074/68747470733a2f2f692e696d6775722e636f6d2f4c4c6d4671326f2e706e67",
+      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
+      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_d1b485b8-21a4-4c68-a2e9-a0204e0a1879",
+      "machineURL": "nyaskyrim",
+      "discordURL": "https://discord.gg/V38xZ6CtzQ"
     },
-    {
-        "title": "Sandland",
-        "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul.",
-        "author": "Vermillion",
-        "maintainers": [
-            "github/Millionsfrost"
-        ],
-        "game": "fallout4",
-        "official": false,
-        "tags": [
-            "Desert Theme",
-            "You are Exceptional Perks System",
-            "Quest Mods",
-            "Outfit Mods",
-            "Sim Settlements 2",
-            "Gore",
-            "New Animation System"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
-            "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
-            "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_81c60b00-3286-4583-9940-0a1d91078920",
-            "machineURL": "sandland",
-            "discordURL": "https://discord.gg/V38xZ6CtzQ"
-        },
-        "download_metadata": {
-            "Hash": "9x5O+rPqAUk=",
-            "Size": 265851118,
-            "NumberOfArchives": 1314,
-            "SizeOfArchives": 201308376850,
-            "NumberOfInstalledFiles": 145857,
-            "SizeOfInstalledFiles": 306142676947
-        },
-        "version": "1.9",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2024-07-22T11:59:56.5722694Z",
-        "repositoryName": ""
+    "download_metadata": {
+      "Hash": "j3cD0fr+SC4=",
+      "Size": 1030538635,
+      "NumberOfArchives": 3265,
+      "SizeOfArchives": 287700074247,
+      "NumberOfInstalledFiles": 418982,
+      "SizeOfInstalledFiles": 561308032992
     },
-    {
-        "title": "Infinite Pathways",
-        "description": "Release Version of Infinite Pathways. A Complete Overhaul of Baldurs Gate 3 with Tons of new Classes, Subclasses and Races. Over 1000 new Choices in Character Creation.",
-        "author": "Vermillion",
-        "maintainers": [
-            "github/Millionsfrost"
-        ],
-        "game": "baldursgate3",
-        "official": false,
-        "tags": [
-            "Total Overhaul",
-            "New Spells",
-            "Over 50 new Subclasses/Classes",
-            "New Outfit ",
-            "New Armors",
-            "New Weapons",
-            "Custom Loot Lists"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
-            "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/BG3%20Infinite%20Patchways.md",
-            "download": "https://authored-files.wabbajack.org/Infinite%20Pathways.wabbajack_15f7b01d-e8b4-43ff-9c61-6618a579c3d3",
-            "machineURL": "Millionsfrost_BG3_Infinite_Pathways",
-            "discordURL": "https://discord.gg/AsJPrAv7MU"
-        },
-        "download_metadata": {
-            "Hash": "xmSfSpSEQnE=",
-            "Size": 82122070,
-            "NumberOfArchives": 653,
-            "SizeOfArchives": 40016098556,
-            "NumberOfInstalledFiles": 8210,
-            "SizeOfInstalledFiles": 53329666989
-        },
-        "version": "1.0",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2024-07-22T11:59:56.5722694Z",
-        "repositoryName": ""
-    }
+    "version": "4.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-09-22T14:31:50.9092088Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Sandland",
+    "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul.",
+    "author": "Vermillion",
+    "maintainers": [
+      "github/Millionsfrost"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Desert Theme",
+      "You are Exceptional Perks System",
+      "Quest Mods",
+      "Outfit Mods",
+      "Sim Settlements 2",
+      "Gore",
+      "New Animation System"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
+      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
+      "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_81c60b00-3286-4583-9940-0a1d91078920",
+      "machineURL": "sandland",
+      "discordURL": "https://discord.gg/V38xZ6CtzQ"
+    },
+    "download_metadata": {
+      "Hash": "9x5O+rPqAUk=",
+      "Size": 265851118,
+      "NumberOfArchives": 1314,
+      "SizeOfArchives": 201308376850,
+      "NumberOfInstalledFiles": 145857,
+      "SizeOfInstalledFiles": 306142676947
+    },
+    "version": "1.9",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-07-22T11:59:56.5722694Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Infinite Pathways",
+    "description": "Release Version of Infinite Pathways. A Complete Overhaul of Baldurs Gate 3 with Tons of new Classes, Subclasses and Races. Over 1000 new Choices in Character Creation.",
+    "author": "Vermillion",
+    "maintainers": [
+      "github/Millionsfrost"
+    ],
+    "game": "baldursgate3",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "New Spells",
+      "Over 50 new Subclasses/Classes",
+      "New Outfit ",
+      "New Armors",
+      "New Weapons",
+      "Custom Loot Lists"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://camo.githubusercontent.com/64a1e66bc236b32ed463f5131258bddbd60432de391c4634ea2e3b70c3e08f70/68747470733a2f2f692e696d6775722e636f6d2f784143345477472e6a706567",
+      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/BG3%20Infinite%20Patchways.md",
+      "download": "https://authored-files.wabbajack.org/Infinite Pathways.wabbajack_e9dacb6f-989f-4987-a8d0-c276cc8100c0",
+      "machineURL": "Millionsfrost_BG3_Infinite_Pathways",
+      "discordURL": "https://discord.gg/AsJPrAv7MU"
+    },
+    "download_metadata": {
+      "Hash": "Bl580sdgvRw=",
+      "Size": 82122116,
+      "NumberOfArchives": 653,
+      "SizeOfArchives": 40016098556,
+      "NumberOfInstalledFiles": 8210,
+      "SizeOfInstalledFiles": 53329667027
+    },
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-09-23T13:19:32.5261584Z",
+    "repositoryName": ""
+  }
 ]
