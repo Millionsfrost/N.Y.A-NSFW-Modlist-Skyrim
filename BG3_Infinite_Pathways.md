@@ -99,8 +99,8 @@ Info: Ignore Errors when you load a Save. Its normal.
 
 ### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up.
 
-1. Open Mod Organizer 2
-2. Install  the first mod in there ( Should be ImpUi )
+1. Open Mod Manager Ingame on the Bg3 Client.
+2. Install the first mod in there ( Should be ImpUi )
 3. Then uninstall the Imp UI Mod again.
 4. Close the game
 5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
