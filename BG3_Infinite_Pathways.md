@@ -14,7 +14,7 @@ The Loot is modded and contains over 3000 new Items. The whole Basegame has been
 
 #### More Information
 
-If you are interested in examining a complete list of the mods in this modlist, Mod Library Link: Follows Later.
+If you are interested in examining a complete list of the mods in this modlist, Mod Library Link: https://loadorderlibrary.com/lists/infinite-pathways-baldurs-gate-3-modlist-2
 
 ### Requirements
 
