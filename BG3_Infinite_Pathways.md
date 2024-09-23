@@ -106,9 +106,9 @@ Ignore Errors when you load a Save. Its normal.
 
 Please remember that if for some reason you launch _Baldur's Gate 3_ outside of _MO2_, all of the mods will become unregistered and you must repeat the steps in the Registering Mods paragraph.
 
-## Updating the Modlist
+## Updating the Modlist - IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS IMPORTANT READ THIS
 
-Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. 
+Browse Modlists on Wabbajack and then just redownload it like you did the first time. Check Overwrite Installation. Please also redo the Step with copying the Overwrite Output Content into the Overwrite. After every Update you do.
 
 ## Removing the Modlist
 
