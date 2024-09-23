@@ -86,6 +86,8 @@ Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. 
 
 Dont open the Mod Manage ingame, only the Mod Configuration Menu if you wanna adjust Settings.
 
+Ignore Missing Icons.
+
 
 ### Launching the Modlist
 
