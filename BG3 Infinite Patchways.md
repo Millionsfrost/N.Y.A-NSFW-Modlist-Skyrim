@@ -100,7 +100,7 @@ Randomize Button will crash your Game.
 3. Then uninstall the Imp UI Mod again.
 4. Close the game
 5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
-6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again.
+6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading. 
 
 Please remember that if for some reason you launch _Baldur's Gate 3_ outside of _MO2_, all of the mods will become unregistered and you must repeat the steps in the Registering Mods paragraph.
 
