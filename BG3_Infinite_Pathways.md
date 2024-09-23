@@ -76,23 +76,25 @@ In Mo2, there is a Mod at the very Bottom called Output Overwrite. Please copy i
 
 You can rightclick the Output and click Open in Explorer, and then copy the Contents into the red overwrite, also by rightclicking it and Opening it in the Explorer.
 
-There is 2 Undead Races bcs of different Bodies.
+Important Info: You can get your Auto Sorting Bags when you Crouch and grab them from the Tutorial Chest Summon
 
-Certain Origins Characters have wrong Body Colors in Character Creation its fixed ingame.
+Info : There is 2 Undead Races bcs of different Bodies.
+
+Info: Certain Origins Characters have wrong Body Colors in Character Creation its fixed ingame.
 
 Choose whatever Difficulty you want, i reccomend Custom, Balanced Settings and Activate Honour Ruleset. Rest is on you.
 
-Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. But dont worry you can respec ingame easily via Respec Spell.
+Info : Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. But dont worry you can respec ingame easily via Respec Spell.
 
-Dont open the Mod Manage ingame, only the Mod Configuration Menu if you wanna adjust Settings.
+Info : Dont open the Mod Manager ingame, only the Mod Configuration Menu if you wanna adjust Settings. Unless you follow the Optional Way described below.
 
-Some Classes work until Level 20, other only unti Level 12. I advice to Multiclass then.
+Important Info: Some Classes work until Level 20, other only unti Level 12. I advice to Multiclass then.
 
-Ignore Missing Icons.
+Info : Ignore Missing Icons.
 
-Randomize Button will crash your Game.
+Important Info: Randomize Button will crash your Game.
 
-Ignore Errors when you load a Save. Its normal.
+Info: Ignore Errors when you load a Save. Its normal.
 
 
 ### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up.
