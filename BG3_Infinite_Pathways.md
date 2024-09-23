@@ -126,3 +126,9 @@ For more information about me, as well as ways to show your appreciation for my 
 
 ## Vermillion Paypal: https://bit.ly/2Q2sBoa 
 
+## Credits
+
+@cacophony : For telling me about his Venture Forth List, which i took as a Base, also his Readme which Gave me good Information and him personally!
+
+@Lartza : For helping me out with basicly everything. Without him No List.
+
