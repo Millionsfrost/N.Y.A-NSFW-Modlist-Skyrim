@@ -88,10 +88,17 @@ Dont open the Mod Manage ingame, only the Mod Configuration Menu if you wanna ad
 
 Ignore Missing Icons.
 
+Randomize Button will crash your Game.
+
 
 ### Launching the Modlist
 
-Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **BG3** entry in the drop-down menu. 
+1. Open Mod Organizer 2
+2. Install  the first mod in there ( Should be ImpUi )
+3. Then uninstall the Imp UI Mod again.
+4. Close the game
+5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
+6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again.
 
 Please remember that if for some reason you launch _Baldur's Gate 3_ outside of _MO2_, all of the mods will become unregistered and you must repeat the steps in the Registering Mods paragraph.
 
