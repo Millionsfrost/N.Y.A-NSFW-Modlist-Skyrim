@@ -106,7 +106,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
