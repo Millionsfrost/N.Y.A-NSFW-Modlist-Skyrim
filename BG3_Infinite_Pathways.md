@@ -110,9 +110,10 @@ Info: Ignore Errors when you load a Save. Its normal.
 
 ### Gooner Options / Astarion , Gale, Halsin into Females + Voice ( Appereance editable )
 
-If you want Fem Astarion, Gale and Halsin as Females including Full Female Voices, activate the Mods and Disable the Mods as shown in the Picture beneath. As easy as that.
+If you want Fem Astarion, Gale and Halsin as Females including Full Female Voices, activate the Mods that are disabled in the Bottom Picture. You can edit the Looks via Appareance Spell, and then choose Resculpt, Body 1 and then Choose the Origin Char you are currently Editing ofc.
 
-![image](https://github.com/user-attachments/assets/e4e3bf63-2889-4139-9f15-d9a2a3dc5b06)
+![image](https://github.com/user-attachments/assets/7915c8e4-cd7c-4616-9a52-d1db2beaf75b)
+
 
 
 
