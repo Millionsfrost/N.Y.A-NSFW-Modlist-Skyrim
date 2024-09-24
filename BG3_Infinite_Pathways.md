@@ -112,7 +112,7 @@ Info: Ignore Errors when you load a Save. Its normal.
 
 If you want Fem Astarion, Gale and Halsin as Females including Full Female Voices, activate the Mods and Disable the Mods as shown in the Picture beneath. As easy as that.
 
-![image](https://github.com/user-attachments/assets/4cc6226a-1972-489d-9b45-b5acd4e8c647)
+![image](https://github.com/user-attachments/assets/e4e3bf63-2889-4139-9f15-d9a2a3dc5b06)
 
 
 
