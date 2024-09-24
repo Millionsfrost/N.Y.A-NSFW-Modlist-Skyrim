@@ -108,6 +108,13 @@ Info: Ignore Errors when you load a Save. Its normal.
 7. If you followed the Overwrite Instructions above you will have a Checkmark in the Picture down below. If its unchecked you missed the Overwrite Copy Part. Remember, after every Update you need to redo the Overwrite Step.
 8. ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
 
+### Gooner Options / Astarion , Gale, Halsin into Females + Voice ( Appereance editable )
+
+If you want Fem Astarion, Gale and Halsin as Females including Full Female Voices, activate the Mods and Disable the Mods as shown in the Picture beneath. As easy as that.
+
+![image](https://github.com/user-attachments/assets/4cc6226a-1972-489d-9b45-b5acd4e8c647)
+
+
 
 Please remember that if for some reason you launch _Baldur's Gate 3_ outside of _MO2_, all of the mods will become unregistered and you must repeat the steps in the Registering Mods paragraph.
 
