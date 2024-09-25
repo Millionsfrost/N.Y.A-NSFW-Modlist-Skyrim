@@ -1,7 +1,7 @@
 # Starfield NASAPUNK 0.5
 Welcome to the NASAPUNK centered Modlist! This comprehensive mod compilation aims to enhance your Starfield experience with a plethora of exciting features.
 
-![alt text](https://i.imgur.com/LLmFq2o.png "N.Y.A Poster Image")
+![Sandland Banner](https://i.imgur.com/wSPASgP.png)  
 
 ## ATTENTION
 *This content is intended for individuals who are of legal age in their respective countries. By accessing or using this material, you confirm that you meet the age requirement to view adult content. If you are not of legal age, please exit immediately.
