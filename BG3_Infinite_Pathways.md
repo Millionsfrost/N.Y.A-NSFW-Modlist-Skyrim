@@ -97,7 +97,7 @@ Important Info: Randomize Button will crash your Game.
 Info: Ignore Errors when you load a Save. Its normal.
 
 
-### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up.
+### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up. )
 
 1. Open Mod Manager Ingame in the Bg3 Client. ( Main Menu )
 2. Install the first mod in there ( Should be ImpUi )
