@@ -84,6 +84,8 @@ Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, m
 
 ## Important Information
 
+WARNING: Everytime you update the Modlist, save your Savegames beforehand so they dont get deleted.
+
 In Mo2, there is a Mod at the very Bottom called Output Overwrite. Please copy its contents into the Mo2 overwrite at the very bottom thats written in red. Overwrite everything if asked.
 
 ![image](https://github.com/user-attachments/assets/2cd7e1c0-6ab1-46ce-b8a1-0e5abfa465c1) 
