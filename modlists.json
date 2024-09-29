@@ -1,4 +1,4 @@
-  [
+[
   {
     "title": "N.Y.A-NSFW-Modlist-Skyrim",
     "description": "Experience N.Y.A. on version 1170 for the Anniversary Edition. Powered by Sexlab\u002B and the Pandora Engine, this release includes over 2500 mods and optimized performance LODs. Enjoy an immersive and refined Skyrim experience, with non-intrusive NSFW elements seamlessly integrated.",
@@ -128,7 +128,7 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-09-26T16:20:37.8825656Z",
     "repositoryName": ""
-    },
+  },
   {
     "title": "Starfield-NASAPUNK",
     "description": "Starfield NASAPUNK is a TOTAL Overhaul of Skyrim utilizing the NASAPUNK 2330 Mod. On Top of that, everything your Heart desires. New Weapons, Armors, Ships, Base Building, Textures and Lighting aswell as Gameplay and QOL Mods.",
@@ -156,21 +156,21 @@
     "links": {
       "image": "https://i.imgur.com/lNrlCmv.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Starfield-Nasa-Punk.md",
-      "download": "https://authored-files.wabbajack.org/Starfield%20NASAPUNK.wabbajack_c4243089-9779-492c-b1c3-e669491ff040",
+      "download": "https://authored-files.wabbajack.org/Starfield NASAPUNK.wabbajack_0ddbb9f5-ae39-4303-84a1-1f0d5c7646b5",
       "machineURL": "Millionsfrost_Starfield_NASAPUNK",
       "discordURL": "https://discord.gg/XTUGYySnkU"
     },
     "download_metadata": {
-      "Hash": "AuJqVZ5nVtE=",
-      "Size": 5329842,
+      "Hash": "HqurwqCsvi4=",
+      "Size": 5328758,
       "NumberOfArchives": 359,
       "SizeOfArchives": 205475936859,
-      "NumberOfInstalledFiles": 4863,
-      "SizeOfInstalledFiles": 211437512117
+      "NumberOfInstalledFiles": 4861,
+      "SizeOfInstalledFiles": 211437510701
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-26T16:20:37.8825656Z",
+    "dateUpdated": "2024-09-29T17:42:37.8959097Z",
     "repositoryName": ""
   }
 ]
