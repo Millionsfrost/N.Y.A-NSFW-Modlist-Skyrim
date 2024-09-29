@@ -64,7 +64,7 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur's Gate 3_ purchased on _Steam._ If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
 
-### Launching the Modlist 
+## Launching the Modlist 
 
 ( IF it shows you Vanilla Game on Boot Up: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up. )
 
