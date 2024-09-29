@@ -129,6 +129,8 @@ Please remember that if for some reason you launch _Baldur's Gate 3_ outside of 
 
 Browse Modlists on Wabbajack and then just redownload it like you did the first time. Check Overwrite Installation. Please also redo the Step with copying the Overwrite Output Content into the Overwrite. After every Update you do.
 
+Also make sure to backup your Saves bcs they get Deleted on Updates.
+
 ## Removing the Modlist
 
 You can just remove the _Infinite Pathways_ folder. 
