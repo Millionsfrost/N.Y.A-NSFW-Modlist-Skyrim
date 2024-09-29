@@ -64,6 +64,18 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur's Gate 3_ purchased on _Steam._ If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
 
+### Launching the Modlist IF it shows you Vanilla Game on Boot Up: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up. )
+
+1. Open Mod Manager Ingame in the Bg3 Client. ( Main Menu )
+2. Install the first mod in there ( Should be ImpUi )
+3. Then uninstall the Imp UI Mod again.
+4. Close the game
+5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
+6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
+7. If you followed the Overwrite Instructions above you will have a Checkmark in the Picture down below. If its unchecked you missed the Overwrite Copy Part. Remember, after every Update you need to redo the Overwrite Step.
+8. ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
+
+
 ## Post-Installation
 
 Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, mostly you can disable them in Mod Organizer 2. The Sex Framework is optional and doesnt add much Content anyway.
@@ -97,16 +109,6 @@ Important Info: Randomize Button will crash your Game.
 Info: Ignore Errors when you load a Save. Its normal.
 
 
-### Launching the Modlist Optional: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up. )
-
-1. Open Mod Manager Ingame in the Bg3 Client. ( Main Menu )
-2. Install the first mod in there ( Should be ImpUi )
-3. Then uninstall the Imp UI Mod again.
-4. Close the game
-5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
-6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
-7. If you followed the Overwrite Instructions above you will have a Checkmark in the Picture down below. If its unchecked you missed the Overwrite Copy Part. Remember, after every Update you need to redo the Overwrite Step.
-8. ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
 
 ### Gooner Options / Astarion , Gale, Halsin into Females + Voice ( Appereance editable )
 
