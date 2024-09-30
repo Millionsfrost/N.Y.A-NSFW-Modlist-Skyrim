@@ -170,6 +170,30 @@ Please open as Fullscreen in your Brower or download the Picture.
 Lazy Item Hider - Toggle helm weapons and more. When you equip a Helm now, it automaticly hides when you put your Weapon away. This Mod has an MCM and is highly adjustable. You can hide all Kinds of Things like Weapons etc etc, even use a Hotkey or dont use Auto hide. Its all on you. I only set it up for Heads so its not so intrusive. Normally the manual way is right Shift, but you should be able to set it up later ingame after you are in the Gameworl, set it up as you see fit.
 
 
+## Obody HotSwap Collisions
+
+We now use OBody HotSwap - CBPC presets for OBody, meaning and i quote from the Authoe " The same thing CBPC CCC does (and something extra), but for all supported presets you load via OBody.
+In few words, if the preset is included in CBPC CCC's supported list then it can get its own custom collisions, tuned to the shape of that body. The "something extra" is to not only allow collisions but custom bounce configs as well.
+Supported Body Presets atm are the following:
+
+D-sney Mommy - 3BA Edition - Bodyslide Preset
+Pomona Amphora Bodyslide Preset for CBBE-3BA-3BBB and BHUNP
+Elven Supremacy Preset (CBBE 3BA)
+My Lovely Body - Sexy Beauty - CBBE 3BA Bodyslide Preset
+Diamond Body 3BA - Bodyslide Preset
+Lovely Lady - 3BA (3BBB) CBBE Bodyslide Preset
+My Sensual Body - CBBE 3BA Bodyslide Preset
+Ceres Deluge BodySlide Preset for 3BA BHUNP CBBE COCO 3BBB
+Greek Goddess - Bodyslide and Racemenu Preset - CBBE-3BA-3BBB
+Demonic Bodyslide Preset CBBE 3BA and BHUNP Nemesisoll post
+The Luscious Body - CBBE 3BA Bodyslide Preset
+Dominion Body (3BA preset)
+Sonderbain's Waifu Bodyslide - Kaisel 3BA
+THE P3ACH -CBBE Preset-
+
+I also added them into the Obody Preset thingy, so basicly NPCS can only get these Presets applied to them. All the other Presets are basicly only applicable manually, or for the Player. Check out Obody HotSwap to learn more! More Presets will be added every Week.
+
+
 ### SexLab+
 This list uses SexLab+, a newer version of SexLab.
 
