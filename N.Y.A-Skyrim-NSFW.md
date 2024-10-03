@@ -1,7 +1,7 @@
 # N.Y.A NSFW Modlist Version 4.0+
 Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
-![alt text](https://i.imgur.com/LLmFq2o.png "N.Y.A Poster Image")
+![alt text](https://i.imgur.com/GjGgP7U.png "N.Y.A Poster Image")
 
 ## ATTENTION
 *This content is intended for individuals who are of legal age in their respective countries. By accessing or using this material, you confirm that you meet the age requirement to view adult content. If you are not of legal age, please exit immediately.
