@@ -1,5 +1,5 @@
-# Starfield NASAPUNK 0.5
-Welcome to the NASAPUNK centered Modlist! This comprehensive mod compilation aims to enhance your Starfield experience with a plethora of exciting features.
+# Starfield NASAPUNK EX 0.5
+Welcome to the NASAPUNK EX centered Modlist! This comprehensive mod compilation aims to enhance your Starfield experience with a plethora of exciting features.
 
 ![Sandland Banner](https://i.imgur.com/wSPASgP.png)  
 
