@@ -3,7 +3,7 @@
 
 Welcome to the N.Y.A Modlist! This comprehensive compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
-![alt text](https://i.imgur.com/eEXZWtU.png "N.Y.A Poster Image")
+![alt text](https://i.imgur.com/ILu240R.png "N.Y.A Poster Image")
 
 ### Photo Mode
 When you press Escape, you can enter a Photo Mode and make Nice Screenshots and change Poses and all the Things.
