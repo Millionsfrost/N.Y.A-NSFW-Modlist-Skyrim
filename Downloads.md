@@ -500,6 +500,7 @@ File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.0-fix2_Fomod.7z`
 
 ### Paradise Halls Voice Addon
 URL: https://www.loverslab.com/files/file/24934-paradise-halls-and-addons-dom-hsh-aygas-voicepacks/
+
 File: `Paradise Halls v8.1.6 - Voicepack v1.0 - SE.7z.URL`
 
 READ HERE FRIENDO! The FILE ABOVE IS A DOWNLOAD LINK TO THE ACTUAL MOD! DOWNLOAD IT FROM MEGA!
