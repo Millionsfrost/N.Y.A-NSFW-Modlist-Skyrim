@@ -6,7 +6,7 @@
 ### Pandora Behavior Engine
 URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
 
-File: `Pandora_Behaviour_Engine_v1.5.1-alpha.zip`
+File: `Pandora_Behaviour_Engine_v2.3.0-beta.zip`
 
 
 ### The Book of Sex
@@ -79,32 +79,10 @@ File: `Only 1 File`
 
 
 
-### Dripping when Aroused
-URL: https://www.loverslab.com/files/file/5123-dripping-when-aroused-se
-
-File: `DW 2022-03-03.7z`
-
-
-
 ###  Yamete Kudasai
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai
 
 File: `YameteKudasai - 2.2.1.2.zip`
-
-
-
-
-### TDF Enhanced Prostitution 
-URL: https://www.loverslab.com/files/file/19593-tdf-enhanced-prostitution
-
-File: `TDF_Enhanced_Prostitution_v2_4_1.7z`
-
-
-
-### TDF2023
-URL: https://www.loverslab.com/files/file/5827-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-2023
-
-File: `TDF2023.7z`
 
 
 
@@ -508,3 +486,22 @@ URL: https://www.loverslab.com/files/file/29295-collectible-waifu-cards/
 File: `V3-14_WaifuCards.zip` 
 
 File: `V3_CompletionistAddon.zip`
+
+
+
+### Paradise Halls
+URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/
+
+File: `ParadiseHallsEnhanced(PAHE)SSE_8.1.6_Fomod.7z` 
+
+File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.0-fix2_Fomod.7z`
+
+
+
+### Paradise Halls Voice Addon
+URL: https://www.loverslab.com/files/file/24934-paradise-halls-and-addons-dom-hsh-aygas-voicepacks/
+File: `Paradise Halls v8.1.6 - Voicepack v1.0 - SE.7z.URL`
+
+READ HERE FRIENDO! The FILE ABOVE IS A DOWNLOAD LINK TO THE ACTUAL MOD! DOWNLOAD IT FROM MEGA!
+
+
