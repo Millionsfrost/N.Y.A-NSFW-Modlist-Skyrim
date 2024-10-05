@@ -66,8 +66,8 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 - 4 WARNING WARNING: Do not skip to the Constellation Lodge, it can be problematic and cause random Crashes from going forward.
 
 Many of your graphics settings have probably reset. There are some graphics setting you should configure regardless of your the specs of your PC:
-- Upscaling – OFF (YOU WILL HAVE CRASHES WITH IT ON)
-- Framegen – OFF (YOU WILL HAVE CRASHES WITH IT ON)
+- Upscaling – OFF (YOU WILL HAVE CRASHES WITH IT ON) ( Optional, we dont know if this still applies after the DLC Update )
+- Framegen – OFF (YOU WILL HAVE CRASHES WITH IT ON) ( Optional, we dont know if this still applies after the DLC Update )
 - Motion Blur – OFF
 - Film Grain – OFF
 - VSync – OFF
