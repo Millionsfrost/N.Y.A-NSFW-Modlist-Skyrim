@@ -14,7 +14,7 @@ Before posting a new support request in #starfield-support, please check our FAQ
 # Pre-installation Steps
 
 - STEAM version of Starfield (No GamePass/Microsoft Support). DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
-- Version 1.13.61 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
+- Version 1.13.61 of Starfield ( Shattered Space Update ). PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Starfield NASAPUNK releases.
 - Microsoft Visual C++ Redistributable 14.40.33810.0 (Most PC’s have this but please make sure)
 - Fresh Save (even V4 users) (NG+ does NOT count)
 - Language set to English otherwise none of the text replacement mods will work. Check for translations on NexusMods
