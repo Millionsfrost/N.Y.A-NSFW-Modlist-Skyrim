@@ -329,13 +329,6 @@ File: `Use Download Button in the top right or in the Middle, depending on what 
 
 
 
-### Edge UI
-URL: https://www.patreon.com/posts/edge-ui-0-55-98401985
-
-File: `Edge UI 0.55 Public Release at the Bottom`
-
-
-
 ### Sexy Bono Eyes
 URL: https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY
 
