@@ -88,6 +88,8 @@ WARNING: Everytime you update the Modlist, save your Savegames beforehand so the
 
 In Mo2, there is a Mod at the very Bottom called Overwrite Output. Please copy its contents inside the Folder into the Mo2 overwrite at the very bottom thats written in red. Overwrite everything if asked.
 
+Do not copy the Folder OVERWRITE but the Contents inside of it, all these Files and Folders go into the OVERWRITE at the very bottom.
+
 ![image](https://github.com/user-attachments/assets/2cd7e1c0-6ab1-46ce-b8a1-0e5abfa465c1) 
 
 You can rightclick the Output and click Open in Explorer, and then copy the Contents into the red overwrite, also by rightclicking it and Opening it in the Explorer.
