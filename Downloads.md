@@ -476,7 +476,7 @@ File: `Heels Sound 1.5 SSE.7z`
 ### Waifu Cards
 URL: https://www.loverslab.com/files/file/29295-collectible-waifu-cards/
 
-File: `V3-14_WaifuCards.zip` 
+File: `V3-15_WaifuCards.zip` 
 
 File: `V3_CompletionistAddon.zip`
 
