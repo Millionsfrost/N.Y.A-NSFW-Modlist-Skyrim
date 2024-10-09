@@ -1,4 +1,4 @@
-# Starfield NASAPUNK EX 0.5
+# Starfield NASAPUNK EX 1.0
 Welcome to the NASAPUNK EX centered Modlist! This comprehensive mod compilation aims to enhance your Starfield experience with a plethora of exciting features.
 
 ![Sandland Banner](https://i.imgur.com/wSPASgP.png)  
@@ -14,7 +14,7 @@ Before posting a new support request in #starfield-support, please check our FAQ
 # Pre-installation Steps
 
 - STEAM version of Starfield (No GamePass/Microsoft Support). DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
-- Version 1.13.61 of Starfield ( Shattered Space Update ). PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Starfield NASAPUNK releases.
+- Version 1.13.61 ( Or whatever the one is called when the DLC came out lmao ) of Starfield ( Shattered Space Update ). PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Starfield NASAPUNK releases.
 - Microsoft Visual C++ Redistributable 14.40.33810.0 (Most PC’s have this but please make sure)
 - Fresh Save (even V4 users) (NG+ does NOT count)
 - Language set to English otherwise none of the text replacement mods will work. Check for translations on NexusMods
@@ -53,7 +53,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## Post Installation Steps
 
-- 1 Go to Documents\My Games\Starfield and place the StarfieldCustom.ini and prefs ini in there. You can get the 2 Ini files on my Nexus Modpage for the List or on my Discord. Overwrite if asked. PS: Do not use BethPie, it will overwrite the Custom Settings!
+- 1 Do not use BethPie, it will overwrite the Custom Settings! Never ever use it.
 - 2 Launch ModOrganizer.exe in the Starfield NASAPUNK Install Folder. You will get a popup asking about nxm links. Click Yes.
 - 3 Note: If ModOrganizer.exe is failing to open or is missing, then simply refer to the solutions in my F.A.Q.
 - 4 Make sure if you launch the Game to always use the Launch Button in the top right called SFSE Starfield. Without it everything breaks.
@@ -63,7 +63,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 - 1 Launch the game by selecting SFSE Starfield at the top right side and clicking Run. Do not panic if this takes awhile. It is normal for it to take a few minutes for the first time. If this is a fresh install of Starfield, then I recommend you restart your game after reaching the main menu. Otherwise your mods won’t properly load in.
 - 2 After starting a new game, you will be asked to Skip the Intro and jump to Char Creation. Do not click anythig but the Dialogue in that Sequence. 
 - 3 You can skip the Intro to get into Character Creation directly. After creating your character, you must save and then fully restart your game. Otherwise you will have sound, animation, and texture issues.
-- 4 WARNING WARNING: Do not skip to the Constellation Lodge, it can be problematic and cause random Crashes from going forward.
+- 4 WARNING WARNING: Do not skip to the Constellation Lodge, it can be problematic and cause random Crashes from going forward. You will get NO Support if you skip to the LODGE!
 
 Many of your graphics settings have probably reset. There are some graphics setting you should configure regardless of your the specs of your PC:
 - Upscaling – OFF (YOU WILL HAVE CRASHES WITH IT ON) ( Optional, we dont know if this still applies after the DLC Update )
