@@ -60,6 +60,8 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ## Gameplay Options
 
+Keep in Mind certain Options you can adjust yourself, Like Carry Weight Stuff and Exp Gain ( Dont cheat pls ) The only other Thing you can adjust are glowing Settings for Items. I kinda like it for now so you dont have to open your Scanner all the time to find lootable Items.
+
 ![Instructions](https://i.imgur.com/nMoc8sm.png)  
 
 ![Instructions](https://i.imgur.com/4ptvESW.png)  
