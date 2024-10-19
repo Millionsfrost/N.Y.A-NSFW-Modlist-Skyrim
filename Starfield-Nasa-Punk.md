@@ -58,6 +58,21 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 - 3 Note: If ModOrganizer.exe is failing to open or is missing, then simply refer to the solutions in my F.A.Q.
 - 4 Make sure if you launch the Game to always use the Launch Button in the top right called SFSE Starfield. Without it everything breaks.
 
+## Gameplay Options
+
+![Instructions](https://i.imgur.com/nMoc8sm.png)  
+
+![Instructions](https://i.imgur.com/4ptvESW.png)  
+
+![Instructions](https://i.imgur.com/e30nYEq.png)  
+
+![Instructions](https://i.imgur.com/k2wSJ4I.png)  
+
+![Instructions](https://i.imgur.com/wza7Lsd.png)  
+
+![Instructions](https://i.imgur.com/whsswh9.png)  
+
+
 ## In Game Settings
 
 - 1 Launch the game by selecting SFSE Starfield at the top right side and clicking Run. Do not panic if this takes awhile. It is normal for it to take a few minutes for the first time. If this is a fresh install of Starfield, then I recommend you restart your game after reaching the main menu. Otherwise your mods won’t properly load in.
