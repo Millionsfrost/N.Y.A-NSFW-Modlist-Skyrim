@@ -10,7 +10,7 @@
 
 Inifnite Pathways as the Name suggests, is a Massive Modlist that gives you a ton of Possibilities. There is an Extreme Amount of new Classes and Subclasses aswell as Races and Cusomization Choices. Updated Textures aswell.
 
-The Loot is modded and contains over 3000 new Items. The whole Basegame has been overhauled aswell with the Homebrew Comprehensive Gameplay Overhaul. Everything is new and Exiting. Running on Patch 7.
+The Loot is modded and contains over 3000 new Items. The whole Game has been overhauled aswell with handpicked Overhauls for the Basegame. Everything is new and Exiting. Running on Patch 7.
 
 #### More Information
 
