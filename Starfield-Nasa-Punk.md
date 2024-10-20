@@ -86,6 +86,7 @@ Many of your graphics settings have probably reset. There are some graphics sett
 - Motion Blur – OFF
 - Film Grain – OFF
 - VSync – OFF
+- VRS OFF
 - Show Damage Numbers – OFF (for immersion)
 - Dialogue and General Subtitles – ON (under Accessibility)
 - Music – ON (under Audio Settings)
