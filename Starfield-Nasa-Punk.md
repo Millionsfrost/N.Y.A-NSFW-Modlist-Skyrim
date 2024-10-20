@@ -38,16 +38,14 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## Wabbajack install
 
 - 1 Before you go through this install, please be aware that this List is in Beta (since September 15).
-- 2 Create the following three folders at the root of your drive (e.g., C:, D:, or whichever drive you’re using). Star Field NASAPUNK Install / Starfield NASAPUNK Downloads and Compiler.
-- 3 Download Starfield NASAPUNK 0.5.wabbajack and put it inside the COMPILER folder. Later on the Version might Change ofc. The Wabbajack File is currently only available on Discord. Later on also Nexus and Wabbajack itself.
-- 4 Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the WABBAJACK folder.
-- 5 In the WABBAJACK folder, run Wabbajack.exe to install it.
-- 6 After the install finishes, run Wabbajack.exe again to open it.
-- 7 Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you’re already logged in, log out and log back in. Trust me
-- 8 Go back to the Wabbajack Main Menu and select Install From Disk
-- 9 Match everything to this (remember the drive letter like K, C, etc should match yours, not mine): Target Modlist = Wabbajack File you got from Nexus or Discord. Modlist Installation will be your Install Folder you setup and Downloads will be the Downloads Folder you setup.
-- 10 Start the install. if you don’t have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
-- 11 Wait for the install to finish. I advise you to read the NASAPUNK Documentation to know what awaits you! NASAPUNK Documentation here: https://docs.google.com/document/d/e/2PACX-1vQINWjsR9EOJ1IiGA_gFaJwR1ZPbHbq_S6uedBOXDbjCafcjnkT4HC-2EPHDE9Dj2wNB4dXGRhrl7vx/pub
+- 2 Create the following three folders at the root of your drive (e.g., C:, D:, or whichever drive you’re using). Starfield NASAPUNK Install / Starfield NASAPUNK Downloads.
+- 3 Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the WABBAJACK folder.
+- 4 In the WABBAJACK folder, run Wabbajack.exe to install it.
+- 5 After the install finishes, run Wabbajack.exe again to open it.
+- 6 Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you’re already logged in, log out and log back in. Trust me
+- 7 Go back to the Wabbajack and click Browse Modlists. Go to Starfield and check unofficial on the top right.
+- 8 Start the install. if you don’t have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
+- 9 Wait for the install to finish. I advise you to read the NASAPUNK Documentation to know what awaits you! NASAPUNK Documentation here: https://docs.google.com/document/d/e/2PACX-1vQINWjsR9EOJ1IiGA_gFaJwR1ZPbHbq_S6uedBOXDbjCafcjnkT4HC-2EPHDE9Dj2wNB4dXGRhrl7vx/pub
 
 # Note: If you encounter any installation errors, please read what the error is on the left-hand side and consult the FAQ, or take a picture of it and send it to the help section of my Discord.
 
