@@ -112,21 +112,21 @@
     "links": {
       "image": "https://i.imgur.com/dZBzGUo.jpeg",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/BG3_Infinite_Pathways.md",
-      "download": "https://authored-files.wabbajack.org/Infinite Pathways.wabbajack_b1204ae7-bf3a-4bac-96cc-279751d02e0a",
+      "download": "https://authored-files.wabbajack.org/Infinite Pathways.wabbajack_00b570c7-1abe-4651-9ca6-a132eaca6014",
       "machineURL": "Millionsfrost_BG3_Infinite_Pathways",
       "discordURL": "https://discord.gg/AsJPrAv7MU"
     },
     "download_metadata": {
-      "Hash": "4gLkB+7RJyw=",
-      "Size": 82970803,
+      "Hash": "z1zlCcrmvW0=",
+      "Size": 82970779,
       "NumberOfArchives": 740,
       "SizeOfArchives": 45158622187,
       "NumberOfInstalledFiles": 7620,
-      "SizeOfInstalledFiles": 58802437463
+      "SizeOfInstalledFiles": 58802437461
     },
     "version": "1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-23T15:40:16.5291426Z",
+    "dateUpdated": "2024-10-23T16:24:11.9353093Z",
     "repositoryName": ""
   },
   {
