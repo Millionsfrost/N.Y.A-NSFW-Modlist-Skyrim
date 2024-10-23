@@ -34,9 +34,9 @@ Launch the game (vanilla) once to regenerate all of the folders/paths that MO2 n
 
 This is kinda important to have if you wanna do the Stuff todo the Stuff!
 
-Install Visual C++ x64. https://aka.ms/vs/17/release/vc_redist.x64.exe
-Install .NET Runtime 8.X.X Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/8.0
-Install .NET 6.0 Runtime Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer
+- Install Visual C++ x64. https://aka.ms/vs/17/release/vc_redist.x64.exe
+- Install .NET Runtime 8.X.X Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+- Install .NET 6.0 Runtime Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
