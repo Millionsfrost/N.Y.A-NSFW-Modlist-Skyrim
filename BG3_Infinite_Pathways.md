@@ -30,6 +30,14 @@ Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of yo
 
 Launch the game (vanilla) once to regenerate all of the folders/paths that MO2 needs.
 
+## Installing Microsoft Visual C++ and .NET
+
+This is kinda important to have if you wanna do the Stuff todo the Stuff!
+
+Install Visual C++ x64. https://aka.ms/vs/17/release/vc_redist.x64.exe
+Install .NET Runtime 8.X.X Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+Install .NET 6.0 Runtime Desktop x64. https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer
+
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
