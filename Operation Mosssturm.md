@@ -185,6 +185,10 @@ The Ammos listed above do not need to be changed with the B Button, they are all
 
 - Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it waaaaaaay less annoying then Vanilla, and by that i mean it. Only fiddle with it if you want to have Increased Needs.
 
+- SKK Settlement Attack System has a Feature where you can change which Faction can attack you. I turned BOS, Railroad and Minuteman off bcs you are not Hostile again them early on. You can turn it on if it happens.
+
+- If you dont like the Speed and want Time to freeze in Buildmode, turn down Speed and Freeze Time in the Workshop Plus MCM.
+
 - Vault 111 , right where the Elevator is, is a Sliver chest behind a Fallen Tree. It has the Univeral Workbench Items. Please get them they will help you with Ammo Crafting, Outfit crafting and accessing Modded Guns/Armors that cannot be found in the World.
 
 ## Warning: For the CRP Overhaul
