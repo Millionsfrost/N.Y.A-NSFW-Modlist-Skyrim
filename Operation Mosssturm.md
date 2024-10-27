@@ -155,14 +155,16 @@ Set the installation location to a folder on the root of a drive, something like
 Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
 
-#### Please read very carefully from here on!!!!!!!!!!!!!!!!!
+## Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
 
-#### If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
+If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
 
 After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Operation Mosssturm Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
 
 There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option always, on Gun for Hire you can decide for yourself if you want Easy Mode or not.
+
+# Do not use Beth Pie under any Circumstances. All 3 Inis in the Ini Editor aka in the Profile for the List have Custom Values setup for the ENB, Fixes and CRP. So dont use it at all. Do adjustments manually.
 
 
 
