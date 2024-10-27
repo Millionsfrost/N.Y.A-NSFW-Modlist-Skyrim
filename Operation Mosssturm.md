@@ -2,13 +2,13 @@
 
 Support about Operation Mosssturm and the other Lists you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
 
-#### Operation Mosssturm Fallout 4
+## Operation Mosssturm Fallout 4
 
 Release Beta Version of Operation Mosssturm, you need the latest Next gen Update from Fallout 4. ( WJ Downgrades to pre Next Gen )
 
 Size: Downloads - 156 GB | Installation - 256 GB
 
-#### Features
+## Features
 
 - The Midnight Ride Baseline
 - Overgrown Theme
@@ -40,11 +40,11 @@ Size: Downloads - 156 GB | Installation - 256 GB
 - There are many more Options! Check out the Video to learn more about the MCM`s and Mods in General, like if you have Time when things are being downloaded and installed!
 
 
-#### Operation Mosssturm: Open Beta Release Version
+## Operation Mosssturm: Open Beta Release Version
 Welcome to the Open Beta release. The List is in a playable State but we are currently testing out all the Weapon Additions so we dont miss any invisibile, broken , or Weapons that crash the Game. So please help us out in the Discord. More People can find more Things! If you read this at a later Date, and think, are they still testing? Remember me so i can delete this Line of Text lol.
 
 
-#### Accounts
+## Accounts
 
 In terms of accounts you will need: Nexus Account, Premium would be best.
 
@@ -52,7 +52,7 @@ ALSO WARNING: You cant login anymore into Loverslab in the Wabbajack Settings. Y
 So yeah there are like 2 Mods from Loverslab a Physics Mod and a Skeleton Mod
 
 
-#### Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
+## Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
 
 OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/ 
 ( Only 1 File to download here, that is the CBBE Version. )
@@ -63,30 +63,30 @@ ZGC Hairpack : https://www.loverslab.com/files/file/7877-zgc-hairpack/
 You put the Mods you downloaded into the Sandland Downloads Folder ofc! 
 
 
-#### Nexus Premium Account
+## Nexus Premium Account
 
 LoversLab Account - for manual downloads through your browser.
 
 
 
-#### Installation
+## Installation
 
 I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. All links to mods hosted on LoversLab can be found above.
 
 
-#### Preparation
+## Preparation
 
 Install Microsoft Visual C++ Redistributable Packages
 This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
-#### Download Visual C++ Redistributable Package and the Thing underneath it.
+## Download Visual C++ Redistributable Package and the Thing underneath it.
 
 Also get the Thing underneath, i think it was needet for Sexlab+.
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.15-windows-x64-installer
 
 
-#### Setup your Page File
+## Setup your Page File
 
 You should setup a pagefile of at least 20GB - yes, even if you have a million GB of RAM. To setup your pagefile;
 
@@ -115,7 +115,7 @@ Done
 
 ![alt text](https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png "Logo Title Text 1")
 
-#### Setup your Antivirus
+## Setup your Antivirus
 Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your Sandland installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
 How do I do this, you ask? Click here to find out how.
@@ -124,29 +124,29 @@ Note: If you're using Webroot or any other free 3rd party antivirus it's likely 
 
 
 
-#### Disable Steam Overlay
+## Disable Steam Overlay
 
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
 
 
-#### Set game language to English
+## Set game language to English
 
 Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim Special Edition in your game library and click Properties > Language > Select English.
 
 
 
-#### Change Steam's Updating Behavior
+## Change Steam's Updating Behavior
 
 If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
 
 
-#### Start Vanilla Fallout 4
+## Start Vanilla Fallout 4
 
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 
-#### Wabbajack
+## Wabbajack
 
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
@@ -166,7 +166,7 @@ There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option a
 
 
 
-#### Information ( READ THIS OR YOU WILL HAVE A BAD TIME )
+## Information ( READ THIS OR YOU WILL HAVE A BAD TIME )
 
 - If you enable any of the Options underneath this Post, make sure to ENABLE the Optional MOD first, then DISABLE the Original. This needs to be done so the ESP Plugin stays in the same Slot. Doesnt matter for Nameplaytes, it doesne use a Slot.
 
@@ -186,7 +186,7 @@ The Ammos listed above do not need to be changed with the B Button, they are all
 - Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it waaaaaaay less annoying then Vanilla, and by that i mean it. Only fiddle with it if you want to have Increased Needs.
 
 
-#### Buttons
+## Buttons
 
 Quickchange = F3
 
