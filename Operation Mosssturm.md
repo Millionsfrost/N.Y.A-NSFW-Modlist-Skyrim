@@ -57,10 +57,10 @@ So yeah there are like 2 Mods from Loverslab a Physics Mod and a Skeleton Mod
 OCBPC Physics : https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/ 
 ( Only 1 File to download here, that is the CBBE Version. )
 
-ZGC Hairpack : https://www.loverslab.com/files/file/7877-zgc-hairpack/
-( Only 1 File to download )
+ZeX - ZaZ Extended Skeleton 6.0 : https://www.loverslab.com/files/file/24592-zex-zaz-extended-skeleton/
+( Only 1 File to download here and that is ZeX-V6.zip )
 
-You put the Mods you downloaded into the Sandland Downloads Folder ofc! 
+You put the Mods you downloaded into the Operation Mosssturm Downloads Folder ofc! 
 
 
 ## Nexus Premium Account
