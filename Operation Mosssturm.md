@@ -158,11 +158,13 @@ Once you have everything set in Wabbajack, hit GO and let it do its thing. It mi
 ## Please read very carefully from here on!!!!!!!!!!!!!!!!!
 
 
-If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
+- If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
 
-After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Operation Mosssturm Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
+- After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Operation Mosssturm Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
 
-There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option always, on Gun for Hire you can decide for yourself if you want Easy Mode or not.
+- There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option always, on Gun for Hire you can decide for yourself if you want Easy Mode or not.
+
+- After you ran MCM Settings Preset for the List, pls go into the LIGA mcm and set the drop down menu for hotkeys to NONE. The Default interferes with Wheeler since thats on G.
 
 # Do not use Beth Pie under any Circumstances. All 3 Inis in the Ini Editor aka in the Profile for the List have Custom Values setup for the ENB, Fixes and CRP. So dont use it at all. Do adjustments manually.
 
