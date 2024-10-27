@@ -185,6 +185,14 @@ The Ammos listed above do not need to be changed with the B Button, they are all
 
 - Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it waaaaaaay less annoying then Vanilla, and by that i mean it. Only fiddle with it if you want to have Increased Needs.
 
+## Warning: For the CRP Overhaul
+
+- Never move any of the Plugins!
+
+- New Mods Esps/Esls always go above Better Locational Damage.esp, never underneath.
+
+- Do not add any new Mods to the Overworld such as new Quests or Locations. All the Mods i added have PRP and Previs Patches. 99% of Mods in the Quest and New Location Section are incompatible with CRP. I will add more over Time if they get patched!!!!!!
+
 
 ## Buttons
 
