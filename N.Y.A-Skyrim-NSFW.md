@@ -138,18 +138,8 @@ In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Am
 ### Beth Pie
 
 Beth Pie is now in Mo2
-You can adjust Graphics Settings now in Mo2 in the top right Drop Down Menu, If you dont know what you are doing only Choose the Low/ Medium / High / or Ultra Settings. The List uses High Settings now.
 
-DO NOT FORGET to check the Skyrim Prefs INI if you wanna use MAIN ENB or Performance Version.
-
-
-Skyrimprefs.ini for MAIN:
-bIBLFenable=0
-bSAOenable=0
-
-Skyrimprefs.ini for PERFORMANCE:
-bIBLFenable=0
-bSAOenable=1
+Do not use Beth Pie. It will revert the Custom Setup Ini files. Do all changes manually please.
 
 ## NOTE:
 DO NOT USE VANILLA as A START
