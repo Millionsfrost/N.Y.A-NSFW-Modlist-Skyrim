@@ -309,9 +309,9 @@ URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patche
 File: `Assorted Futanari Texture Patches - PB's Silky DW 3BA.7z`
 `Assorted Futanari Texture Patches - PB's Silky TRX Horse.7z`
 `Assorted Futanari Texture Patches - PB's Silky TRX Canine.7z`
-`Assorted Futanari Texture Patches - Zhizhen TRX Horse.7z`
-`Assorted Futanari Texture Patches - Zhizhen DW 3BA.7z`
-`Assorted Futanari Texture Patches - Zhizhen TRX Canine.7z`
+`Assorted Futanari Texture Patches - Zhizhen TRX Horse 3.5+.7z`
+`Assorted Futanari Texture Patches - Zhizhen DW 3BA 3.5+.7z`
+`Assorted Futanari Texture Patches - Zhizhen TRX Canine 3.5+.7z`
 
 
 
