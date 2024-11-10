@@ -54,8 +54,8 @@ So yeah there are like 2 Mods from Loverslab a Physics Mod and a Skeleton Mod
 
 ## Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
 
-OCBPC Physics : https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
-( Only 1 File to download here, that is the CBBE Version. OCBP_3.1.2_CBBE.zip )
+OCBP Physics : https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+( Only 1 File to download here, that is the OCBP-2.2.5-CBBE.zip )
 
 ZeX - ZaZ Extended Skeleton 6.0 : https://www.loverslab.com/files/file/24592-zex-zaz-extended-skeleton/
 ( Only 1 File to download here and that is ZeX-V6.zip )
