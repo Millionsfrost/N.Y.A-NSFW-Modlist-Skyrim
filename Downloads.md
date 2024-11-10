@@ -58,13 +58,6 @@ File: `SexLab Confabulation ***SE*** V1.7.4.zip`
 
 
 
-### Sexlab Cum Overlays Extended 0.1.0
-URL: https://www.loverslab.com/files/file/25743-sexlab-cum-overlays-extended/
-
-File: `Sexlab Cum Overlays Extended v0.1.0.7z` and `SCOE Texture Set - SLACS Plus 4K v1.7z`
-
-
-
 ### Sexlab Eager Npcs
 URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen
 
