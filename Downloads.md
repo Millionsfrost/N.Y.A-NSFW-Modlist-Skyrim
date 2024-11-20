@@ -3,11 +3,6 @@
 
 ## HOSTED SITES: LOVER'S LAB, Patreon, Subsrcibestar, Mega, Mediafire
 
-### Pandora Behavior Engine
-URL: https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases
-
-File: `Pandora_Behaviour_Engine_v2.3.0-beta.zip`
-
 
 ### The Book of Sex
 URL: https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download
@@ -28,12 +23,6 @@ URL: https://www.loverslab.com/files/file/11043-sexlab-extra-voices-expanded-voi
 
 File: `SexLab Extra Voices Expanded - 2-4.7z`
 
-
-
-### Sexlab Approach Redux
-URL: https://www.loverslab.com/files/file/26994-sexlab-approach-redux/?do=download&csrf
-
-File: `Sexlab Approach Redux`
 
 
 
@@ -445,9 +434,9 @@ File: `ZAZ 7.0SE-Rev1.7z`
 ### Demonic Creatures
 URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v18-patch-v182/
 
-File: `V1.8 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt` 
+File: `V1.9 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt` 
 
-File: `Patch v.1.82 SE_AE_any version.7z`
+File: `Demonic Creatures PATCH V1.91.7z`
 
 Download it manually via Mediafire and dont just download the textfile. There is a Download Link in the Text File.
 
