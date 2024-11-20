@@ -47,13 +47,6 @@ File: `SexLab Confabulation ***SE*** V1.7.4.zip`
 
 
 
-### Sexlab Eager Npcs
-URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen
-
-File: `SexLab EagerNPCSERev2.7z`
-
-
-
 ### Wet Function Redux SE
 URL: https://www.loverslab.com/files/file/9467-wet-function-redux-se/
 
