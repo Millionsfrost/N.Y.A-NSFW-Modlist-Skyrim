@@ -325,13 +325,6 @@ File: `Only 1 File`
 
 
 
-### Hex Tenebria
-URL: https://www.mediafire.com/file/g1ei06w0wd6hlsd/[Cloud]+Hex+Tenebris+-+3BA.zip/file
-
-File: `Only 1 File`
-
-
-
 ### Intelligent Voiced Dirty Talk SE
 URL: https://www.loverslab.com/files/file/26013-intelligent-voiced-dirty-talk-se/
 
