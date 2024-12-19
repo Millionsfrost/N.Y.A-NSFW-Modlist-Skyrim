@@ -18,14 +18,6 @@ File: **Needs the file posted on the mod support forum page two, Baka Edition 1.
 
 
 
-### Sexlab Extra Voiced Expanded
-URL: https://www.loverslab.com/files/file/11043-sexlab-extra-voices-expanded-voice-packs
-
-File: `SexLab Extra Voices Expanded - 2-4.7z`
-
-
-
-
 ### SexLab Confabulation - TCIY Patch SE
 URL: https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020
 
@@ -336,17 +328,6 @@ File: `Intelligent Voiced Dirty Talk SE V1-4-0.zip`
 URL: https://www.loverslab.com/files/file/8275-sexlab-lightmeup/
 
 File: `Sexlab LightMeUp SE 2.9.4.7z`
-
-
-
-### Intelligent Voiced Dirty Talk Hentai Edition
-URL: https://www.loverslab.com/files/file/26300-ivdt-140-hentai-edition-v3-voice-packs/
-
-File: **You want to grab 4 Files here. **
-`Number 1: IVDT Hentai V3 Male Voice.7z `
-`Number 2: Fortune IVDT1.4.0.7z`
-`Number 3: Lily IVDT 1.4.0.7z`
-`Number 4: IVDT 1.4.0 Hentai Edition V3.7z`
 
 
 
