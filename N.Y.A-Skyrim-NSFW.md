@@ -1,4 +1,4 @@
-# N.Y.A NSFW Modlist Version 4.0+
+# N.Y.A NSFW Modlist Version 5.0+
 Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
 ![alt text](https://i.imgur.com/GjGgP7U.png "N.Y.A Poster Image")
@@ -119,21 +119,41 @@ If you encounter any issues during the installation process, consider going thro
 
 # Post Installation
 
-Once you get into the game, Wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
+Once you get into the game, listen to the Announce in the Main Menu for more Explanations. If you skip Main Menu are are in the Starter Room, wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
+
 Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
 
 Now you can press enter and spawn in the gameworld. Then proceed to watch my Youtube video https://www.youtube.com/watch?v=pplMle5Tyd4&lc=UgxL2oGjoPVjsJft_5J4AaABAg for additional MCM settings not covered by the automatic MCM setup.
 
-
-We also got Fill her up working again. In Sexlab MCM under Extra Effects you wanna change the option to Seperate Orgasms. Then Fill her up works again!
+Video is Outdated atm so some Stuff you wont have anymore. New Update Video Soon.
 
 ### Manual Settings:
 
-Later in the game, you can open the Int. Voiced Dirty Talk. Under Assign Voice, pick Voice Slot 1. Then a new screen opens. On the right side, manually enter the name of your character (beware of typos). In the top right, you can listen to samples. Under Assign Voice as Default, pick Voice 2 for females and for the male one, you can pick 1-8. Keep in mind this is an alpha patch, so not everything might work 100%. Dialogue options don’t work yet. You can also ignore all this and just don’t use this feature if you don’t like voices during scenes. This mod also has moaning and such, so you might want to use it. You can fiddle around with it as you want. Normally its setup correct if you are female but it cant hurt to double Check.
-
-Setting Default Male Voice to Slot 0 in IVDT removes male orgasm sound from female Scenes.
-
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
+
+### N.Y.A Custom Background System ( Class Mod but its called Backgrounds bcs its not Classes but if i say Classes you wont think its a Wallpaper Backgrounds Mod or something like that lmao )
+
+1. How to Use "Legends of the Forgotten Paths" to Choose Your Background
+Open the Book
+Locate and open the book titled "Legends of the Forgotten Paths". Reading it will grant you a spell called "Journey's Genesis".
+
+2. Learn About Backgrounds
+As you flip through the book, take some time to review the available backgrounds. Consider which one fits your character best.
+
+3. Equip the Spell
+After deciding, go to your Powers menu, find the spell "Journey's Genesis", and equip it.
+
+4. Activate the Spell
+Cast the spell. A message box will appear, allowing you to browse through the list of backgrounds.
+
+5. Choose Your Background
+Scroll through the message box until you find the background you want. Once you're sure, select it to apply the background to your character.
+
+Note: Be careful with your choice! After selecting a background, the spell "Journey's Genesis" will be removed from your inventory, and you won’t be able to change your background later.
+
+### ENB Performance Settings
+
+In the ENB at the Bottom is a Seperator called - Kauz ENB Performance Settings - . Just open the Kauz ENB Performance Settings Mod via " Open in Explorer " and copy the ENBSERIES.ini into the GameRoot Folder where you have the Modlist installed. And Done.
 
 ### Beth Pie
 
@@ -152,6 +172,12 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 Please open as Fullscreen in your Brower or download the Picture.
 
 ![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
+
+Outdatet kinda.
+
+### Stances
+
+Ingame you can change Weapon Stances with F1 F2 F3 Keys.
 
 ## Extra Buttons not on Picture:
 
@@ -181,14 +207,16 @@ Dominion Body (3BA preset)
 Sonderbain's Waifu Bodyslide - Kaisel 3BA
 THE P3ACH -CBBE Preset-
 
+Edit: Ceck HotSwap Modpage for Compability.
+
 I also added them into the Obody Preset thingy, so basicly NPCS can only get these Presets applied to them. All the other Presets are basicly only applicable manually, or for the Player. Check out Obody HotSwap to learn more! More Presets will be added every Week.
 
 
 ### SexLab+
-This list uses SexLab+, a newer version of SexLab.
+This list uses SexLab+ aka P+, a newer version of SexLab.
 
 ### Note:
-Sexlab+ and Pandora are in an Beta and Alpha state, so some features dont work perfectly yet.
+Pandora is in an Beta state, so some features dont work perfectly yet.
 
 
 ## Simple (Ultra)wide Guide
