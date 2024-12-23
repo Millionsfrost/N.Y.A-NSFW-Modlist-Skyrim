@@ -483,6 +483,7 @@ File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.0-fix2_Fomod.7z`
 
 ### Sexlab LightMeUp
 (Disabled in the modlist, only download if you want to use it manually. I disabled it because it makes light better in NSFW scenes, but with ENB you can get black squares on the ground due to lighting limitations)
+
 URL: https://www.loverslab.com/files/file/8275-sexlab-lightmeup/?do=download&r=843306&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
 File: `Sexlab LightMeUp SE 2.9.4.7z`
@@ -491,6 +492,7 @@ File: `Sexlab LightMeUp SE 2.9.4.7z`
 
 ### Sexlab LightMeUp Patch
 (Disabled in the modlist, only download if you want to use it manually. I disabled it because it makes light better in NSFW scenes, but with ENB you can get black squares on the ground due to lighting limitations)
+
 URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1680585&key=8d59158828212de902c585b2a7cb060e
 
 File: `SLLMU Patch April 2023.7z`
