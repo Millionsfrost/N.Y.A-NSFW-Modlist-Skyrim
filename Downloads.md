@@ -220,6 +220,8 @@ File: `SL - Ayasato Animations 1.1 SLAL SSE.7z`
 ### Milky SLAL for SE
 URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1108479
 
+INFO: This File recently is bugged. Please download this File only via the Wabbajack Interface.
+
 File: `MilkySLAL-2-3(SE).rar`
 
 
