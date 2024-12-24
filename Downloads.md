@@ -1,7 +1,9 @@
 # COMMONLY FAILING DOWNLOADS
-## It is vastly preferable to download all of these manually before you even attempt installation. Refer to this for specific steps on how to do so.
+## You must download all of these manually before you attempt Wabbajack installation. Refer to this for specific steps on how to do so.
 
-## HOSTED SITES: LOVER'S LAB, Patreon, Subsrcibestar, Mega, Mediafire
+## Set your web browser's default download location to your NYA downloads folder before proceeding! This can prevent Wabbajack from falsely flagging one or more of these files as not downloaded. You can change your web browser's download location back after you're done downloading mods from this page.
+
+## HOSTED SITES: LoversLab, Patreon, Subscribestar, Mega, and Mediafire.
 
 
 
@@ -217,12 +219,10 @@ File: `SL - Ayasato Animations 1.1 SLAL SSE.7z`
 
 
 
-### Milky SLAL for SE
-URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1108479
+### Milky SLAL Anim Obj
+URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1222502&key=cd0317a2f53a62e751305f65f37c622f
 
-INFO: This File recently is bugged. Please download this File only via the Wabbajack Interface.
-
-File: `MilkySLAL-2-3(SE).rar`
+File: `milkyanimobj-2-0 SE.zip`
 
 
 
@@ -496,5 +496,7 @@ File: `Sexlab LightMeUp SE 2.9.4.7z`
 (Disabled in the modlist, only download if you want to use it manually. I disabled it because it makes light better in NSFW scenes, but with ENB you can get black squares on the ground due to lighting limitations)
 
 URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1680585&key=8d59158828212de902c585b2a7cb060e
+
+File: `SLLMU Patch April 2023.7z`
 
 File: `SLLMU Patch April 2023.7z`
