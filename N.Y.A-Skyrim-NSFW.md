@@ -119,7 +119,7 @@ If you encounter any issues during the installation process, consider going thro
 
 # Post Installation
 
-Once you get into the game, listen to the Announce in the Main Menu for more Explanations. If you skip Main Menu are are in the Starter Room, wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
+Once you get into the game, listen to the Announcer in the Main Menu for more Explanations. If you skip the Main Menu you are in the Starter Room, wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
 
 Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
 
