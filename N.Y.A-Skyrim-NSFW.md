@@ -206,6 +206,11 @@ The Luscious Body - CBBE 3BA Bodyslide Preset
 Dominion Body (3BA preset)
 Sonderbain's Waifu Bodyslide - Kaisel 3BA
 THE P3ACH -CBBE Preset-
+3BA) Temptations Body (Nude)
+(3BA) (SDZ21) The Shape of Warrior (Nude)
+(3BA) CurvyBreton
+(3BA) Velma
+(3BA) CBBE Body Special DW Preset 1 Female
 
 Edit: Ceck HotSwap Modpage for Compability.
 
