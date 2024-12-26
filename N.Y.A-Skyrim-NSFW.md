@@ -227,9 +227,14 @@ Pandora is in an Beta state, so some features dont work perfectly yet.
 ## Simple (Ultra)wide Guide
 
 
-Following are the steps for both 21:9 32:9.
+Basic ultrawide setup
+1) Reinstall Edge UI selecting 21:9, on the patches select all Non-Automated Patches, leave rest unchanged. 
+2) Grab EdgeUI C.O.C.K.S 21-9 fix https://www.nexusmods.com/skyrimspecialedition/mods/136604
+3) Install it and put at the end of load order
+4) Optional Grab and install Widescreen Scale Removed put at the end of load order too, should fix some minor issues with scaling. https://www.nexusmods.com/skyrimspecialedition/mods/136793
+5) Grab Configurable Notification Messages https://www.nexusmods.com/skyrimspecialedition/mods/65573
+6) In game use MCM menu to align notifications position
+7) ?????
+8) PROFFIT 
 
-https://www.nexusmods.com/skyrimspecialedition/mods/127233?tab=description
-
-Grab this Mod and put it at the Bottom and boom you are done.
 
