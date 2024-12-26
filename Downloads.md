@@ -372,6 +372,27 @@ File: `Assorted Futanari Texture Patches - Zhizhen TRX Canine 3.5+.7z`
 
 
 
+### Assorted Futanari Texture Patches - BnP DW 3BA
+URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003333&confirm=1&t=1&csrfKey=b8592c380a78f187a44eb5003a3ec1b6
+
+File: `Assorted Futanari Texture Patches - BnP DW 3BA.7z`
+
+
+
+### Assorted Futanari Texture Patches - BnP TRX Horse
+URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003335&confirm=1&t=1&csrfKey=b8592c380a78f187a44eb5003a3ec1b6
+
+File: `Assorted Futanari Texture Patches - BnP TRX Horse.7z`
+
+
+
+### Assorted Futanari Texture Patches - BnP TRX Canine
+URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003336&confirm=1&t=1&csrfKey=b8592c380a78f187a44eb5003a3ec1b6
+
+File: `Assorted Futanari Texture Patches - BnP TRX Canine.7z`
+
+
+
 ### Sexlab SE Sex Animation Framework
 URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download&r=1802315&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
