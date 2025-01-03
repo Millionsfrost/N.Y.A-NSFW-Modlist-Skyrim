@@ -9,6 +9,7 @@
 
 
 MEGA Downloads
+When downloading from MEGA, click the drop-down arrow immediately to the right of the download button and select Standard download.
 ======
 ### Sexy Bono Eyes
 URL: https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY
@@ -62,6 +63,8 @@ File: `Only 1 File`
 
 
 
+GOOGLE DRIVE Downloads
+======
 ### Karlov Manor
 URL: https://drive.google.com/file/d/1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm/edit
 
