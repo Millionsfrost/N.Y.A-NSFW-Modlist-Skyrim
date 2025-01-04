@@ -3,6 +3,8 @@
 
 ## Set your web browser's default download location to your NYA downloads folder before proceeding! This can prevent Wabbajack from falsely flagging one or more of these files as not downloaded. You can change your web browser's download location back after you're done downloading mods from this page.
 
+## Click on each link using the middle mouse button so it opens in a new tab.
+
 ## HOSTED SITES: LoversLab, Patreon, Subscribestar, Mega, and Mediafire.
 
 
