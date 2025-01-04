@@ -8,9 +8,9 @@
 
 
 
-MEGA Downloads
-When downloading from MEGA, click the drop-down arrow immediately to the right of the download button and select Standard download.
-======
+## MEGA DOWNLOADS
+#### When downloading from MEGA, click the drop-down arrow immediately to the right of the download button and select standard download.
+<a href="https://imgur.com/gx4cODz"><img src="https://i.imgur.com/gx4cODz.png" title="source: imgur.com" /></a>
 ### Sexy Bono Eyes
 URL: https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY
 
@@ -40,8 +40,7 @@ File: `Only 1 File`
 
 
 
-MEDIAFIRE Downloads
-======
+## MEDIAFIRE DOWNLOADS
 ### Dragon Marauder by Christine
 URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.7z/file
 
@@ -63,16 +62,14 @@ File: `Only 1 File`
 
 
 
-GOOGLE DRIVE Downloads
-======
+## GOOGLE DRIVE DOWNLOADS
 ### Karlov Manor
 URL: https://drive.google.com/file/d/1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm/edit
 
 File: `Only 1 File`
 
 
-LOVERSLAB Downloads
-======
+## LOVERSLAB DOWNLOADS
 ### The Book of Sex
 URL: https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download&r=797069&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
