@@ -465,7 +465,7 @@ File: `ZAZ 7.0SE-Rev1.7z`
 ### Demonic Creatures Patch
 URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v192/?do=download&r=2054107&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
-File: `Demonic Creatures PATCH V1.91.7z`
+File: `Demonic Creatures PATCH V1.93.7z`
 
 
 
