@@ -233,13 +233,6 @@ File: `milkyanimobj-2-0 SE.zip`
 
 
 
-### NCK30 Animations
-URL: https://www.loverslab.com/files/file/6878-nck30-animations/?do=download&r=2018598&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `NCK30 SLAL 4.4 SE.7z`
-
-
-
 ### Dogma Animations for SLAL
 URL: https://www.loverslab.com/files/file/11308-dogmas-animations-for-slal/?do=download&r=907252&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
