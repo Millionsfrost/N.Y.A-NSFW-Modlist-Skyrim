@@ -72,6 +72,11 @@ File: `Only 1 File`
 
 
 ## LOVERSLAB DOWNLOADS
+#### Before starting your downloads from LoversLab, visit the site at least once and login. Then you can proceed with the downloading of the below files.
+https://www.loverslab.com
+
+
+
 ### The Book of Sex
 URL: https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download&r=797069&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
