@@ -156,21 +156,21 @@
     "links": {
       "image": "https://i.imgur.com/lNrlCmv.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Starfield-Nasa-Punk.md",
-      "download": "https://authored-files.wabbajack.org/Starfield NASAPUNK \u002B Extreme Addon.wabbajack_8f0c75fa-7b1b-43ec-998d-a9a020e64b77",
+      "download": "https://authored-files.wabbajack.org/Starfield NASAPUNK \u002B Extreme Addon.wabbajack_7d7bf375-d27d-49fb-8310-5d419a0d7905",
       "machineURL": "Millionsfrost_Starfield_NASAPUNK",
       "discordURL": "https://discord.gg/XTUGYySnkU"
     },
     "download_metadata": {
-      "Hash": "rtpLKIX4uWE=",
-      "Size": 121178719,
-      "NumberOfArchives": 629,
-      "SizeOfArchives": 234197647770,
-      "NumberOfInstalledFiles": 7699,
-      "SizeOfInstalledFiles": 239603237090
+      "Hash": "v2qLZGewSOI=",
+      "Size": 121289513,
+      "NumberOfArchives": 635,
+      "SizeOfArchives": 233714887837,
+      "NumberOfInstalledFiles": 11105,
+      "SizeOfInstalledFiles": 241050242346
     },
-    "version": "2.0",
+    "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-20T20:53:32.4411074Z",
+    "dateUpdated": "2025-01-29T17:20:11.0577837Z",
     "repositoryName": ""
   }
 ]
