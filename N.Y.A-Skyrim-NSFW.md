@@ -22,6 +22,8 @@ Before diving into the modlist, it's essential to prepare your game environment.
 ## Requirements
 Verify that your system meets the recommended requirement for running the modlist. Having a "worse" computer than this will not stop you from playing, but being below these requirements will likely result in performance issues.
 
+Modlist was also tested on 6.0 on 8GB Vram and the Person got average 65 FPS.
+
 ![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
 #### Page File and Shader Cache
