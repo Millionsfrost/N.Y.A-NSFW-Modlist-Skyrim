@@ -49,6 +49,12 @@ URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.
 File: `Only 1 File`
 
 
+### Arachne Race 1.2
+URL: https://www.mediafire.com/file/twkgw922oc4nwca/Arachne_Spider_Race_%255BSE%255D_1.2.rar/file
+
+File: `Only 1 File`
+
+
 
 ### iAm_fixes_Vominheim 
 URL: https://www.mediafire.com/file/9e000wxv51i4afw/iAm_fixes_Vominheim.rar/file
