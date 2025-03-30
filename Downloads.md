@@ -49,6 +49,15 @@ URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.
 File: `Only 1 File`
 
 
+
+
+### GR_Inari_EarsTails_SMP_SE
+URL: https://www.mediafire.com/file/jdjeenarlr8kwk1/GR_Inari_EarsTails_SMP_SE_v2.3%25281k-2k-4k%2529.7z/file
+
+File: `Only 1 File`
+
+
+
 ### Arachne Race 1.2
 URL: https://www.mediafire.com/file/twkgw922oc4nwca/Arachne_Spider_Race_%255BSE%255D_1.2.rar/file
 
