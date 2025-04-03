@@ -7,13 +7,6 @@
 
 ## HOSTED SITES: LoversLab, Patreon, Subscribestar, Mega, and Mediafire.
 
-## Warning Warning READ THIS Warning Warning
-
-Regarding Demonic Creatures v1.9 Special Edition. Download the File "V1.9 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
-When you downloaded it, open the Document that it comes with and please download the File in there from Mediafire.
- 
-URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/
-
 
 
 ## MEGA DOWNLOADS
@@ -45,6 +38,13 @@ URL: https://mega.nz/file/A1k2nD4D#L0wIZJ8h_yNDCJVN3XYTRoZZdD-9IURkMixEP0pwmCE
 
 File: `Only 1 File`
 
+
+## Warning Warning READ THIS Warning Warning
+
+Regarding Demonic Creatures v1.9 Special Edition. Download the File "V1.9 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
+When you downloaded it, open the Document that it comes with and please download the File in there from Mediafire.
+ 
+URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/
 
 
 
