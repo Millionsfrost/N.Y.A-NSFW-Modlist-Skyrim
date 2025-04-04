@@ -1,6 +1,6 @@
 ![Sandland Banner](https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/refs/heads/main/Sandland-Fallout-4-banner.webp)  
 
-Support and general talk about N.Y.A and Sandland you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
+Support and general talk about N.Y.A and Sandland you can find on the following Discord: https://discord.gg/vermishub
 
 
 #### Sandland-SFW-Modlist-Fallout 4
