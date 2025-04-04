@@ -147,7 +147,7 @@ You can just remove the _Infinite Pathways_ folder.
 
 ## Contact
 
-I am regularly available on https://discord.gg/AsJPrAv7MU
+I am regularly available on https://discord.gg/vermishub
 
 For more information about me, as well as ways to show your appreciation for my work you can visit my Patreon or donate directly via Paypal.
 
