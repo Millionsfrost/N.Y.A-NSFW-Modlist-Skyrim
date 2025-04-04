@@ -1,6 +1,6 @@
 ![Sandland Banner](https://i.imgur.com/659YpoB.png)  
 
-Support about Operation Mosssturm and the other Lists you can find on the following Discord: https://discord.gg/V38xZ6CtzQ
+Support about Operation Mosssturm and the other Lists you can find on the following Discord: https://discord.gg/vermishub
 
 ## Operation Mosssturm Fallout 4
 
