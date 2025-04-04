@@ -10,7 +10,7 @@ Please be aware that it is your responsibility to comply with local laws and reg
  
 Before posting a new support request in #unmodified-support or #modified-support, **please check our [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096)** on the Discord, and *ensure you have read the ReadMe properly* (you are here).
 
-[Community Discord](https://discord.gg/V38xZ6CtzQ)
+[Community Discord](https://discord.gg/vermishub)
 
 [Alternative Google Docs F.A.Q.](https://docs.google.com/document/d/1GPxGqeynqwNBjkZXYeFkhIO0hDv_lxKF3E8MEFg-EcA/edit?usp=sharing) (outdated)
 
