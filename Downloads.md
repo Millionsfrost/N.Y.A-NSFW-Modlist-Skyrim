@@ -169,7 +169,7 @@ File: `HornyCreaturesofSkyrimSE&AE_V2-3.7z`
 
 
 ### SLAL Billyy Animations
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2025-4-1/?do=download&r=2072840&confirm=1&t=1&csrfKey=e43c1edf4eb329b29a94499c77d26373
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2025-4-1/?do=download&r=2072840&confirm=1&t=1&csrfKey=e407c9a5c5bc4680eb9bff08dd512f33
 
 File: `SLAL_Billyy_Animations v8.7 SE.7z`
 
