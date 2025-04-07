@@ -280,13 +280,6 @@ File: `SLAL_M2MAnimations_SE_v20210222.7z`
 
 
 
-### FluffyFox SLAL Pack
-URL: https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=1951923&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `FlufyFox_SLAL_SE_C 3.2.1.rar`
-
-
-
 ### 3jious Animations for SLAL
 URL: https://www.loverslab.com/files/file/4260-3jious-animations-for-slal/?do=download&r=907250&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
