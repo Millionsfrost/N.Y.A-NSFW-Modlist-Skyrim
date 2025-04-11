@@ -287,13 +287,6 @@ File: `3jiou-SE-19-12-2019.zip`
 
 
 
-### FluffyFox SLAL Human
-URL: https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=1951924&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `FlufyFox_SLAL_SE_Human 3.1.2.rar`
-
-
-
 ### Proxys Animations SE
 URL: https://www.loverslab.com/files/file/9437-proxys-animations-se/?do=download&r=734769&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
