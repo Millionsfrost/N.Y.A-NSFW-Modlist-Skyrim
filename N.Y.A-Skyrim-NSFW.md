@@ -131,6 +131,7 @@ Make your character. Once you finish your character, follow the Instruction on t
 
 <ins>NYA Character Creation and MCM Tutorial</ins>	
 [![IMAGE ALT TEXT](https://i.imgur.com/VxINNNU.png)](https://www.youtube.com/watch?v=PhWjJdBLcO4 "NYA Character Creation and MCM Tutorial")
+
 ***There is a good chance that the game may crash on character creation. It is a known issue and being investigated. Do not report it in a bug report.***
 ***The same goes for starter room crashes.***
 
