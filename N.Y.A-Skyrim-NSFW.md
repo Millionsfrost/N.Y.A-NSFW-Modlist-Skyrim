@@ -199,7 +199,7 @@ Lazy Item Hider - Toggle helm weapons and more. When you equip a Helm now, it au
 
 ## Obody HotSwap Collisions
 
-We now use OBody HotSwap - CBPC presets for OBody, meaning and i quote from the Authoe " The same thing CBPC CCC does (and something extra), but for all supported presets you load via OBody.
+We now use OBody HotSwap - CBPC presets for OBody, meaning and i quote from the Author " The same thing CBPC CCC does (and something extra), but for all supported presets you load via OBody.
 In few words, if the preset is included in CBPC CCC's supported list then it can get its own custom collisions, tuned to the shape of that body. The "something extra" is to not only allow collisions but custom bounce configs as well.
 Supported Body Presets atm are the following:
 
@@ -223,7 +223,7 @@ THE P3ACH -CBBE Preset-
 (3BA) Velma
 (3BA) CBBE Body Special DW Preset 1 Female
 
-Edit: Ceck HotSwap Modpage for Compability.
+Edit: Check HotSwap Modpage for Compability.
 
 I also added them into the Obody Preset thingy, so basicly NPCS can only get these Presets applied to them. All the other Presets are basicly only applicable manually, or for the Player. Check out Obody HotSwap to learn more! More Presets will be added every Week.
 
