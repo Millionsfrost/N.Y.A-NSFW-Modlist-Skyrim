@@ -10,11 +10,12 @@
     "official": false,
     "tags": [
       "Vokriinator Black",
-      "MCO",
-      "Stances",
+      "BFCO",
+      "Custom Animations",
       "Power Fantasy",
       "New Lands",
       "New Quests",
+      "Custom Classes",
       "Sexlab\u002B",
       "Pandora Engine"
     ],
@@ -38,7 +39,7 @@
       "NumberOfInstalledFiles": 433199,
       "SizeOfInstalledFiles": 540174500872
     },
-    "version": "5.2",
+    "version": "6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-01-16T21:08:32.009782Z",
     "repositoryName": ""
