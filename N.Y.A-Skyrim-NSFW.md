@@ -12,8 +12,6 @@ Before posting a new support request in #unmodified-support or #modified-support
 
 [Community Discord](https://discord.gg/vermishub)
 
-[Alternative Google Docs F.A.Q.](https://docs.google.com/document/d/1GPxGqeynqwNBjkZXYeFkhIO0hDv_lxKF3E8MEFg-EcA/edit?usp=sharing) (outdated)
-
 # Pre-installation Steps
 Before you install the modlist, there are some very important steps you need to take in order for a smooth installation process as well as a more seamless experience in-game.
 Before diving into the modlist, it's essential to prepare your game environment. These pre-installation steps will help ensure a smooth installation process and a more seamless experience in-game. Follow **all** guidelines carefully:
@@ -26,6 +24,8 @@ Modlist was also tested on 6.0 on 8GB Vram and the Person got average 65 FPS.
 
 ![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
 
+
+
 #### Page File and Shader Cache
 You will need to manually increase your page file as well as increase the size of your shader cache in order to avoid performance issues, even if you have a monster PC.
 
@@ -35,8 +35,7 @@ To increase your page file, press Windows+R and enter **systempropertiesadvanced
 Uncheck "Automatically manage..." and select your fastest SSD in the list of drives. Check "Custom Size" and set **Initial Size to 20480** and set **Maximum Size to 40000**. Now press "Set" and then APPLY before restarting your PC.
 
 
-Increase the shader cache size via Nvidia Control Panel to at least **10GB**. For AMD users, similar steps might apply.
-
+Increase the shader cache size via Nvidia Control Panel to at least **10GB**. You can skip this if you're using an AMD GPU, this is set up by default for them. If you have it disabled or want to see how to enable it you can [go here](https://www.amd.com/en/resources/support-articles/faqs/dh-012.html#DH-012-Shader).
 
 
 ## Microsoft
@@ -56,7 +55,7 @@ You need an account on [Nexus](https://www.nexusmods.com). Premium is recommende
 
 You will also need an account on [Loverslab](https://www.loverslab.com). You will have to log in for manual downloads (a step later on), and you might need to log in to Loverslab inside Wabbajack once the modlist download actually begins.
 
-![alt text](https://i.imgur.com/zvSoCH9.png)
+![alt text](https://i.imgur.com/pGixxkm.png)
 
 # Preparing For Installation
 In order to avoid issues when installing through Wabbajack, you will need to follow these **VERY IMPORTANT** steps.
@@ -125,15 +124,24 @@ Once you get into the game, listen to the Announcer in the Main Menu for more Ex
 
 Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
 
-Now you can press enter and spawn in the gameworld. Then proceed to watch my Youtube video https://www.youtube.com/watch?v=pplMle5Tyd4&lc=UgxL2oGjoPVjsJft_5J4AaABAg for additional MCM settings not covered by the automatic MCM setup.
+<ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>	
 
-Video is Outdated atm so some Stuff you wont have anymore. New Update Video Soon.
+<ins>N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information
+[![IMAGE ALT TEXT](https://i.imgur.com/RTx5nj8.png)](https://www.youtube.com/watch?v=1dPJON9KIe4 "N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information")
+
+<ins>NYA Character Creation and MCM Tutorial</ins>	
+[![IMAGE ALT TEXT](https://i.imgur.com/VxINNNU.png)](https://www.youtube.com/watch?v=PhWjJdBLcO4 "NYA Character Creation and MCM Tutorial")
+***There is a good chance that the game may crash on character creation. It is a known issue and being investigated. Do not report it in a bug report.***
+***The same goes for starter room crashes.***
+
+<ins>Things you want to know for N.Y.A 6.0</ins>	
+[![IMAGE ALT TEXT](https://i.imgur.com/a5mk6CG.png)](https://www.youtube.com/watch?v=szeUFI5vGAY "Things you want to know for N.Y.A 6.0")
 
 ### Manual Settings:
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
-### N.Y.A Custom Background System ( Class Mod but its called Backgrounds bcs its not Classes but if i say Classes you wont think its a Wallpaper Backgrounds Mod or something like that lmao )
+### [N.Y.A Custom Background System](https://docs.google.com/spreadsheets/d/1tfuKo3nGhs8_owsJUz-d7d7Cb3du-Hd1Q6CmiLBWMFc/edit?usp=sharing) ( Class Mod but its called Backgrounds bcs its not Classes but if i say Classes you wont think its a Wallpaper Backgrounds Mod or something like that lmao )
 
 1. How to Use "Legends of the Forgotten Paths" to Choose Your Background
 Open the Book
@@ -153,15 +161,14 @@ Scroll through the message box until you find the background you want. Once you'
 
 Note: Be careful with your choice! After selecting a background, the spell "Journey's Genesis" will be removed from your inventory, and you won’t be able to change your background later.
 
-### ENB Performance Settings
+### ENB Information
 
-In the ENB at the Bottom is a Seperator called - Kauz ENB Performance Settings - . Just open the Kauz ENB Performance Settings Mod via " Open in Explorer " and copy the ENBSERIES.ini into the GameRoot Folder where you have the Modlist installed. And Done.
+N.Y.A 6.0 now uses a customized version of Cabbage ENB with Sswaye's ReShade. 3 ReShade presets are available to choose from. Do not change the ENB or alter the ENB settings.
+![alt text](https://i.imgur.com/YhDDnm3.png)
 
 ### Beth Pie
 
-Beth Pie is now in Mo2
-
-Do not use Beth Pie. It will revert the Custom Setup Ini files. Do all changes manually please.
+<ins>**DO NOT USE BETH PIE EVER! THIS WILL BREAK THINGS IN THE LIST!**</ins>	
 
 ## NOTE:
 DO NOT USE VANILLA as A START
@@ -172,14 +179,15 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 ## Buttons
 
 Please open as Fullscreen in your Brower or download the Picture.
+*Note* that Vermillion is left-handed so you may need to change your mouse buttons back to right-handed if they are not changed before an update.
 
-![alt text](https://i.imgur.com/WvtxOCx.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/pUlMzvk.png)
 
-Outdatet kinda.
 
-### Stances
+### New Combat Animations
 
-Ingame you can change Weapon Stances with F1 F2 F3 Keys.
+There is a new trader in Riverwood named Scarlet who sells rings and custom weapons that unlock animations.
+![alt text](https://i.imgur.com/fFk3Hsy.png)
 
 ## Extra Buttons not on Picture:
 
@@ -222,9 +230,9 @@ I also added them into the Obody Preset thingy, so basicly NPCS can only get the
 ### SexLab+
 This list uses SexLab+ aka P+, a newer version of SexLab.
 
-### Note:
-Pandora is in an Beta state, so some features dont work perfectly yet.
-
+### Pandora Animation Behavior Overhaul:
+If you decide to mod the list and need to rerun Pandora, ensure to delete the meshes folder before running.
+![alt text](https://i.imgur.com/iNCJVVC.png)
 
 ## Simple (Ultra)wide Guide
 
@@ -237,6 +245,10 @@ Basic ultrawide setup
 5) Grab Configurable Notification Messages https://www.nexusmods.com/skyrimspecialedition/mods/65573
 6) In game use MCM menu to align notifications position
 7) ?????
-8) PROFFIT 
+8) PROFIT
+
+
+## - Optional Mods - (included in N.Y.A)
+If you want to activate the Halgari RPG Loot mod *(adds custom enchantments to gear distributed throughtout the world, but also increases initial load time)* ensure to place the ESP in the plugins list under the NYA Backgrounds plugin.
 
 
