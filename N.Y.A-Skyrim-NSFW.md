@@ -194,7 +194,7 @@ There is a new trader in Riverwood named Scarlet who sells rings and custom weap
 
 ### Lazy Item Hider
 
-Lazy Item Hider - Toggle helm weapons and more. When you equip a Helm now, it automaticly hides when you put your Weapon away. This Mod has an MCM and is highly adjustable. You can hide all Kinds of Things like Weapons etc etc, even use a Hotkey or dont use Auto hide. Its all on you. I only set it up for Heads so its not so intrusive. Normally the manual way is right Shift, but you should be able to set it up later ingame after you are in the Gameworl, set it up as you see fit.
+Lazy Item Hider - Toggle helm weapons and more. When you equip a Helm now, it automaticly hides when you put your Weapon away. This Mod has an MCM and is highly adjustable. You can hide all Kinds of Things like Weapons etc etc, even use a Hotkey or dont use Auto hide. Its all on you. I only set it up for Heads so its not so intrusive. Normally the manual way is right Shift, but you should be able to set it up later ingame after you are in the Gameworld, set it up as you see fit.
 
 
 ## Obody HotSwap Collisions
