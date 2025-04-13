@@ -112,7 +112,7 @@ After you have done this, you need to make sure to download Creation Kit for SE.
 If you have completed **all** steps above, you can now begin to download N.Y.A through Wabbajack! For this, you naturally need to have [Wabbajack](https://www.wabbajack.org) installed *(into C:\wabbajack which should be excluded by antivirus)*.
 
 
-You need to log into Nexus within Wabbajack by clicking the Gear at the top before you begin your installation. Set the install location to an empty folder on the root of a drive, such as C:\NYA, and downloads to something like C:\ModDownloads. Note that you should usually tick the "Overwrite" if it is available.
+You need to log into Nexus within Wabbajack by clicking the Gear at the top before you begin your installation. Set the install location to an empty folder on the root of a drive, such as C:\NYA, and downloads to something like C:\ModDownloads. 
 
 
 If you encounter any issues during the installation process, consider going through the steps of the ReadMe once more. If you still cannot figure out what the problem is, please refer to the [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096) in the Discord.
