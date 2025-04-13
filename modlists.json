@@ -27,21 +27,23 @@
     "links": {
       "image": "https://i.imgur.com/nx724h0.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
-      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_2f9e24f1-543d-4166-b03b-09ed9c3ba690",
+      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_4be3d505-e113-4cf6-9b40-cbd595182baa",
       "machineURL": "nyaskyrim",
-      "discordURL": "https://discord.gg/V38xZ6CtzQ"
+      "discordURL": "https://discord.gg/V38xZ6CtzQ",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "pjE2usnTxFU=",
-      "Size": 1382620179,
-      "NumberOfArchives": 3467,
-      "SizeOfArchives": 316324433153,
-      "NumberOfInstalledFiles": 433199,
-      "SizeOfInstalledFiles": 540174500872
+      "Hash": "w2ncPjCwryw=",
+      "Size": 2078632063,
+      "NumberOfArchives": 3786,
+      "SizeOfArchives": 325902856254,
+      "NumberOfInstalledFiles": 462482,
+      "SizeOfInstalledFiles": 562440699080,
+      "TotalSize": 888343555334
     },
     "version": "6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-16T21:08:32.009782Z",
+    "dateUpdated": "2025-04-13T19:51:12.5417247Z",
     "repositoryName": ""
   },
   {
@@ -72,7 +74,8 @@
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
       "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_81c60b00-3286-4583-9940-0a1d91078920",
       "machineURL": "sandland",
-      "discordURL": "https://discord.gg/V38xZ6CtzQ"
+      "discordURL": "https://discord.gg/V38xZ6CtzQ",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "9x5O+rPqAUk=",
@@ -80,7 +83,8 @@
       "NumberOfArchives": 1314,
       "SizeOfArchives": 201308376850,
       "NumberOfInstalledFiles": 145857,
-      "SizeOfInstalledFiles": 306142676947
+      "SizeOfInstalledFiles": 306142676947,
+      "TotalSize": 507451053797
     },
     "version": "1.9",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -115,7 +119,8 @@
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/BG3_Infinite_Pathways.md",
       "download": "https://authored-files.wabbajack.org/Infinite Pathways.wabbajack_82871b7c-8cb1-4f38-8c2d-6407bdb78e54",
       "machineURL": "Millionsfrost_BG3_Infinite_Pathways",
-      "discordURL": "https://discord.gg/AsJPrAv7MU"
+      "discordURL": "https://discord.gg/AsJPrAv7MU",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "/WWDQKU5zL4=",
@@ -123,7 +128,8 @@
       "NumberOfArchives": 728,
       "SizeOfArchives": 44219919196,
       "NumberOfInstalledFiles": 7583,
-      "SizeOfInstalledFiles": 57390230957
+      "SizeOfInstalledFiles": 57390230957,
+      "TotalSize": 101610150153
     },
     "version": "1.7",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -159,7 +165,8 @@
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Starfield-Nasa-Punk.md",
       "download": "https://authored-files.wabbajack.org/Starfield NASAPUNK \u002B Extreme Addon.wabbajack_7d7bf375-d27d-49fb-8310-5d419a0d7905",
       "machineURL": "Millionsfrost_Starfield_NASAPUNK",
-      "discordURL": "https://discord.gg/XTUGYySnkU"
+      "discordURL": "https://discord.gg/XTUGYySnkU",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "v2qLZGewSOI=",
@@ -167,7 +174,8 @@
       "NumberOfArchives": 635,
       "SizeOfArchives": 233714887837,
       "NumberOfInstalledFiles": 11105,
-      "SizeOfInstalledFiles": 241050242346
+      "SizeOfInstalledFiles": 241050242346,
+      "TotalSize": 474765130183
     },
     "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
