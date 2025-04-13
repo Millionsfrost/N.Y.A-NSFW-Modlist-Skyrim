@@ -225,6 +225,13 @@ File: `Fill Her Up Baka Edition.7z`
 
 
 
+### osmelmc Mod Tweaks
+URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/?do=download&r=1822145&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
+ 
+File: `SOS - Schlongs of Skyrim with PapyrusUtil & SexLab Tweaks (20231226).7z`
+
+
+
 ### TRX Futanari Horse Addon
 URL: https://www.loverslab.com/files/file/22071-trx-futanari-horse-addon-beta-test/?do=download&r=1276759&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
