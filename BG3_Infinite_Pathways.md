@@ -122,6 +122,10 @@ Important Info: Randomize Button will crash your Game.
 
 Info: Ignore Errors when you load a Save. Its normal.
 
+## Reshade Information
+
+The PPure Reshade Setup only works on DX11 and not Vulkan. Please disable the Pure Reshade Mod in Mo2 if you plan on playing with Vulkan.
+
 
 
 ### Gooner Options / Astarion , Gale, Halsin into Females + Voice ( Appereance editable )
