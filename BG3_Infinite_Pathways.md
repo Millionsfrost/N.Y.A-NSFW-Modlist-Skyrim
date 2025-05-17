@@ -86,6 +86,7 @@ _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur
 6.  Copy the Contents from Overwrite Output into your Overwrite. Its the Red Overwrite at the very bottom of the Mo2. Click Yes and Replace everything.
 7.  Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut. ( Reshade not working with Vulkan )  
 8.  When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
+9.  At the Bottom Screen you see the REL SE Loot Table from the Mod Config Menu. When it looks like this your are good to go.
 
 ![image](https://github.com/user-attachments/assets/27a9e049-7601-44f8-98ec-7e5ffd50d52b)
 
