@@ -76,19 +76,22 @@ _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur
 
 ( IF it shows you Vanilla Game on Boot Up: ( Only do this if the Modlist doesnt work initially by starting it via DX11 or Vulkan, for some the List works from the get go. It works if you see different Loading Screen on booting the Game up. )
 
-1. Open Mod Manager Ingame in the Bg3 Client. ( Main Menu )
-2. Install the first mod in there ( Should be ImpUi )
-3. Then uninstall the Imp UI Mod again.
-4. Close the game
-5. Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut.
-6. When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
-7. If you followed the Overwrite Instructions above you will have a Checkmark in the Picture down below. If its unchecked you missed the Overwrite Copy Part. Remember, after every Update you need to redo the Overwrite Step.
-8. ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
+1.  Launch the Vanilla Game once and close it again.
+2.  Launch the Game via Mo2 ( Dx11 )
+2.5 Open Mod Manager Ingame in the Bg3 Client. ( Main Menu )
+3.  Install the first mod in there ( Should be ImpUi )
+4.  Then uninstall the Imp UI Mod again.
+5.  Close the game
+5.5 Start the game and Close it again.  
+6.  Copy the Contents from Overwrite Output into your Overwrite. Its the Red Overwrite at the very bottom of the Mo2. Click Yes and Replace everything.
+7.  Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut. ( Reshade not working with Vulkan )  
+8.  When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
+9.  ![image](https://github.com/user-attachments/assets/c3ac7acf-0d2c-4ab9-b2be-624204ac03f7)
 
 
 ## Post-Installation
 
-Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, mostly you can disable them in Mod Organizer 2. The Sex Framework is optional and doesnt add much Content anyway.
+Keep in Mind if you dont like Certain NPC Overhauls or Choices that were made, mostly you can disable them in Mod Organizer 2. 
 
 ## Important Information
 
