@@ -86,7 +86,7 @@ _Infinite Pathways_ will not work with anything but a legitimate copy of _Baldur
 6.  Copy the Contents from Overwrite Output into your Overwrite. Its the Red Overwrite at the very bottom of the Mo2. Click Yes and Replace everything.
 7.  Then relaunch through Mo2 again via the DX11 or Vulkan Shortcut. ( Reshade not working with Vulkan )  
 8.  When you Freeze at 100% Loading, wait for 2-3 Minutes. If it doesnt start, restart Game and try again. Dont click anything while the Main Menu is loading.
-9.  ![image](![image](https://github.com/user-attachments/assets/27a9e049-7601-44f8-98ec-7e5ffd50d52b)
+9.  (![image](https://github.com/user-attachments/assets/27a9e049-7601-44f8-98ec-7e5ffd50d52b)
 
 
 
