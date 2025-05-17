@@ -126,6 +126,12 @@ Info: Ignore Errors when you load a Save. Its normal.
 
 The PPure Reshade Setup only works on DX11 and not Vulkan. Please disable the Pure Reshade Mod in Mo2 if you plan on playing with Vulkan.
 
+Ingame open it with Home Key and on the top left if you have them, turn of Shades with DOF in its Name. Like LightDOF and Stuff. If you dont disable them sometimes Subtitles get a crazy Blur in Cutscenes and Dialogue.
+
+If the Reshade makes your FPS go bad, just dont use it or only use it in Cutscenes. The Ä key on your Keyboard turn it on and off. Yes UI looks abit more washed out but its worth it. For Question ask in Discord.
+
+If you dont have an Ä Key, open the Reshade Menu and go to Settings and change the Toggle Hotkey to something you like.
+
 
 
 ### Gooner Options / Astarion , Gale, Halsin into Females + Voice ( Appereance editable )
