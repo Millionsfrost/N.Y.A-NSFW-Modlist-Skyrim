@@ -10,7 +10,7 @@
 
 Inifnite Pathways as the Name suggests, is a Massive Modlist that gives you a ton of Possibilities. There is an Extreme Amount of new Classes and Subclasses aswell as Races and Cusomization Choices. Updated Textures aswell.
 
-The Loot is modded and contains over 3000 new Items. The whole Game has been overhauled aswell with handpicked Overhauls for the Basegame. Everything is new and Exiting. Running on Patch 7.
+The Loot is modded and contains over 3000 new Items. The whole Game has been overhauled aswell with handpicked Overhauls for the Basegame. Everything is new and Exiting. Running on Patch 8.
 
 #### More Information
 
@@ -119,8 +119,6 @@ Choose whatever Difficulty you want, i reccomend Custom, Balanced Settings and A
 Info : Certain Classes like Wizard and others, only get the new Sublcasses on Level 2. But dont worry you can respec ingame easily via Respec Spell.
 
 Info : Dont open the Mod Manager ingame, only the Mod Configuration Menu if you wanna adjust Settings. Unless you follow the Optional Way described below.
-
-Important Info: Some Classes work until Level 20, other only unti Level 12. I advice to Multiclass then.
 
 Info : Ignore Missing Icons.
 
