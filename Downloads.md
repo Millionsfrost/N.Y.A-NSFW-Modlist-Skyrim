@@ -129,7 +129,7 @@ File: `SexLab Confabulation ***SE*** V1.7.4.zip`
 ###  Yamete Kudasai
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/?do=download&r=2083902&confirm=1&t=1&csrfKey=8e88900350617ef6c947dc444f20c663
 
-File: `YameteKudasai - 2.2.2.2.zip`
+File: `YameteKudasai - 2.2.3.zip`
 
 
 
