@@ -7,7 +7,7 @@
 
 ## HOSTED SITES: LoversLab, Patreon, Subscribestar, Mega, and Mediafire.
 
-
+## Anubs latest Free NSFW Animation is inlined into the Modlist so you dont have to download it on the Discord, but you can join his Discord here: https://discord.gg/gJG86uKM There you can get Previews, Videos, and even suggest Ideas to him.
 
 ## MEGA DOWNLOADS
 #### When downloading from MEGA, click the drop-down arrow immediately to the right of the download button and select standard download.
