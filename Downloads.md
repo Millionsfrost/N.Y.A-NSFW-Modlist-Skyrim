@@ -41,7 +41,7 @@ File: `Only 1 File`
 
 ## Warning Warning READ THIS Warning Warning
 
-Regarding Demonic Creatures v1.9 Special Edition. Download the File "V1.9 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
+Regarding Demonic Creatures v2.0 Special Edition. Download the File "V2.0 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
 When you downloaded it, open the Document that it comes with and please download the File in there from Mediafire.
  
 URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/
@@ -49,11 +49,18 @@ URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v1
 
 
 ## MEDIAFIRE DOWNLOADS
+
 ### Dragon Marauder by Christine
 URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.7z/file
 
 File: `Only 1 File`
 
+
+
+### HG Hairdos 2
+URL: https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ
+
+File: `HG Hairdos 2 SE`
 
 
 
@@ -374,13 +381,6 @@ File: `SLAL Pack - Sexual Vampire Feed SE.7z`
 URL: https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/?do=download&r=666073&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
 File: `ZAZ 7.0SE-Rev1.7z`
-
-
-
-### Demonic Creatures Patch
-URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/?do=download&r=2065792&confirm=1&t=1&csrfKey=b8592c380a78f187a44eb5003a3ec1b6
-
-File: `Demonic Creatures PATCH V1.93.7z`
 
 
 
