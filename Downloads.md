@@ -434,3 +434,19 @@ File: `Sexlab LightMeUp SE 2.9.4.7z`
 URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1680585&key=8d59158828212de902c585b2a7cb060e
 
 File: `SLLMU Patch April 2023.7z`
+
+
+
+### Diary Of Mine for Paradise Halls
+
+URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2093121&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
+
+File: `Diary Of Mine 5.5.0_SE_fomod.7z`
+
+
+
+### Acheron - Diary of Mine Addon
+
+URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download&r=1713863&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
+
+File: `Acheron - Diary of Mine Addon - 1.1.0.zip`
