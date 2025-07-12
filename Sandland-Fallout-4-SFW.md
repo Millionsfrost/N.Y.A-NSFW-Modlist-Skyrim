@@ -9,42 +9,41 @@ Release Beta Test Version of Sandland, you need the latest Next gen Update from 
 
 Size: Downloads - 158 GB | Installation - 262 GB
 
-#### Features
+## Features
 
+- The Midnight Ride Baseline
 - Desert Theme
 - Reactor ENB
-- 100+ New Monsters, Creatures and Animals.
-- New Unique Bosses and Naming System.
-- Different Values and Sizes for Monsters
-- 250+ new Weapons
-- 50+ new Armors
-- Unique Replacers
+- 150+ New Monsters, Creatures and Animals.
+- Every Vanilla Unique Weapon has been replaced!
+- Every Vanilla Vendor Unique Weapon and Armor has been replaced!
+- Over 150 Weapon Mods resulting in way over 200 new Weapon across all Types!
+- New Armors and Clothing
+- Full Eco Redux and Leo Integreation.
 - Alias System
-- Extendet Characters Creation with lots of Hairs, Tatoos, Colors, Overlays and Eyes
-- Many UI`s to choose from
+- Extendet Character Creation with lots of Hairs, Tatoos, Colors, Overlays and Eyes. 4K Body and 2K Face!
+- Quest Mods Expansions such as South of the Sea Atom Storm and CSEP DLC Size Quest Mods and many more.
+- Many new and great new Settlement Mods
+- Modern UI
 - Highly cusomizable MCM Menus
 - Complete Perk Overhaul via LevelUpMenuEx and You Are Exceptional
-- Gameplay Difficulty with Scourge
-- A LOT of Settlement Mods
-- Heather Casdin and Ellen Companions
-- Lootables Crates ( They werent open before, including reduced Loot Patch for Balance )
-- Complete Audio Overaul
+- Complete Gameplay Overhaul via Better Locational Damage and other Overhaul Mods from the same Author!
+- Modern Theme in Terms of Items and Weapons. Many Vanilla Friendly Weapon aswell tho.
+- Several new Companions like Heather etc.
+- Alternate Start Mod!
+- Complete Audio Overaul for Weapons and Surroundings!
 - Complete Overhaul of GUN VFX
 - FIS + Complex Sorter
-- All Vanilla Animations are overhauled if you like to play in third Person
-- New Laser Designator allows you to call in Artillery, Nukes and Cruise Missiles if you fullfill the Quest Requirements. You can also call in CAS Support in form of BRRRRRRRRT. Its explained in a Lorefriendly Way why it works if you choose to utilize it
 - Water Overhauled
-- High Poly Faces and the Stuff
-- Vanilla Uniques Framework, meaning some Uniques got replaced with even uniquer Stuff
-- Grave Digger ( You can Bury Enemies and also flatten them to make them completely dissapear. You can also build Graveyards now
-- The Rebuild Collection AIO ( You can now restore all Settlements to there former Glory )
+- High Poly Faces and all the good Stuff!
+- X-Cell! Facegen is generated, more Performance friendly!
 
 
 
-#### Sandland Modlist: Open Beta Release Version
-Welcome to the Open Beta release of Sandland, a comprehensive modlist that transforms every aspect of the game with key mods such as Scourge, True Damage, Badlands 2, and Desperados. This list, built on the Magnum Opus baselist, incorporates a desert theme and utilizes the Reactor ENB for enhanced visuals.
+#### Sandland Modlist: Release Version
+Welcome to the release of Sandland Remake, a comprehensive modlist that transforms every aspect of the game with key mods such as, Badlands 2, and Desperados. This list, built on the Operation Mosssturm baselist which is build on The Midnight Ride, incorporates a desert theme and utilizes the Reactor ENB for enhanced visuals.
 
-Sandland introduces over 100 new monsters, creatures, and animals, each with unique names, values, and sizes, along with new unique bosses to challenge. You'll also find over 50 new weapons, more than 2,000 new pieces of clothing, and 50+ new armors. The list includes unique replacers and an alias system, adding depth and variety to your encounters.
+Sandland introduces over 100 new monsters, creatures, and animals, each with unique names, values, and sizes, along with new unique bosses to challenge. You'll also find over 250 new weapons, more than 2,000 new pieces of clothing, and 50+ new armors. The list includes unique replacers and an alias system, adding depth and variety to your encounters.
 
 Character creation is vastly expanded with numerous options for hairstyles, tattoos, colors, overlays, and eye colors. The modlist includes extensive quest expansions like South of the Sea, 3DNPC, CSEP DLC-sized quest mods, and many more. The full Sim Settlements 2 package is also integrated, offering a rich settlement-building experience.
 
