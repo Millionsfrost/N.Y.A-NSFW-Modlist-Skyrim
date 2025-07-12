@@ -195,14 +195,6 @@ The Ammos listed above do not need to be changed with the B Button, they are all
 
 - Vault 111 , right where the Elevator is, is a Sliver chest behind a Fallen Tree. It has the Univeral Workbench Items. Please get them they will help you with Ammo Crafting, Outfit crafting and accessing Modded Guns/Armors that cannot be found in the World.
 
-## Warning: For the CRP Overhaul
-
-- Never move any of the Plugins!
-
-- New Mods Esps/Esls always go above Better Locational Damage.esp, never underneath.
-
-- Do not add any new Mods to the Overworld such as new Quests or Locations. All the Mods i added have PRP and Previs Patches. 99% of Mods in the Quest and New Location Section are incompatible with CRP. I will add more over Time if they get patched!!!!!!
-
 
 ## Buttons
 
