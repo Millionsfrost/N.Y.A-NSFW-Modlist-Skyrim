@@ -73,7 +73,7 @@
       "image": "https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/main/Sandland-Fallout-4-banner.webp",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
       "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_81c60b00-3286-4583-9940-0a1d91078920",
-      "machineURL": "sandland",
+      "machineURL": "NYA/sandland",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
       "websiteURL": ""
     },
@@ -86,7 +86,7 @@
       "SizeOfInstalledFiles": 306142676947,
       "TotalSize": 507451053797
     },
-    "version": "1.9",
+    "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-07-22T11:59:56.5722694Z",
     "repositoryName": ""
