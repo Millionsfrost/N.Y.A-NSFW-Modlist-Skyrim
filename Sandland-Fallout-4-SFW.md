@@ -11,20 +11,16 @@ Size: Downloads - 158 GB | Installation - 262 GB
 
 #### Features
 
-- Magnum Opus Baselist with some Changes
 - Desert Theme
 - Reactor ENB
 - 100+ New Monsters, Creatures and Animals.
 - New Unique Bosses and Naming System.
 - Different Values and Sizes for Monsters
-- 50+ new Weapons
-- 2000+ new Pieces of Clothing
+- 250+ new Weapons
 - 50+ new Armors
 - Unique Replacers
 - Alias System
 - Extendet Characters Creation with lots of Hairs, Tatoos, Colors, Overlays and Eyes
-- Quest Mods Expansions such as South of the Sea and 3DNPC and CSEP DLC Size Quest Mod and many more.
-- FULL Sim Settlements 2 Package
 - Many UI`s to choose from
 - Highly cusomizable MCM Menus
 - Complete Perk Overhaul via LevelUpMenuEx and You Are Exceptional
