@@ -59,7 +59,7 @@
       "Desert Theme",
       "You are Exceptional Perks System",
       "Quest Mods",
-      "150+ New Weapons",
+      "150\u002B New Weapons",
       "Great Damage Balance",
       "Gore",
       "New Animation System"
@@ -72,23 +72,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/main/Sandland-Fallout-4-banner.webp",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
-      "download": "https://authored-files.wabbajack.org/Sandland.wabbajack_81c60b00-3286-4583-9940-0a1d91078920",
+      "download": "https://authored-files.wabbajack.org/Sandland Remake.wabbajack_f7ae340d-30fe-46bb-9941-b7fcc531626e",
       "machineURL": "sandland",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "9x5O+rPqAUk=",
-      "Size": 265851118,
-      "NumberOfArchives": 1314,
-      "SizeOfArchives": 201308376850,
-      "NumberOfInstalledFiles": 145857,
-      "SizeOfInstalledFiles": 306142676947,
-      "TotalSize": 507451053797
+      "Hash": "PfJAoOgp3QQ=",
+      "Size": 225750916,
+      "NumberOfArchives": 1339,
+      "SizeOfArchives": 226714859534,
+      "NumberOfInstalledFiles": 103276,
+      "SizeOfInstalledFiles": 286286904622,
+      "TotalSize": 513001764156
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-07-22T11:59:56.5722694Z",
+    "dateUpdated": "2025-07-12T14:15:48.0538168Z",
     "repositoryName": ""
   },
   {
