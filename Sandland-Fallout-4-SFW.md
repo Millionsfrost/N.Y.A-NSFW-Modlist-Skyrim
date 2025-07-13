@@ -39,11 +39,6 @@ Size: Downloads - 158 GB | Installation - 262 GB
 - X-Cell! Facegen is generated, more Performance friendly!
 
 
-
-## Operation Mosssturm: Open Beta Release Version
-Welcome to the Open Beta release. The List is in a playable State but we are currently testing out all the Weapon Additions so we dont miss any invisibile, broken , or Weapons that crash the Game. So please help us out in the Discord. More People can find more Things! If you read this at a later Date, and think, are they still testing? Remember me so i can delete this Line of Text lol.
-
-
 ## Accounts
 
 In terms of accounts you will need: Nexus Account, Premium would be best.
@@ -60,7 +55,7 @@ OCBP Physics : https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 ZeX - ZaZ Extended Skeleton 6.0 : https://www.loverslab.com/files/file/24592-zex-zaz-extended-skeleton/
 ( Only 1 File to download here and that is ZeX-V6.zip )
 
-You put the Mods you downloaded into the Operation Mosssturm Downloads Folder ofc! 
+You put the Mods you downloaded into the Sandland Remake Downloads Folder ofc! 
 
 
 ## Nexus Premium Account
@@ -150,7 +145,7 @@ That's right - start the game. You need to let the game do its initial start up 
 
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
-Set the installation location to a folder on the root of a drive, something like C:\Operation Mosssturm. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
+Set the installation location to a folder on the root of a drive, something like C:\Sandland Remake. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
 
 Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
@@ -160,7 +155,7 @@ Once you have everything set in Wabbajack, hit GO and let it do its thing. It mi
 
 - If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
 
-- After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Operation Mosssturm Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
+- After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
 
 - There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option always, on Gun for Hire you can decide for yourself if you want Easy Mode or not.
 
