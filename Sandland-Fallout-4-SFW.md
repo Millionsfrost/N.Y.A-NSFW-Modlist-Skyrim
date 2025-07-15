@@ -43,6 +43,8 @@ Size: Downloads - 158 GB | Installation - 262 GB
 THBrows - TrophiiHunter = Thank you for allowing us to inline THBrows!
 Make sure to check out his Mods on : https://www.trophihunter.com/
 
+## Videos that will help you: https://www.youtube.com/watch?v=KX9deWpSdyQ
+
 
 ## Accounts
 
