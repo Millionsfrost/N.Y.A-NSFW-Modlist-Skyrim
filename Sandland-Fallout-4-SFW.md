@@ -38,6 +38,11 @@ Size: Downloads - 158 GB | Installation - 262 GB
 - High Poly Faces and all the good Stuff!
 - X-Cell! Facegen is generated, more Performance friendly!
 
+## Credits
+
+THBrows - TrophiiHunter = Thank you for allowing us to inline THBrows!
+Make sure to check out his Mods on : https://www.trophihunter.com/
+
 
 ## Accounts
 
