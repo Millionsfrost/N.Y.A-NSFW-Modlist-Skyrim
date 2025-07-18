@@ -239,31 +239,11 @@ File: `SOS - Schlongs of Skyrim with PapyrusUtil & SexLab Tweaks (20231226).7z`
 
 
 
-### TRX Futanari Horse Addon
-URL: https://www.loverslab.com/files/file/22071-trx-futanari-horse-addon-beta-test/?do=download&r=1276759&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `1403708856_TRX-FutanariHorseAddon1_11.7z`
-
-
-
-### TRX Futa Armor Addon Wip
-URL: https://www.loverslab.com/files/file/19617-trx-futa-armor-addon-wip/?do=download
-
-File: `TRX - Futa Armor Addon WIP 1.0.1`
-
-
-
 ### DW 3BA Futanari Schlong
 URL: https://www.loverslab.com/files/file/30414-dw-3ba-futanari-schlong/?do=download&r=2007556&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
 File: `DW 3BA Futanari Schlong.7z`
 
-
-
-### TRX - Futanari Canine Addon Lite
-URL: https://www.loverslab.com/files/file/22787-trx-futanari-canine-addon-lite/?do=download
-
-File: `1543272595_TRXFutaaddonCanine1.7z`
 
 
 
