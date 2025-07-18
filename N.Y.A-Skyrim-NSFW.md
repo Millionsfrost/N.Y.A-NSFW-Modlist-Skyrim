@@ -239,19 +239,25 @@ If you decide to mod the list and need to rerun Pandora, ensure to delete the me
 
 ## Simple (Ultra)wide Guide
 
+For 21:9 Ultrawide, 
+(1) Reinstall Edge UI Reinstall Edge UI selecting 21:9, on the patches select all Non-Automated Patches, leave rest unchanged.
+(2) Reinstall BodySlots - Edge UI selecting 21:9 and COCKs fix.
+(3) Grab EdgeUI C.O.C.K.S 21-9 fix https://www.nexusmods.com/skyrimspecialedition/mods/136604
+(4)  Grab MessageBox Control Widescreen Fix  https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=11607Nexus%20Mods%20::%20Skyrim%20Special%20Edition
+(5) Grab Untarnished DBVO Patch https://www.nexusmods.com/skyrimspecialedition/mods/121096?tab=files (note there is not a comprable EdgeUI Patch yet so it looks slightly different than the rest of the UI)
+(6) Load Order in the screenshots
 
-Basic ultrawide setup
-1) Reinstall Edge UI selecting 21:9, on the patches select all Non-Automated Patches, leave rest unchanged. 
-2) Grab EdgeUI C.O.C.K.S 21-9 fix https://www.nexusmods.com/skyrimspecialedition/mods/136604
-3) Install it and put at the end of load order
-4) Optional Grab and install Widescreen Scale Removed put at the end of load order too, should fix some minor issues with scaling. https://www.nexusmods.com/skyrimspecialedition/mods/136793
-5) Grab Configurable Notification Messages https://www.nexusmods.com/skyrimspecialedition/mods/65573
-6) In game use MCM menu to align notifications position
-7) ?????
-8) PROFIT
+<img width="537" height="218" alt="image" src="https://github.com/user-attachments/assets/14db0b6c-936c-47f2-b213-51b2796df5d5" />
+
+<img width="700" height="923" alt="image" src="https://github.com/user-attachments/assets/fbb60a7b-cc11-4953-828b-d32eb7fe0acc" />
+
+
+
+
 
 
 ## - Optional Mods - (included in N.Y.A)
 If you want to activate the Halgari RPG Loot mod *(adds custom enchantments to gear distributed throughtout the world, but also increases initial load time)* ensure to place the ESP in the plugins list under the NYA Backgrounds plugin.
+Dont use it in Combo with OWL Loot Patcher.
 
 
