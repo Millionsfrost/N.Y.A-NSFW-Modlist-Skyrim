@@ -240,11 +240,17 @@ If you decide to mod the list and need to rerun Pandora, ensure to delete the me
 ## Simple (Ultra)wide Guide
 
 For 21:9 Ultrawide, 
+
 (1) Reinstall Edge UI Reinstall Edge UI selecting 21:9, on the patches select all Non-Automated Patches, leave rest unchanged.
+
 (2) Reinstall BodySlots - Edge UI selecting 21:9 and COCKs fix.
+
 (3) Grab EdgeUI C.O.C.K.S 21-9 fix https://www.nexusmods.com/skyrimspecialedition/mods/136604
+
 (4)  Grab MessageBox Control Widescreen Fix  https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=11607Nexus%20Mods%20::%20Skyrim%20Special%20Edition
+
 (5) Grab Untarnished DBVO Patch https://www.nexusmods.com/skyrimspecialedition/mods/121096?tab=files (note there is not a comprable EdgeUI Patch yet so it looks slightly different than the rest of the UI)
+
 (6) Load Order in the screenshots
 
 <img width="537" height="218" alt="image" src="https://github.com/user-attachments/assets/14db0b6c-936c-47f2-b213-51b2796df5d5" />
