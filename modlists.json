@@ -27,23 +27,23 @@
     "links": {
       "image": "https://i.imgur.com/nx724h0.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
-      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_bd0f50e2-de12-4193-b880-b3a482916d5a",
+      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_8a83f8bc-8861-4ceb-a07e-382818dd0fa3",
       "machineURL": "nyaskyrim",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "MidM4ifKVqA=",
-      "Size": 2669432176,
-      "NumberOfArchives": 3855,
-      "SizeOfArchives": 329497460775,
-      "NumberOfInstalledFiles": 469606,
-      "SizeOfInstalledFiles": 570377295679,
-      "TotalSize": 899874756454
+      "Hash": "txcI/2QnCz4=",
+      "Size": 3391282276,
+      "NumberOfArchives": 3812,
+      "SizeOfArchives": 335467961466,
+      "NumberOfInstalledFiles": 486354,
+      "SizeOfInstalledFiles": 569091868799,
+      "TotalSize": 904559830265
     },
-    "version": "6.4",
+    "version": "6.9.420",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-31T15:17:48.9583086Z",
+    "dateUpdated": "2025-07-18T14:40:28.5308562Z",
     "repositoryName": ""
   },
   {
