@@ -1,7 +1,7 @@
 [
   {
     "title": "N.Y.A-NSFW-Modlist-Skyrim",
-    "description": "Experience N.Y.A. on version 1170 for the Anniversary Edition. Powered by Sexlab\u002B and the Pandora Engine, this release includes over 3400 mods and optimized performance LODs. Enjoy an immersive and refined Skyrim experience, with non-intrusive NSFW elements seamlessly integrated.",
+    "description": "Experience N.Y.A. on version 1170 for the Anniversary Edition. Powered by Sexlab\u002B and the Pandora Engine, this release includes over 3444 mods and optimized performance LODs. Enjoy an immersive and refined Skyrim experience, with non-intrusive NSFW elements seamlessly integrated.",
     "author": "Vermillion",
     "maintainers": [
       "github/Millionsfrost"
@@ -23,7 +23,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://i.imgur.com/nx724h0.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
