@@ -419,14 +419,14 @@ File: `SLLMU Patch April 2023.7z`
 
 ### Diary Of Mine for Paradise Halls
 
-URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2093121&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
+URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2103555&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
 
-File: `Diary Of Mine 5.5.0_SE_fomod.7z`
+File: `Diary Of Mine 7.9.1_SE_fomod.7z`
 
 
 
 ### Acheron - Diary of Mine Addon
 
-URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download&r=1713863&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
+URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download&r=2103712&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
 
-File: `Acheron - Diary of Mine Addon - 1.1.0.zip`
+File: `Acheron - Diary of Mine Addon - 1.2.0.7z`
