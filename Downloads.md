@@ -12,6 +12,9 @@
 ## MEGA DOWNLOADS
 #### When downloading from MEGA, click the drop-down arrow immediately to the right of the download button and select standard download.
 <a href="https://imgur.com/gx4cODz"><img src="https://i.imgur.com/gx4cODz.png" title="source: imgur.com" /></a>
+#### When multiple options are available for a MEGA download, select the 3 verticle dots on the right of the mod, then select Download >, and finally select Standard Download.
+<a href="https://i.imgur.com/nHvJK4q"><img src="https://i.imgur.com/nHvJK4q.png" title="source: imgur.com" /></a>
+#### If you hit MEGA's daily download cap, you do NOT need to create an account, you do NOT need to upgrade your account, you do NOT need to wait out the time limit. You can use a VPN service to continue accessing the site. We cannot and will not recommend or support a specific VPN service.
 ### Sexy Bono Eyes
 URL: https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY
 
@@ -39,6 +42,12 @@ URL: https://mega.nz/file/A1k2nD4D#L0wIZJ8h_yNDCJVN3XYTRoZZdD-9IURkMixEP0pwmCE
 File: `Only 1 File`
 
 
+
+### HG Hairdos 2
+URL: https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ
+
+File: `HG Hairdos 2 SE`
+
 ## Warning Warning READ THIS Warning Warning
 
 Regarding Demonic Creatures v2.0 Special Edition. Download the File "V2.0 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
@@ -55,12 +64,6 @@ URL: https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.
 
 File: `Only 1 File`
 
-
-
-### HG Hairdos 2
-URL: https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ
-
-File: `HG Hairdos 2 SE`
 
 
 
