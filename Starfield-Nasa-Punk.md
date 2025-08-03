@@ -9,7 +9,7 @@ Please be aware that it is your responsibility to comply with local laws and reg
 
 Before posting a new support request in #starfield-support, please check our FAQ.
 
-[Community Discord](https://discord.gg/V38xZ6CtzQ)
+[Community Discord](https://discord.gg/vermishub)
 
 # Pre-installation Steps
 
