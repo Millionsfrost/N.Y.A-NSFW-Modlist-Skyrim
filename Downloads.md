@@ -432,4 +432,4 @@ File: `Diary Of Mine 7.9.2_SE_fomod.7z`
 
 URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download
 
-File: `Acheron - Diary of Mine AddOn - 2.1.0.zip`
+File: `Acheron - Diary of Mine AddOn - 2.1.1.zip`
