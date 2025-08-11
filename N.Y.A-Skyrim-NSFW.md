@@ -166,7 +166,7 @@ Note: Be careful with your choice! After selecting a background, the spell "Jour
 
 ### Character Creation and High Holy Head
 
-We done use the Synthesis HPH patch anymore for a specific Reason. So now on Char Creation you have to manually select High Holy Head under Head and then Face Part. Move the Slider until you see HPH in the Bottom right.
+We dont use the Synthesis HPH patch anymore for a specific Reason. So now on Char Creation you have to manually select High Holy Head under Head and then Face Part. Move the Slider until you see HPH in the Bottom right.
 
 ### ENB Information
 
