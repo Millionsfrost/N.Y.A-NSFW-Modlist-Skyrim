@@ -164,7 +164,7 @@ Scroll through the message box until you find the background you want. Once you'
 
 Note: Be careful with your choice! After selecting a background, the spell "Journey's Genesis" will be removed from your inventory, and you won’t be able to change your background later.
 
-### Character Creation and High Holy Head
+### Character Creation and High Poly Head
 
 We dont use the Synthesis HPH patch anymore for a specific Reason. So now on Char Creation you have to manually select High Holy Head under Head and then Face Part. Move the Slider until you see HPH in the Bottom right.
 
