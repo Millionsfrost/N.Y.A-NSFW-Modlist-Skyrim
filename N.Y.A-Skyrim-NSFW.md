@@ -188,7 +188,7 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 Please open as Fullscreen in your Brower or download the Picture.
 *Note* that Vermillion is left-handed so you may need to change your mouse buttons back to right-handed if they are not changed before an update.
 
-![alt text](https://imgur.com/a/LgIoe1P)
+![alt text](https://i.imgur.com/wm4PPwJ.png)
 
 
 ### New Combat Animations
