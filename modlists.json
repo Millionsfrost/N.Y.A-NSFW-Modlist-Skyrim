@@ -135,51 +135,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-05-17T21:36:15.9035374Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Starfield-NASAPUNK",
-    "description": "Starfield NASAPUNK is a TOTAL Overhaul of Starfield utilizing the NASAPUNK 2330 Mod. On Top of that, everything your Heart desires. New Weapons, Armors, Ships, Base Building, Textures and Lighting aswell as Gameplay and QOL Mods.",
-    "author": "Vermillion",
-    "maintainers": [
-      "github/Millionsfrost"
-    ],
-    "game": "starfield",
-    "official": false,
-    "tags": [
-      "Total Overhaul",
-      "New Lighting",
-      "Base Building Addons",
-      "New Outfits ",
-      "New Armors",
-      "New Weapons",
-      "New Locations",
-      "New Encounters"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://i.imgur.com/lNrlCmv.png",
-      "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Starfield-Nasa-Punk.md",
-      "download": "https://authored-files.wabbajack.org/Starfield NASAPUNK \u002B Extreme Addon.wabbajack_7d7bf375-d27d-49fb-8310-5d419a0d7905",
-      "machineURL": "Millionsfrost_Starfield_NASAPUNK",
-      "discordURL": "https://discord.gg/XTUGYySnkU",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "v2qLZGewSOI=",
-      "Size": 121289513,
-      "NumberOfArchives": 635,
-      "SizeOfArchives": 233714887837,
-      "NumberOfInstalledFiles": 11105,
-      "SizeOfInstalledFiles": 241050242346,
-      "TotalSize": 474765130183
-    },
-    "version": "2.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-29T17:20:11.0577837Z",
-    "repositoryName": ""
   }
 ]
