@@ -48,7 +48,7 @@
   },
   {
     "title": "Sandland",
-    "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul.",
+    "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul. Now with NSFW Addon.",
     "author": "Vermillion",
     "maintainers": [
       "github/Millionsfrost"
@@ -64,7 +64,7 @@
       "Gore",
       "New Animation System"
     ],
-    "nsfw": false,
+    "nsfw": true,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
@@ -137,4 +137,5 @@
     "repositoryName": ""
   }
 ]
+
 
