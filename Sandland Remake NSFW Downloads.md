@@ -249,3 +249,13 @@ URL: https://www.loverslab.com/files/file/19169-commonwealth-captives-more-femal
 
 ## Rogg No-Strip Items Manager v1.0.1.zip
 URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?do=download&r=713414&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+
+
+
+# Buttons for NSFW Addon Mods
+
+Shift+Z = Shower in Rain
+Z = Approach / Flirt for Sex with Npc
+U = Surrender
++ = Show Sex Attributes
+Shift+U= Open NAF Main Menu
