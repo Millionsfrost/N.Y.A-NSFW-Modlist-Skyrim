@@ -6,10 +6,6 @@
 
 ## Click on each link using the middle mouse button so it opens in a new tab.
 
-
-
-
-
 ## 1387286231_UAPv2.6.64-1.7z
 URL: https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download
 
@@ -250,9 +246,39 @@ URL: https://www.loverslab.com/files/file/19169-commonwealth-captives-more-femal
 ## Rogg No-Strip Items Manager v1.0.1.zip
 URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?do=download&r=713414&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
+## PiCSeL's Standalone Custom Magazines 2.0
+URL: https://www.loverslab.com/files/file/31724-picsels-standalone-custom-magazines/?do=download&r=2083400&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
+## THIS MOD IS A MEGA DOWNLOAD:  Erotic Art - Expanded v3 3.0 
+URL: https://mega.nz/file/YRwknL6J#eZ7IbTz6QbB-MkA-XwISqLka7AO-flUdRbn6_pJYsqM
 
-# Buttons for NSFW Addon Mods
+## PiCSeL's Retexture of Erotic Art 2.1
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=1829500&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088727&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088728&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088729&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090176&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090177&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+
+## Picsel's Spicy Periodicals 1.20
+URL: https://www.loverslab.com/files/file/32660-picsels-spicy-periodicals/?do=download&r=2081289&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+
+## PiCSeL's vanilla magazines hentai retexture 2K 2.2
+URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai-retexture-2k/?do=download&r=2088712&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai-retexture-2k/?do=download&r=2054155&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+
+## PiCSeL's Backpacks of the Commonwealth magazines retexture 1.0.0
+URL: https://www.loverslab.com/files/file/31323-picsels-backpacks-of-the-commonwealth-magazines-retexture/?do=download
+
+## XXX of the Commonwealth (Fixed Edition, No Perks) 2.1
+URL: https://www.loverslab.com/files/file/25482-xxx-of-the-commonwealth-fixed-edition-no-perks/
+
+## Retexture of Fahrenheit1984's XXX magazines 1.0.0
+URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx-magazines/?do=download
+
+## On New Game If The Screen is white Press E or Enter the reason is a Mod Message Pop Up is stopping the scene from continuing
+
+## Buttons for NSFW Addon Mods
 
 - Shift+Z = Shower in Rain
 - Z = Approach / Flirt for Sex with Npc
@@ -260,7 +286,7 @@ URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?
 - ( Plus Key next to Enter Key ) = Show Sex Attributes
 - Shift+U= Open NAF Main Menu
 
-# Manual Settings after Character Creation
+## Manual Settings after Character Creation
 
 ## 1 Run MCM Settings Recorder = Sandland Remake NSFW
 
