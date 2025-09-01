@@ -278,7 +278,7 @@ URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai
 URL: https://www.loverslab.com/files/file/31323-picsels-backpacks-of-the-commonwealth-magazines-retexture/?do=download
 
 ## XXX of the Commonwealth (Fixed Edition, No Perks) 2.1
-URL: https://www.loverslab.com/files/file/25482-xxx-of-the-commonwealth-fixed-edition-no-perks/
+URL: https://www.loverslab.com/files/file/25482-xxx-of-the-commonwealth-fixed-edition-no-perks/?do=download
 
 ## Retexture of Fahrenheit1984's XXX magazines 1.0.0
 URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx-magazines/?do=download
