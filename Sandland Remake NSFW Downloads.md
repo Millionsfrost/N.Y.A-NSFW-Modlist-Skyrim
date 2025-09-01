@@ -253,18 +253,25 @@ URL: https://www.loverslab.com/files/file/31724-picsels-standalone-custom-magazi
 URL: https://mega.nz/file/YRwknL6J#eZ7IbTz6QbB-MkA-XwISqLka7AO-flUdRbn6_pJYsqM
 
 ## PiCSeL's Retexture of Erotic Art 2.1
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=1829500&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088727&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088728&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088729&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090176&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
-URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090177&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=1829500&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088727&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088728&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2088729&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090176&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
+URL: https://www.loverslab.com/files/file/31342-picsels-retexture-of-erotic-art/?do=download&r=2090177&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
 
 ## Picsel's Spicy Periodicals 1.20
 URL: https://www.loverslab.com/files/file/32660-picsels-spicy-periodicals/?do=download&r=2081289&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
 ## PiCSeL's vanilla magazines hentai retexture 2K 2.2
-URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai-retexture-2k/?do=download&r=2088712&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai-retexture-2k/?do=download&r=2088712&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471<br>
+<br>
 URL: https://www.loverslab.com/files/file/31195-picsels-vanilla-magazines-hentai-retexture-2k/?do=download&r=2054155&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
 ## PiCSeL's Backpacks of the Commonwealth magazines retexture 1.0.0
