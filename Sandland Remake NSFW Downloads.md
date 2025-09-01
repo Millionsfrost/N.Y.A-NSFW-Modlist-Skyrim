@@ -254,8 +254,8 @@ URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?
 
 # Buttons for NSFW Addon Mods
 
-Shift+Z = Shower in Rain
-Z = Approach / Flirt for Sex with Npc
-U = Surrender
-+ = Show Sex Attributes
-Shift+U= Open NAF Main Menu
+- Shift+Z = Shower in Rain
+- Z = Approach / Flirt for Sex with Npc
+- U = Surrender
+- + = Show Sex Attributes
+- Shift+U= Open NAF Main Menu
