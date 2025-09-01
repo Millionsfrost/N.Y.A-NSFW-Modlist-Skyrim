@@ -259,3 +259,13 @@ URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?
 - U = Surrender
 - ( Plus Key next to Enter Key ) = Show Sex Attributes
 - Shift+U= Open NAF Main Menu
+
+# Manual Settings after Character Creation
+
+## Run MCM Settings Recorder = Sandland Remake NSFW
+
+## Scroll down to find Commonwealth Captives Outfit Injector, head to Global Settings, click Inject All Clothing and wait for a message box to pop-up telling you that the outfit injection is done.
+
+## Go to Liga and turn of the Scriped Hotkey, but keep the bottom one on H. The one on G must be turned off so the Item Wheel works on G instead.
+
+## Go to Baka Wait Anywhere MCM and set the Hotkey to T.
