@@ -298,6 +298,6 @@ URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx
 
 ## 2 Scroll down to find Commonwealth Captives Outfit Injector, head to Global Settings, click Inject All Clothing and wait for a message box to pop-up telling you that the outfit injection is done.
 
-## 3 Go to Liga and turn of the Scriped Hotkey, but keep the bottom one on H. The one on G must be turned off so the Item Wheel works on G instead.
+## 3 Go to Liga and turn of the Scriped Hotkey, but keep the bottom one on H. The one on G must be turned off so the Item Wheel works on G instead. And then go to " more way of washing settings " mcm and setup a " Shower in the Rain Hotkey ". Dont use Modifiere Keys.
 
 ## 4 Go to Baka Wait Anywhere MCM and set the Hotkey to T.
