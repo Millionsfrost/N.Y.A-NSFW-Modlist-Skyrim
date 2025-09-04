@@ -7,6 +7,8 @@ Support and general talk about N.Y.A and Sandland you can find on the following 
 
 Release Beta Test Version of Sandland, you need the latest Next gen Update from Fallout 4.
 
+NSFW Profile: Read through this Readme first. At the End you have a Link to the NSFW LL Download Document and ruther Instructions.
+
 Size: Downloads - 158 GB | Installation - 262 GB
 
 ## Features
