@@ -293,6 +293,11 @@ URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx
 - Shift+U= Open NAF Main Menu
 
 
+## Sandland NSFW Settings Video (CLICK ON THE PICTURE TO GO TO THE VIDEO)
+[![Sandland NSFW Settings Video](https://i.imgur.com/e4H8Qry.jpeg)](https://www.youtube.com/watch?v=8iM5AnDmRxY)
+
+
+
 # Manual Settings after Character Creation
 
 ## 1. Run MCM Settings Recorder = Sandland Remake NSFW (The Green One Is For The SFW List)
