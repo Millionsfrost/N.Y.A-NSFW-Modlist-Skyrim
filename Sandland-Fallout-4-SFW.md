@@ -257,5 +257,5 @@ The Outfit System is basicly Transmog, and Quickchange Menu is really nice if yo
 Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. Its Under Looks BodyMorphs and then Press E and apply some and play around.
 Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
 
-People who use the NSFW Addon aka Profile please use this Document for ruther Guidedance and Setup: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads.md
+People who use the NSFW Addon aka Profile please use this Document for ruther Guidedance and Setup: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
 
