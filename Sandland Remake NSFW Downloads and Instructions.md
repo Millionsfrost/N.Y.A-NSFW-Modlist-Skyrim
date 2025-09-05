@@ -335,3 +335,7 @@ URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx
 ## 9. In the Better Living Through Cumistry MCM Menu Turn This Setting Off
 
 <a href="https://i.imgur.com/zmroyZW.png"><img src="https://i.imgur.com/zmroyZW.png" title="source: imgur.com" /></a>
+
+## 10. Change these settings in Survival Config Menu to make it so that you dont need to eat and drink 5000 items
+
+<a href="https://i.imgur.com/0V4tkH8.png"><img src="https://i.imgur.com/0V4tkH8.png" title="source: imgur.com" /></a>
