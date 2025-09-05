@@ -331,3 +331,7 @@ URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx
 ## 8. In the Sexual Harrasment mod MCM under the Bodymorphs settings turn the Fusion Girl body off as we don't use it we use CBBE
 
 <a href="https://i.imgur.com/TZ8fvLN.png"><img src="https://i.imgur.com/TZ8fvLN.png" title="source: imgur.com" /></a>
+
+## 9. In the Better Living Through Cumistry MCM Menu Turn This Setting Off
+
+<a href="https://i.imgur.com/zmroyZW.png"><img src="https://i.imgur.com/zmroyZW.png" title="source: imgur.com" /></a>
