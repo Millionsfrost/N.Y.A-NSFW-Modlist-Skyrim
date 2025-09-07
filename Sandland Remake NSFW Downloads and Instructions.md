@@ -4,6 +4,8 @@
 
 ## Set your web browser's default download location to your SANDLAND downloads folder before proceeding! This can prevent Wabbajack from falsely flagging one or more of these files as not downloaded. You can change your web browser's download location back after you're done downloading mods from this page.
 
+## Please read the SFW Readme first: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md
+
 ## Click on each link using the middle mouse button so it opens in a new tab.
 
 ## 1387286231_UAPv2.6.64-1.7z
