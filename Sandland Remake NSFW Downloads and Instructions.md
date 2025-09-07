@@ -284,6 +284,8 @@ URL: https://www.loverslab.com/files/file/25482-xxx-of-the-commonwealth-fixed-ed
 ## Retexture of Fahrenheit1984's XXX magazines 1.0.0
 URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx-magazines/?do=download
 
+
+
 # Starting A New Game
 ### When you start a new game let the game load it may take some time depending on the users PC but you should see a popup for a mod. You will know its okay to press the button when the fire in the background is moving again. Usally its two popups so once you click through both boxes you should start to load again. Now a white screen should appear once this it will seem like the game is frozen but its not, you may even hear a sound saying something like "New Quest" but if not you should only have to press the "E" key once and let it load for a couple seconds you should see the bathroom scene come in. Pressing the "E" key more than once may cause you to miss the Sex Attributes popup which if you miss it its gone and you wont be able to choose the settings for your Player Character you want.
 
@@ -293,6 +295,9 @@ URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx
 - ( Plus Key next to Enter Key ) = Show Sex Attributes
 - For QWERTY USERS its the button next to backspace (+) = Show Sex Attributes
 - Shift+U= Open NAF Main Menu
+
+## For The Uneducated Shooter Mod DO NOT ENABLE THIS ON A NEW SAVE. ONLY ENABLE AFTER LOADING INTO THE COMMONWEALTH
+<a href="https://i.imgur.com/ZKOXlby.png"><img src="https://i.imgur.com/ZKOXlby.png" title="source: imgur.com" /></a>
 
 
 ## Sandland NSFW Settings Video (CLICK ON THE PICTURE TO GO TO THE VIDEO)
