@@ -129,8 +129,8 @@ URL: https://www.loverslab.com/files/file/15000-human-resources/?do=download&r=1
 ## KLPostersAdult_v_4_1.rar
 URL: https://www.loverslab.com/files/file/9458-vault-tec-breeding-posters-adult-version/?do=download
 
-## Provocative Perks v1.11.zip
-URL: https://www.loverslab.com/files/file/24462-provocative-perks/?do=download&r=2107803&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+## Provocative Perks v1.11.1.zip
+URL: https://www.loverslab.com/files/file/24462-provocative-perks/?do=download&r=2112308&confirm=1&t=1&csrfKey=d68d4d1c6346abc9b78d03e1bfa11e1d
 
 ## RSE_II_Resources_ESM (v1.0).zip
 URL: https://www.loverslab.com/files/file/9023-aaf-rse-ii-framework-resources-esm-011020/?do=download
