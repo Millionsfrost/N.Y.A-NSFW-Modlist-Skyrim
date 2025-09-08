@@ -229,7 +229,7 @@ Please Test/Cheat all the Weapons. We need reports in the Discord of Weapons tha
 
 #### If you play the List and press New Game, Wait 20-30 Seconds and hit Enter a couple Times. Then you get to the Char Screen. I know its odd but its the Way it works. The Screen might freeze once, u need to wait until the Wheel in the Bottom right moves again, and then hit E or Enter.
 
-After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings, after you leave Vault 111 thank you very much. Dont forget to put Vats Key in Controls ingame on a Key you dont use, so VATS can be used with Q instead.
+After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings, after you leave Vault 111 thank you very much. 
 
 
 
