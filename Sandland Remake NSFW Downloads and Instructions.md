@@ -95,8 +95,8 @@ URL: https://www.loverslab.com/files/file/18902-rain-maker-animations/?do=downlo
 ## Release_CreaturePack_v03_01.zip
 URL: https://www.loverslab.com/files/file/7632-aaf-creature-pack-release/?do=download&r=830011&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
-## RZF4S_2_92(Fix).zip
-URL: https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/?do=download&r=2094536&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+## RZF4S_3_20.zip
+URL: https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/?do=download&r=2112846&confirm=1&t=1&csrfKey=f3d9cb6b3e98e4b18e22745f71cc6a9c
 
 ## SAM Enhanced Animations 1.4.6.zip
 URL: https://www.loverslab.com/files/file/24760-sam-enhanced-animations/?do=download&r=2106216&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
@@ -284,7 +284,8 @@ URL: https://www.loverslab.com/files/file/25482-xxx-of-the-commonwealth-fixed-ed
 ## Retexture of Fahrenheit1984's XXX magazines 1.0.0
 URL: https://www.loverslab.com/files/file/31337-retexture-of-fahrenheit1984s-xxx-magazines/?do=download
 
-
+## AAF Turn The Light ON
+URL: https://www.loverslab.com/files/file/10691-aaf-turn-the-light-on/?do=download&r=727360&confirm=1&t=1&csrfKey=f3d9cb6b3e98e4b18e22745f71cc6a9c
 
 # Starting A New Game
 ### When you start a new game let the game load it may take some time depending on the users PC but you should see a popup for a mod. You will know its okay to press the button when the fire in the background is moving again. Usally its two popups so once you click through both boxes you should start to load again. Now a white screen should appear once this it will seem like the game is frozen but its not, you may even hear a sound saying something like "New Quest" but if not you should only have to press the "E" key once and let it load for a couple seconds you should see the bathroom scene come in. Pressing the "E" key more than once may cause you to miss the Sex Attributes popup which if you miss it its gone and you wont be able to choose the settings for your Player Character you want.
