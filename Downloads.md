@@ -50,10 +50,9 @@ File: `HG Hairdos 2 SE`
 
 ## Warning Warning READ THIS Warning Warning
 
-Regarding Demonic Creatures v2.0 Special Edition. Download the File "V2.0 SPECIAL EDITION MEDIAFIRE Demonic Creatures Download Link.txt "
-When you downloaded it, open the Document that it comes with and please download the File in there from Mediafire.
- 
-URL: https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/
+Regarding Demonic Creatures v2.0 Special Edition. The Mod is now hosted on the Discord and you can get it here: https://discord.com/channels/1201567388248834108/1420133956505833502
+
+Its in the DC Mods Channel.
 
 
 
