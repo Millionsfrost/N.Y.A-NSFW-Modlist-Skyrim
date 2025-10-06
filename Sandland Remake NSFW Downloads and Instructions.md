@@ -114,7 +114,7 @@ URL: https://www.loverslab.com/files/file/20173-better-living-through-cumistry/?
 URL: https://www.loverslab.com/files/file/14493-commonwealth-captives/?do=download
 
 ## CRX-2.2stable.rar
-URL: https://www.loverslab.com/files/file/3432-crx-workshop-crosses/?do=download&r=1994492&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/3432-crx-workshop-crosses/?do=download&r=2117061&confirm=1&t=1&csrfKey=ec7978ae941319a75f5954d6ff670b98
 
 ## DangerousNights_V_0_38.7z
 URL: https://www.loverslab.com/files/file/12719-aaf-dangerous-nights/?do=download&r=964015&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
