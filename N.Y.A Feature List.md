@@ -29,9 +29,6 @@ The UI is overhauled via Edge UI and several other UI Mods accompany it.
 ### QuickLoot
 You can now use Fallout 4`s Quickloot System, its turned off tho in Combat to avoid Mistakes, you can still manually loot like in Vanilla tho, if you are in Combat.
 
-### Stances Framework
-F1 F2 F3 F4, these buttons lets you swap between 4 Animation Sets for nearly every Weapon Type, even modded ones. May you find the Style that suits you.
-
 ### Additional Attack
 Via this System you can press by default the < Button, on my Keyboard its left of Y ( For some Keyboards Z ) Its a special Attack unique to a Weapon type, and can be changed via Skills you can buy in the Game. There are over 100, crafted and bought via Vendor. Look like Red Ballz.
 
