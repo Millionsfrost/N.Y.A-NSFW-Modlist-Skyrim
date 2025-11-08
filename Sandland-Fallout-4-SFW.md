@@ -1,54 +1,57 @@
-![Sandland Banner](https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/refs/heads/main/Sandland-Fallout-4-banner.webp)  
+<!--![Sandland Banner](https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/refs/heads/main/Sandland-Fallout-4-banner.webp) -->
 
-Support and general talk about Sandland you can find on the following Discord: https://discord.gg/vermishub
+<a href="https://i.imgur.com/AYwfvGm.png"><img src="https://i.imgur.com/AYwfvGm.png" title="source: imgur.com" /></a>
+
+Support and general talk about Sandland, you can find on the following Discord: https://discord.gg/vermishub
 
 
-#### Sandland-SFW/NSFW-Modlist-Fallout 4
+## Sandland-SFW/NSFW-Modlist-Fallout 4
 
 Release V1.9 of Sandland, you need the latest Next gen Update from Fallout 4.
 
 Size: Downloads - 271 GB | Installation - 393 GB
 
-## Features
+<a href="https://i.imgur.com/cZP7o2f.png"><img src="https://i.imgur.com/cZP7o2f.png" title="source: imgur.com" /></a>
 
 - The Midnight Ride Baseline
 - Desert Theme
 - Reactor ENB
-- 150+ New Monsters, Creatures and Animals.
+- 150+ New Monsters, Creatures, and Animals.
 - Every Vanilla Unique Weapon has been replaced!
 - Every Vanilla Vendor Unique Weapon and Armor has been replaced!
 - Over 150 Weapon Mods resulting in way over 200 new Weapon across all Types!
 - New Armors and Clothing
-- Full Eco Redux and Leo Integreation.
+- Full E.C.O. Redux and L.E.O. Integreation.
 - Alias System
-- Extendet Character Creation with lots of Hairs, Tatoos, Colors, Overlays and Eyes. 4K Body and 2K Face!
-- Quest Mods Expansions such as South of the Sea Atom Storm and CSEP DLC Size Quest Mods and many more.
+- Extended Character Creation with lots of Hairs, Tattoos, Colors, Overlays, and Eyes. 4K Body and 2K Face!
+- Quest Mods, Expansions such as South of the Sea, Atom Storm, and CSEP DLC Size Quest Mods, and many more.
 - Many new and great new Settlement Mods
 - Modern UI
-- Highly cusomizable MCM Menus
+- Highly customizable MCM Menus
 - Complete Perk Overhaul via LevelUpMenuEx and You Are Exceptional
 - Complete Gameplay Overhaul via Better Locational Damage and other Overhaul Mods from the same Author!
-- Modern Theme in Terms of Items and Weapons. Many Vanilla Friendly Weapon aswell tho.
+- Modern Theme in Terms of Items and Weapons. Many Vanilla Friendly Weapon aswell.
 - Several new Companions like Heather etc.
 - Alternate Start Mod!
-- Complete Audio Overaul for Weapons and Surroundings!
+- Complete Audio Overhaul for Weapons and Surroundings!
 - Complete Overhaul of GUN VFX
 - FIS + Complex Sorter
 - Water Overhauled
 - High Poly Faces and all the good Stuff!
-- X-Cell! Facegen is generated, more Performance friendly!
+- X-Cell! Facegen is generated, more performance-friendly!
 
 
 ## Accounts
 
-In terms of accounts you will need: Nexus Account, Premium would be best as it speeds up the download process but not needed.
+In terms of accounts, you will need a Nexus Account; Premium would be best, as it speeds up the download process, but it is not required.
+
 
 Loveslab Account for manual downloads.
 
 <a href="https://i.imgur.com/po13SD9.png"><img src="https://i.imgur.com/po13SD9.png" title="source: imgur.com" /></a>
 
 Install Microsoft Visual C++ Redistributable Packages
-This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
+This package is a must as MO2 needs it - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017, and 2019".
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 Install .NET 7.0 Desktop Runtime (v7.0.15) - Windows x64
@@ -58,7 +61,8 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 ## Setting Up Your Page File and Shadercache
 
-You will need to manually increase your page file as well as increase the size of your shader cache in order to avoid performance issues, even if you have a monster PC.
+
+You will need to manually increase your page file as well as increase the size of your shader cache to avoid performance issues, even if you have a monster PC.
 
 To increase your page file, press Windows+R and enter systempropertiesadvanced into it. Under "Performance", click "Settings..." and swap to the Advanced tab. Here you want to click "Change" under virtual memory.
 
@@ -68,7 +72,7 @@ Increase the shader cache size via Nvidia Control Panel to at least 10GB. You ca
 
 ## Setting Up Your Folders
 
-Press Windows+E and locate the Driver you would like to play Skyrim from, for example "C:" or "D:". Ensure that you have enough space for the list (750+ GB). You want to create 4 folders on the root of the drive (Here C:).
+Press Windows+E and locate the Driver you would like to play Skyrim from, for example, "C:" or "D:". Ensure that you have enough space for the list (750+ GB). You want to create four folders on the root of the drive (I.E., C:,D:,E:, ETC).
 
 YOUR_DRIVE_LETTER_HERE:\SANDLAND
 
@@ -78,28 +82,29 @@ YOUR_DRIVE_LETTER_HERE:\ModDownloads
 
 YOUR_DRIVE_LETTER_HERE:\Fallout4GAME
 
-If you already have a folder on your PC which has mods from another modlist such as W.O.D or your own collection, you can use this one instead of "YOUR_DRIVE_LETTER_HERE:\ModDownloads". However, make sure it is easily accessable via Wabbajack by having it placed on the root of the drive.
+If you already have a folder on your PC containing mods from another mod list, such as W.O.D or your own collection, you can use this one instead of "YOUR_DRIVE_LETTER_HERE:\ModDownloads". However, make sure it is easily accessable via Wabbajack by having it placed on the root of the drive.
 
 
 
 
 ## Setup your Antivirus
-Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your Sandland installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
+Before you go down the route of "I don't have an antivirus," you do, it's built into Windows. You need to exclude your Wabbajack folder and your Sandland installation folder from your antivirus's real-time protection stuff, as it will likely interfere with your install, and worst case, it can remove files, ruining your install. It can and will interfere while you are playing, causing poor performance and obvious stuttering.
 
 How do I do this, you ask? Read here on how to do it for windows defender: https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e
 
-For other AV's you will need to research yourself.
+For other AVs you will need to research yourself.
 
 
 
 
 ## Disable Overlays
 
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
-This includes things like Overwolf too as it may cause issues.
+The Steam overlay is known to cause issues when using ENBs. I recommend turning it off to ensure it doesn't interfere in any way. You can do so by heading into Steam, right-clicking on Fallout 4 in your game library, and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
-Nvidia's overlay should be fine but if you want to be safe you can disable it too.
+This includes things like Overwolf, too, as it may cause issues.
+
+Nvidia's overlay should be fine, but if you want to be safe you can also disable it.
 
 
 ## Set game language to English
@@ -111,21 +116,21 @@ Wabbajack and the modding tools out there only support English language versions
 
 ## Change Steam's Updating Behavior
 
-If for some reason Bethesda decide to release an update for Fallout, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
+If, for some reason, Bethesda decides to release an update for Fallout, everything will probably break. Well, not everything, but something will definitely break until the mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right-clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". While you're in here, it's also recommended to disable Steam Cloud as well.
 
 
 
 
 ## Start Vanilla Fallout 4
 
-That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
+That's right - start the game. You need to let the game do its initial start-up, such as creating registry entries and generating default config files. Once you've gotten to the main menu, you can close the game again.
 
 
 
 
 <a href="https://i.imgur.com/aiuQMwD.png"><img src="https://i.imgur.com/aiuQMwD.png" title="source: imgur.com" /></a>
 
-# Please download the Mods Manually before Downloading the List with Wabbajack it will speed up the install process.<br><br>YOU NEED THE NSFW MODS even if you don't play the NSFW list as they are in the same MO2 instance they are just on seprate profiles.
+# Please download the Mods manually before downloading the List with Wabbajack. It will speed up the install process.<br><br>YOU NEED THE NSFW MODS even if you don't play the NSFW list, as they are in the same MO2 instance; they are just on separate profiles.
 
 **All the manual mods for download can be found here:** https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
 
@@ -135,14 +140,14 @@ You need to put the manual mods you downloaded into the Sandland Remake Download
 
 <a href="https://i.imgur.com/4dF37WT.png"><img src="https://i.imgur.com/4dF37WT.png" title="source: imgur.com" /></a>
 
-If you havent already download and install Wabbajack here: https://www.wabbajack.org/
+If you haven't already, download and install Wabbajack here: https://www.wabbajack.org/
 
-Load up Wabbajack once it checks for updates search for sandland land here: 
+Load up Wabbajack once it checks for updates, search for sandland land here: 
 <a href="https://i.imgur.com/MeD0Hz3.png"><img src="https://i.imgur.com/MeD0Hz3.png" title="source: imgur.com" /></a>
 
-Click On Sandland then click install.<br>
+Click on Sandland, then click install.<br>
 
-Next tell Wabbajack where you want to install here's an example:<br>
+Next, tell Wabbajack where you want to install. Here's an example:<br>
 <a href="https://i.imgur.com/TusiHVB.png"><img src="https://i.imgur.com/TusiHVB.png" title="source: imgur.com" /></a>
 
 Then hit install then Wabbajack will do its thing.
@@ -153,48 +158,46 @@ Then hit install then Wabbajack will do its thing.
 ## On New Game
 
 
-- If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
+- When starting a new game, Wait 20-30 seconds (It can take longer, The vault icon in the bottom right corner should be moving) and hit the Enter or the E Key. Then you get to the Char Screen. There is a pop up info box blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
 
-- After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings, after you leave Vault 111 thank you very much. If you optinally start in the Open World, you can run it at once.
+- After you start the game and make your character, it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings after you leave Vault 111. If you opt to start in the Open World, You cam apply the Sandland Remake Preset in the MCM Settings immediately.
 
-- There will be alot of Pop Ups about Leveld Lists, choose the most Upper Option always, on Gun for Hire you can decide for yourself if you want Easy Mode or not.
+- There will be a lot of pop-ups about level lists. Choose the most Upper Option always. On Gun for Hire, you can decide for yourself if you want Easy Mode or not.
 
-- After you ran MCM Settings Preset for the List, pls go into the LIGA mcm and set the drop down menu for hotkeys to NONE. The Default interferes with Wheeler since thats on G.
+- After you ran MCM Settings Preset for the List, please go into the LIGA mcm and set the drop-down menu for hotkeys to NONE. The Default interferes with Wheeler since that's on G.
 
 
 ## Other Information
 
-- If you enable any of the Options underneath this Post, make sure to ENABLE the Optional MOD first, then DISABLE the Original. This needs to be done so the ESP Plugin stays in the same Slot. Doesnt matter for Nameplaytes, it doesne use a Slot.
+- If you enable any of the Options underneath this Post, make sure to ENABLE the Optional MOD first, then DISABLE the Original. This needs to be done so the ESP Plugin stays in the same Slot. Doesn't matter for Nameplates; it doesn't use a Slot.
 
-- ( Normal Option ) We use the CBBE (Nevernude) and CBBE ( Nude ) In the Mod Organizer 2. The List come with Caliente's Beautiful Bodies Enhancer -CBBE- ( Nevernude Standart Option ) from the Start, so its Safe for people who play in there Living Room, or Youtuber and Streamers.
+- **(Normal Option )** We use the CBBE (Nevernude) and CBBE ( Nude ) In the Mod Organizer 2. The List comes with Caliente's Beautiful Bodies Enhancer -CBBE- ( Nevernude Standard Option ) from the Start, so it's Safe for people who play in their Living Room, or YouTubers and Streamers.
 
-- ( Optional Option ) You can also choose Caliente's Beautiful Bodies Enhancer -CBBE- ( Nude Optional ) if you dont mind Nudity on " Female " Bodies only. You can also have Nudity on Nevernude, but only if you craft and equip SHOES specificly. You cannot find Shoes in the Basegame, so you are safe unless you purposely craft shoes and equip them. If you do that, upper Body gets nude, so you can mix and match Outifts better if you are into Screenachery and Stuff.
+- **( Optional Option )** You can also choose Caliente's Beautiful Bodies Enhancer -CBBE- ( Nude Optional ) if you don't mind Nudity on " Female " Bodies only. You can also have Nudity on Nevernude, but only if you craft and equip SHOES specifically. You cannot find Shoes in the base game, so you are safe unless you purposely craft shoes and equip them. If you do that, the upper Body gets nude, so you can mix and match outfits better if you are into Screenachery and Similar Styles.
 
-- Persistent Volume Sliders MCM, in this MCM you should probably adjust the Volume to your liking. Please do so accordingly.
+- Persistent Volume Sliders MCM, in this MCM, you should probably adjust the Volume to your liking. Please do so accordingly.
 
-- ( Optional ) Floathing Healthbars aka Nameplates, is Optional since its extremely Immersion Breaking. You can see Enemies already from far away, or if a Battle is happening nearby, you wont be suprised anymore. Play without this Mod first to see how more immersive the Game feels.
+- **( Optional )** Floating Healthbars, aka Nameplates, are Optional since they're extremely immersion-breaking. You can see Enemies already from far away, or if a Battle is happening nearby, you won't be surprised anymore. Play the game without this Mod first to see how much more immersive it feels.
 
-- In the last Seperator called Final Outputs, you will find Bodyslide Output ( Naked Bodies ) and Bodyslide Output ( Nevernude ). Please tick ( Naked Bodies ) if you chose the CBBE Nude Optional Version, or tick Bodyslide Output Nevernude if you chose the CBBE Nevernude Version, which is ticked automaticly if you plan to play the List the normal Way.
+- In the last Separator called Final Outputs, you will find Bodyslide Output **( Naked Bodies )** and Bodyslide Output **( Nevernude )**. Please tick **( Naked Bodies )** if you chose the CBBE Nude Optional Version, or tick Bodyslide Output Nevernude if you chose the CBBE Nevernude Version, which is ticked automatically if you plan to play the List the normal Way.
 
-- ( Important Info for Modded Ammo/Weapons ) In the Game, when you find a Weapon that does not use VANILLA Ammo, equip it if you intent to use it, and then press B, then you will choose the Ammo Type that is most similar to the Vanilla Weapon, like if you find .408C, you would choose .308 in the Pop Up Menu. If you are not sure, i would suggest googling that Ammo to find out what exactly it is. Vanilla AMMO: .308, .38, .44, .45, , 45-70, .50, 5mm, 5.56mm, 7.62mm, 10mm, Shell, 2mmEC, Electron Charge (Fusion Cell), Mini Nuke, Missile, PLasma Cartridge, Fustion Core, Gamma Round, Alien Blaster Round, Cryo Cell, Flamer Fuel, Railway Spike and Harpoon.
-The Ammos listed above do not need to be changed with the B Button, they are all good. But if your Gun uses Modded Ammo, you probably wanna adjust it for better Penetration Settings bcs of Better Locational Damage.
+- **( Important Info for Modded Ammo/Weapons )** In the Game, when you find a Weapon that does not use VANILLA Ammo, equip it if you intent to use it, and then press B. You will choose the Ammo Type that is most similar to the Vanilla Weapon, like if you find .408C, you would choose .308 in the pop-up menu. If you are not sure, I would suggest googling that Ammo to find out what exactly it is. Vanilla AMMO: .308, .38, .44, .45, , 45-70, .50, 5mm, 5.56mm, 7.62mm, 10mm, Shell, 2mmEC, Electron Charge (Fusion Cell), Mini Nuke, Missile, Plasma Cartridge, Fusion Core, Gamma Round, Alien Blaster Round, Cryo Cell, Flamer Fuel, Railway Spike and Harpoon.
 
-- Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it waaaaaaay less annoying then Vanilla, and by that i mean it. Only fiddle with it if you want to have Increased Needs.
+The ammo listed above does not need to be changed with the B Button; it is all good. However, if your Gun uses modded ammo, you may want to adjust it for better penetration settings due to improved locational damage.
 
-- SKK Settlement Attack System has a Feature where you can change which Faction can attack you. I turned BOS, Railroad and Minuteman off bcs you are not Hostile with them early on. You can turn it on if it happens.
-
-- If you dont like the Speed and want Time to freeze in Buildmode, turn down Speed and Freeze Time in the Workshop Plus MCM.
-
-- Vault 111 , right where the Elevator is, is a Sliver chest behind a Fallen Tree. It has the Univeral Workbench Items. Please get them they will help you with Ammo Crafting, Outfit crafting and accessing Modded Guns/Armors that cannot be found in the World.
+- Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it way less annoying than Vanilla, and by that I mean it. Only fiddle with it if you want to have Increased Needs.
 
 
+- SKK Settlement Attack System has a Feature where you can change which Faction can attack you. I turned BOS, Railroad, and Minuteman off because you are not Hostile with them early on. You can turn it on if it happens.
 
-#### Vault 111 Bugs aka Monster aka Boombug aka Forager Ant
+- If you don't like the Speed and want Time to freeze in Buildmode, turn down Speed and Freeze Time in the Workshop Plus MCM.
 
-Feel free to use console kill commands for there. There is no way we can balance this beforehand.
+- Vault 111, right where the Elevator is, is a Sliver chest behind a Fallen Tree. It has the Univeral Workbench Items. Please get them, they will help you with Ammo Crafting, Outfit crafting and accessing Modded Guns/Armors that cannot be found in the World.
+
+- Vault 111 Bugs, Boombug, Forager Ant Feel free to use console kill commands for them. There is no way we can balance this beforehand.
 
 
-https://i.imgur.com/6NUVLrW.png
+
 
 <a href="https://i.imgur.com/6NUVLrW.png"><img src="https://i.imgur.com/6NUVLrW.png" title="source: imgur.com" /></a>
 
@@ -215,12 +218,15 @@ Penetration Setup = B
 Liga = H
 
 - Quickchange Menu is really nice if you wanna see your Character while changing Clothing on them. 
-- Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. Its Under Looks BodyMorphs and then Press E and apply some and play around.
-- Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
+- Screenarcher Menu is needed for posing, and if you wanna change your body type. It's under 'Looks BodyMorphs' and then Press E to apply some and play around.
+- Wheel Menu is for quickly changing Weapons or using Items. Also, put the Game into Slow Motion.
 - Penetration Setup is explained in the Information Category in this Readme.
-- Liga is a Menu for Managing Companions. You can also adjust the Liga MCM to your liking, be careful not making them OP tho, Inifnite Ammo is a must have to be ticked on tho.
+- Liga is a Menu for Managing Companions. You can also adjust the Liga MCM to your liking, be careful not to make them OP tho, Infinite Ammo is a must-have to be ticked on tho.
 
-## Videos that will help you: [https://www.youtube.com/watch?v=KX9deWpSdyQ](https://www.youtube.com/watch?v=KX9deWpSdyQ)
+
+<a href="https://i.imgur.com/ps7Pxgx.png"><img src="https://i.imgur.com/ps7Pxgx.png" title="source: imgur.com" /></a>
+Video 1: [https://www.youtube.com/watch?v=KX9deWpSdyQ]
+Video 2: [https://www.youtube.com/watch?v=KX9deWpSdyQ]
 
 ## People who use the NSFW Addon aka Profile please use this Document for further Guidedance and Setup: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
 
