@@ -1,15 +1,13 @@
 ![Sandland Banner](https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/refs/heads/main/Sandland-Fallout-4-banner.webp)  
 
-Support and general talk about N.Y.A and Sandland you can find on the following Discord: https://discord.gg/vermishub
+Support and general talk about Sandland you can find on the following Discord: https://discord.gg/vermishub
 
 
-#### Sandland-SFW-Modlist-Fallout 4
+#### Sandland-SFW/NSFW-Modlist-Fallout 4
 
-Release Beta Test Version of Sandland, you need the latest Next gen Update from Fallout 4.
+Release V1.9 of Sandland, you need the latest Next gen Update from Fallout 4.
 
-NSFW Profile: Read through this Readme first. At the End you have a Link to the NSFW LL Download Document and ruther Instructions.
-
-Size: Downloads - 158 GB | Installation - 262 GB
+Size: Downloads - 271 GB | Installation - 393 GB
 
 ## Features
 
@@ -40,98 +38,68 @@ Size: Downloads - 158 GB | Installation - 262 GB
 - High Poly Faces and all the good Stuff!
 - X-Cell! Facegen is generated, more Performance friendly!
 
-## Credits
-
-THBrows - TrophiiHunter = Thank you for allowing us to inline THBrows!
-Make sure to check out his Mods on : https://www.trophihunter.com/
-
-## Videos that will help you: https://www.youtube.com/watch?v=KX9deWpSdyQ
-
 
 ## Accounts
 
-In terms of accounts you will need: Nexus Account, Premium would be best.
+In terms of accounts you will need: Nexus Account, Premium would be best as it speeds up the download process but not needed.
 
-ALSO WARNING: You cant login anymore into Loverslab in the Wabbajack Settings. You have todo it now when the first Loverslab Mod pop up, you need to login over the Windows that pops up. If it works for you first time, good, if not only Login then restart the Install.
-So yeah there are like 2 Mods from Loverslab a Physics Mod and a Skeleton Mod
+Loveslab Account for manual downloads.
 
-
-## Please download the Mods Manually before Downloading the List with Wabbajack. Sometimes you will likely get lots of Errors and Stuff, and if you manually downloads these Things you can avoid some Headaches.
-
-OCBP Physics : https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
-( Only 1 File to download here, that is the OCBP-2.2.5-CBBE.zip )
-
-ZeX - ZaZ Extended Skeleton 6.0 : https://www.loverslab.com/files/file/24592-zex-zaz-extended-skeleton/
-( Only 1 File to download here and that is ZeX-V6.zip )
-
-You put the Mods you downloaded into the Sandland Remake Downloads Folder ofc! 
-
-
-## Nexus Premium Account
-
-LoversLab Account - for manual downloads through your browser.
-
-
-
-## Installation
-
-I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. All links to mods hosted on LoversLab can be found above.
-
-
-## Preparation
+<a href="https://i.imgur.com/po13SD9.png"><img src="https://i.imgur.com/po13SD9.png" title="source: imgur.com" /></a>
 
 Install Microsoft Visual C++ Redistributable Packages
 This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-## Download Visual C++ Redistributable Package and the Thing underneath it.
-
-Also get the Thing underneath, i think it was needet for Sexlab+.
-
+Install .NET 7.0 Desktop Runtime (v7.0.15) - Windows x64
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.15-windows-x64-installer
 
 
-## Setup your Page File
 
-You should setup a pagefile of at least 20GB - yes, even if you have a million GB of RAM. To setup your pagefile;
+## Setting Up Your Page File and Shadercache
 
-Hold down the LEFT Windows key and press R
-Type in systempropertiesadvanced in the run box and then press ENTER
-Under the "Performance" option, click the "Settings..." button
-Switch to the "Advanced" tab
-Under "Virtual Memory", click the "Change..." button
-Uncheck Automatically manage... if it's checked
-Select your fastest SSD in the list of drives
-Check "Custom Size"
-Set Initial Size to 20480
-Set Maximum Size to 40000
-Press the "Set" button
-Press OK
-Press APPLY and then OK
-Restart your PC to apply the pagefile setting
+You will need to manually increase your page file as well as increase the size of your shader cache in order to avoid performance issues, even if you have a monster PC.
 
-AMD USERS: See this link for some manual tweaks that may or may not help.
+To increase your page file, press Windows+R and enter systempropertiesadvanced into it. Under "Performance", click "Settings..." and swap to the Advanced tab. Here you want to click "Change" under virtual memory.
 
-Open the NVidia Control Panel
-Head to Manage 3D Settings
-Scroll down in Global Settings to find the Shader Cache Size option
-Set the Shader Cache to at least 10GB
-Done
+Uncheck "Automatically manage..." and select your fastest SSD in the list of drives. Check "Custom Size" and set Initial Size to 20480 and set Maximum Size to 40000. Now press "Set" and then APPLY before restarting your PC.
 
-![alt text](https://github.com/iAmMe27/WoD/raw/main/img/ShaderCache.png "Logo Title Text 1")
+Increase the shader cache size via Nvidia Control Panel to at least 10GB. You can skip this if you're using an AMD GPU, this is set up by default for them. If you have it disabled or want to see how to enable it you can go here.
+
+## Setting Up Your Folders
+
+Press Windows+E and locate the Driver you would like to play Skyrim from, for example "C:" or "D:". Ensure that you have enough space for the list (750+ GB). You want to create 4 folders on the root of the drive (Here C:).
+
+YOUR_DRIVE_LETTER_HERE:\SANDLAND
+
+YOUR_DRIVE_LETTER_HERE:\wabbajack
+
+YOUR_DRIVE_LETTER_HERE:\ModDownloads
+
+YOUR_DRIVE_LETTER_HERE:\Fallout4GAME
+
+If you already have a folder on your PC which has mods from another modlist such as W.O.D or your own collection, you can use this one instead of "YOUR_DRIVE_LETTER_HERE:\ModDownloads". However, make sure it is easily accessable via Wabbajack by having it placed on the root of the drive.
+
+
+
 
 ## Setup your Antivirus
 Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your Sandland installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
-How do I do this, you ask? Click here to find out how.
+How do I do this, you ask? Read here on how to do it for windows defender: https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e
 
-Note: If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
+For other AV's you will need to research yourself.
 
 
 
-## Disable Steam Overlay
+
+## Disable Overlays
 
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking Properties > General > Deselect "Enable Steam Overlay while in-game".
 
+This includes things like Overwolf too as it may cause issues.
+
+Nvidia's overlay should be fine but if you want to be safe you can disable it too.
 
 
 ## Set game language to English
@@ -140,9 +108,12 @@ Wabbajack and the modding tools out there only support English language versions
 
 
 
+
 ## Change Steam's Updating Behavior
 
-If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
+If for some reason Bethesda decide to release an update for Fallout, everything will probably break. Well, not everything but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking Properties > Updates > Change Automatic Updates to "Only update this game when I launch it". Whilst you're in here, it's also recommended to disable Steam Cloud too.
+
+
 
 
 ## Start Vanilla Fallout 4
@@ -150,16 +121,36 @@ If for some reason Bethesda decide to release an update for Skyrim, everything w
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 
-## Wabbajack
-
-Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
-
-Set the installation location to a folder on the root of a drive, something like C:\Sandland Remake. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
-
-Once you have everything set in Wabbajack, hit GO and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
 
-## Please read very carefully from here on!!!!!!!!!!!!!!!!!
+<a href="https://i.imgur.com/aiuQMwD.png"><img src="https://i.imgur.com/aiuQMwD.png" title="source: imgur.com" /></a>
+
+# Please download the Mods Manually before Downloading the List with Wabbajack it will speed up the install process.<br><br>YOU NEED THE NSFW MODS even if you don't play the NSFW list as they are in the same MO2 instance they are just on seprate profiles.
+
+**All the manual mods for download can be found here:** https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
+
+You need to put the manual mods you downloaded into the Sandland Remake Downloads Folder. 
+
+
+
+<a href="https://i.imgur.com/4dF37WT.png"><img src="https://i.imgur.com/4dF37WT.png" title="source: imgur.com" /></a>
+
+If you havent already download and install Wabbajack here: https://www.wabbajack.org/
+
+Load up Wabbajack once it checks for updates search for sandland land here: 
+<a href="https://i.imgur.com/MeD0Hz3.png"><img src="https://i.imgur.com/MeD0Hz3.png" title="source: imgur.com" /></a>
+
+Click On Sandland then click install.<br>
+
+Next tell Wabbajack where you want to install here's an example:<br>
+<a href="https://i.imgur.com/TusiHVB.png"><img src="https://i.imgur.com/TusiHVB.png" title="source: imgur.com" /></a>
+
+Then hit install then Wabbajack will do its thing.
+
+
+<a href="https://i.imgur.com/fSN41jz.png"><img src="https://i.imgur.com/fSN41jz.png" title="source: imgur.com" /></a>
+
+## On New Game
 
 
 - If you play the List and press New Game, Wait 20-30 Seconds and hit Enter or the E Key. Then you get to the Char Screen. There is a POP Up Info blocking the Loading Screen so it feels like an Infinite Loading Screen but it isnt.
@@ -170,11 +161,8 @@ Once you have everything set in Wabbajack, hit GO and let it do its thing. It mi
 
 - After you ran MCM Settings Preset for the List, pls go into the LIGA mcm and set the drop down menu for hotkeys to NONE. The Default interferes with Wheeler since thats on G.
 
-# Do not use Beth Pie under any Circumstances. All 3 Inis in the Ini Editor aka in the Profile for the List have Custom Values setup for the ENB, Fixes and CRP. So dont use it at all. Do adjustments manually.
 
-
-
-## Information ( READ THIS OR YOU WILL HAVE A BAD TIME )
+## Other Information
 
 - If you enable any of the Options underneath this Post, make sure to ENABLE the Optional MOD first, then DISABLE the Original. This needs to be done so the ESP Plugin stays in the same Slot. Doesnt matter for Nameplaytes, it doesne use a Slot.
 
@@ -193,49 +181,12 @@ The Ammos listed above do not need to be changed with the B Button, they are all
 
 - Please tweak the Survival Panel MCM only if you are not satisfied with our Setup. We made it waaaaaaay less annoying then Vanilla, and by that i mean it. Only fiddle with it if you want to have Increased Needs.
 
-- SKK Settlement Attack System has a Feature where you can change which Faction can attack you. I turned BOS, Railroad and Minuteman off bcs you are not Hostile again them early on. You can turn it on if it happens.
+- SKK Settlement Attack System has a Feature where you can change which Faction can attack you. I turned BOS, Railroad and Minuteman off bcs you are not Hostile with them early on. You can turn it on if it happens.
 
 - If you dont like the Speed and want Time to freeze in Buildmode, turn down Speed and Freeze Time in the Workshop Plus MCM.
 
 - Vault 111 , right where the Elevator is, is a Sliver chest behind a Fallen Tree. It has the Univeral Workbench Items. Please get them they will help you with Ammo Crafting, Outfit crafting and accessing Modded Guns/Armors that cannot be found in the World.
 
-
-## Buttons
-
-Quickchange = F3
-
-Screenarcher Menu = F4
-
-Wheel Menu = G
-
-Penetration Setup = B
-
-Liga = H
-
-- Quickchange Menu is really nice if you wanna see your Character while changing Clothing on them. 
-- Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. Its Under Looks BodyMorphs and then Press E and apply some and play around.
-- Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
-- Penetration Setup is explained in the Information Category in this Readme.
-- Liga is a Menu for Managing Companions. You can also adjust the Liga MCM to your liking, be careful not making them OP tho, Inifnite Ammo is a must have to be ticked on tho.
-
-
-#### Goals and Issues
-
-Please Test/Cheat all the Weapons. We need reports in the Discord of Weapons that are invisibile, Broken Animations, Crash your Game upon Inspecting or Modifing on the Workbench. ( If you think Weapon is broken, unequip it and reequip it. Helps often )
-
-
-
-#### Please read very carefully from here on!!!!!!!!!!!!!!!!!
-
-#### If you play the List and press New Game, Wait 20-30 Seconds and hit Enter a couple Times. Then you get to the Char Screen. I know its odd but its the Way it works. The Screen might freeze once, u need to wait until the Wheel in the Bottom right moves again, and then hit E or Enter.
-
-After you start the Game, and made your Character,it will run all the Mods. That is normal. You only apply the Sandland Remake Preset in the MCM Settings, after you leave Vault 111 thank you very much. 
-
-
-
-#### Survival Mode
-
-I dont know if it works, but it probably will.
 
 
 #### Vault 111 Bugs aka Monster aka Boombug aka Forager Ant
@@ -243,7 +194,9 @@ I dont know if it works, but it probably will.
 Feel free to use console kill commands for there. There is no way we can balance this beforehand.
 
 
-#### Buttons
+https://i.imgur.com/6NUVLrW.png
+
+<a href="https://i.imgur.com/6NUVLrW.png"><img src="https://i.imgur.com/6NUVLrW.png" title="source: imgur.com" /></a>
 
 Outfit System = F4
 
@@ -257,5 +210,22 @@ The Outfit System is basicly Transmog, and Quickchange Menu is really nice if yo
 Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. Its Under Looks BodyMorphs and then Press E and apply some and play around.
 Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
 
-People who use the NSFW Addon aka Profile please use this Document for ruther Guidedance and Setup: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
+Penetration Setup = B
 
+Liga = H
+
+- Quickchange Menu is really nice if you wanna see your Character while changing Clothing on them. 
+- Screenarcher Menu is needet for Posing and if you wanna change your Bodytype. Its Under Looks BodyMorphs and then Press E and apply some and play around.
+- Wheel Menu is for quickly changing Weapons or use Items. Also put the Game into Slow Motion.
+- Penetration Setup is explained in the Information Category in this Readme.
+- Liga is a Menu for Managing Companions. You can also adjust the Liga MCM to your liking, be careful not making them OP tho, Inifnite Ammo is a must have to be ticked on tho.
+
+## Videos that will help you: [https://www.youtube.com/watch?v=KX9deWpSdyQ](https://www.youtube.com/watch?v=KX9deWpSdyQ)
+
+## People who use the NSFW Addon aka Profile please use this Document for further Guidedance and Setup: https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland%20Remake%20NSFW%20Downloads%20and%20Instructions.md
+
+
+## Credits
+
+THBrows - TrophiiHunter = Thank you for allowing us to inline THBrows!
+Make sure to check out his Mods on : https://www.trophihunter.com/
