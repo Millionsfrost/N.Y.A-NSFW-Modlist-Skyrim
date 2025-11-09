@@ -11,7 +11,7 @@ Release V1.9 of Sandland, you need the latest Next gen Update from Fallout 4.
 
 Size: Downloads - 271 GB | Installation - 393 GB
 
-<a href="https://i.imgur.com/cZP7o2f.png"><img src="https://i.imgur.com/cZP7o2f.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/Q3eelpw.png"><img src="https://i.imgur.com/Q3eelpw.png" title="source: imgur.com" /></a>
 
 - The Midnight Ride Baseline
 - Desert Theme
@@ -48,7 +48,7 @@ In terms of accounts, you will need a Nexus Account; Premium would be best, as i
 
 Loveslab Account for manual downloads.
 
-<a href="https://i.imgur.com/po13SD9.png"><img src="https://i.imgur.com/po13SD9.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/6Fg9axI.png"><img src="https://i.imgur.com/6Fg9axI.png" title="source: imgur.com" /></a>
 
 Install Microsoft Visual C++ Redistributable Packages
 This package is a must as MO2 needs it - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017, and 2019".
@@ -128,7 +128,7 @@ That's right - start the game. You need to let the game do its initial start-up,
 
 
 
-<a href="https://i.imgur.com/aiuQMwD.png"><img src="https://i.imgur.com/aiuQMwD.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/yJ1VRFy.png"><img src="https://i.imgur.com/yJ1VRFy.png" title="source: imgur.com" /></a>
 
 # Please download the Mods manually before downloading the List with Wabbajack. It will speed up the install process.<br><br>YOU NEED THE NSFW MODS even if you don't play the NSFW list, as they are in the same MO2 instance; they are just on separate profiles.
 
@@ -138,7 +138,7 @@ You need to put the manual mods you downloaded into the Sandland Remake Download
 
 
 
-<a href="https://i.imgur.com/4dF37WT.png"><img src="https://i.imgur.com/4dF37WT.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/bxzPWOk.png"><img src="https://i.imgur.com/bxzPWOk.png" title="source: imgur.com" /></a>
 
 If you haven't already, download and install Wabbajack here: https://www.wabbajack.org/
 
@@ -153,7 +153,7 @@ Next, tell Wabbajack where you want to install. Here's an example:<br>
 Then hit install then Wabbajack will do its thing.
 
 
-<a href="https://i.imgur.com/fSN41jz.png"><img src="https://i.imgur.com/fSN41jz.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/aCTFhJ8.png"><img src="https://i.imgur.com/aCTFhJ8.png" title="source: imgur.com" /></a>
 
 ## On New Game
 
@@ -199,7 +199,7 @@ The ammo listed above does not need to be changed with the B Button; it is all g
 
 
 
-<a href="https://i.imgur.com/6NUVLrW.png"><img src="https://i.imgur.com/6NUVLrW.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/HCBxcYI.png"><img src="https://i.imgur.com/HCBxcYI.png" title="source: imgur.com" /></a>
 
 Outfit System = F4
 
@@ -224,7 +224,7 @@ Liga = H
 - Liga is a Menu for Managing Companions. You can also adjust the Liga MCM to your liking, be careful not to make them OP tho, Infinite Ammo is a must-have to be ticked on tho.
 
 
-<a href="https://i.imgur.com/ps7Pxgx.png"><img src="https://i.imgur.com/ps7Pxgx.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/OOcTIom.png"><img src="https://i.imgur.com/OOcTIom.png" title="source: imgur.com" /></a>
 Video 1: [https://www.youtube.com/watch?v=KX9deWpSdyQ]
 Video 2: [https://www.youtube.com/watch?v=KX9deWpSdyQ]
 
