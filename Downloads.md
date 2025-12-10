@@ -418,7 +418,7 @@ File: `Acheron - Diary of Mine AddOn - 2.1.1.zip`
 
 ### Confabulation, Companion Orgy Scene stuck fix Mod or whatever
 
-URL: https://www.loverslab.com/topic/139082-sexlab-confabulation-september-16-2020/page/53/#comment-3868667
+URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1528315&key=bed1dfbf2295f200b0c12a38d4ae39eb
 
 File: `SexLab Confabulation Com Party.zip`
 
