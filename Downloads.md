@@ -270,26 +270,6 @@ File: `Assorted Futanari Texture Patches - PB's Silky TRX Canine.7z`
 
 
 
-### Zhizen [3.5+] DW 3BA Futanari Texture Patch
-URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2047198&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `Assorted Futanari Texture Patches - Zhizhen DW 3BA 3.5+.7z`
-
-
-### Zhizen [3.5+] TRX Horse Futanari Texture Patch
-URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2047200&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `Assorted Futanari Texture Patches - Zhizhen TRX Horse 3.5+.7z`
-
-
-
-### Zhizen [3.5+] TRX Canine Futanari Texture Patch
-URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2047201&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `Assorted Futanari Texture Patches - Zhizhen TRX Canine 3.5+.7z`
-
-
-
 ### Assorted Futanari Texture Patches - BnP DW 3BA
 URL: https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003333&confirm=1&t=1&csrfKey=b8592c380a78f187a44eb5003a3ec1b6
 
@@ -421,9 +401,9 @@ File: `SLLMU Patch April 2023.7z`
 
 ### Diary Of Mine for Paradise Halls
 
-URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2104405&confirm=1&t=1&csrfKey=b0958a714bd74955a1bd3ef15af4a309
+URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2127222&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
 
-File: `Diary Of Mine 7.9.2_SE_fomod.7z`
+File: `Diary Of Mine 7.11.3_SE_fomod.7z`
 
 
 
