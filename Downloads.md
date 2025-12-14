@@ -403,7 +403,7 @@ File: `SLLMU Patch April 2023.7z`
 
 URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2127222&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
 
-File: `Diary Of Mine 7.11.3_SE_fomod.7z`
+File: `Diary Of Mine 7.11.5_SE_fomod.7z`
 
 
 
