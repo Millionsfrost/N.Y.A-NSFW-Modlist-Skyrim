@@ -346,13 +346,6 @@ File: `ZAZ 7.0SE-Rev1.7z`
 
 
 
-### Heels Sound 1.5 SSE
-URL: https://www.loverslab.com/files/file/1795-heels-sound/?do=download&r=669362&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `Heels Sound 1.5 SSE.7z`
-
-
-
 ### Waifu Cards
 URL: https://www.loverslab.com/files/file/29295-collectible-waifu-cards/?do=download&r=2032138&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
 
