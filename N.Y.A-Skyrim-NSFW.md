@@ -190,6 +190,26 @@ Please open as Fullscreen in your Brower or download the Picture.
 
 <a href="https://i.imgur.com/Ezt1TLZ.png"><img src="https://i.imgur.com/Ezt1TLZ.png" title="source: imgur.com" /></a>
 
+## Extra Hotkeys:
+
+New Hotkeys:
+
+. Key = also know as the dot key which is right next to the comma key, you can turn Clean Crafting on and Off. Clean crafting ON Means your Forge will no longer lag and it will only show you items you can craft where you have atleast 1 Material in your Inventory. When you press . Key you will see everything again but you will get quite some Lag bcs of all them modded Items.
+
+X Key = will turn the whole Hud on and off. 
+
+V Key = will let you dual wield block when you have a Sword and Spell in your Hand for Example.
+
+Shift + F2 = will let you cycle between 3 Reshade Presets we have. This means Color Schemes for the Normy.
+
+F1 Key = will let you adjust some Settings, similar to the MCM Menus.
+
+Shift + 1 = Menu = Settings Menu for Party Sheet Options and Layouts.
+Shift + 2 = Inspect Card = will let you inspect an NPCs Stat Card, like HP, Magicka, Stamina and other Information like Resistences etc. Costs Magicka to use.
+Shift + 3 = Party Sheet = will let you open a Party Sheet Screen where you can inspect your Companions Stats, Resistances etc, all in one go. Look below on how to change Portraits.
+Shift + 4 = Follower Hud Toggle
+
+Hotkeys above not mentioned on Layout Picture. 
 
 ### New Combat Animations
 
