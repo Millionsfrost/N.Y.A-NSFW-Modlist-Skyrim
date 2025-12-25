@@ -423,3 +423,20 @@ File: `SexLab Confabulation Com Party.zip`
 URL: https://www.loverslab.com/files/file/44147-sexlab-sex-sound/?do=download&r=2126572&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
 
 File: `SexLab Sex Sound 0.14.0`
+
+
+
+
+### Crajjjj patches hub 29/07/2025
+
+URL: https://www.loverslab.com/files/file/41804-crajjjj-patches-hub/?do=download&r=2107459&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
+
+File: `SexLab Sex Sound 0.14.0`
+
+
+
+### CrosshairRefEvents script hang fix 0.0.1
+
+URL: https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/?do=download
+
+File: `CrosshairRefEventsFix_v0.0.1.7z`
