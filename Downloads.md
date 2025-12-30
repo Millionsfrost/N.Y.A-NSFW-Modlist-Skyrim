@@ -440,3 +440,11 @@ File: `SexLab Sex Sound 0.14.0`
 URL: https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/?do=download
 
 File: `CrosshairRefEventsFix_v0.0.1.7z`
+
+
+
+### SLACS 2 + SCO ( Cum Overlays ) 0.79.5
+
+URL: https://www.loverslab.com/files/file/44957-slacs-2-sco-cum-overlays/
+
+File: `1 file duh`
