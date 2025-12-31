@@ -448,3 +448,11 @@ File: `CrosshairRefEventsFix_v0.0.1.7z`
 URL: https://www.loverslab.com/files/file/44957-slacs-2-sco-cum-overlays/
 
 File: `1 file duh`
+
+
+
+### SLACS 2 + SCO ( Cum Overlays ) 0.79.5u Addon
+
+URL: https://www.loverslab.com/topic/258677-slacs-2-sco-cum-overlays/page/6/#findComment-7188307
+
+File: `SLACS 2 v0.79.5u.7z`
