@@ -1,4 +1,4 @@
-# N.Y.A NSFW Modlist Version 6.0+
+# N.Y.A NSFW Modlist Version 7.0
 Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
 ![alt text](https://i.imgur.com/GjGgP7U.png "N.Y.A Poster Image")
@@ -128,7 +128,8 @@ Make your character. Once you finish your character, follow the Instruction on t
 
 <ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>	
 
-<ins>N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information
+<ins>N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information</ins> <br>
+## **IGNORE THE UBE PORTION OF THE VIDEO AS UBE IS NOT LONGER IN THE LIST**
 [![IMAGE ALT TEXT](https://i.imgur.com/RTx5nj8.png)](https://www.youtube.com/watch?v=1dPJON9KIe4 "N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information")
 
 <ins>NYA Character Creation and MCM Tutorial</ins>	
@@ -137,8 +138,8 @@ Make your character. Once you finish your character, follow the Instruction on t
 ***There is a good chance that the game may crash on character creation. It is a known issue and being investigated. Do not report it in a bug report.***
 ***The same goes for starter room crashes.***
 
-<ins>Things you want to know for N.Y.A 6.0</ins>	
-[![IMAGE ALT TEXT](https://i.imgur.com/a5mk6CG.png)](https://www.youtube.com/watch?v=szeUFI5vGAY "Things you want to know for N.Y.A 6.0")
+<ins>Things you want to know for N.Y.A 7.0</ins>	
+[![IMAGE ALT TEXT](https://i.imgur.com/a5mk6CG.png)](https://youtu.be/GNFGzTA_fUQ "Things you want to know for N.Y.A 7.0")
 
 ### Manual Settings:
 
@@ -170,7 +171,7 @@ We dont use the Synthesis HPH patch anymore for a specific Reason. So now on Cha
 
 ### ENB Information
 
-N.Y.A 6.0 now uses a customized version of Cabbage ENB with Sswaye's ReShade. 3 ReShade presets are available to choose from. Do not change the ENB or alter the ENB settings.
+N.Y.A 6.0+ now uses a customized version of Cabbage ENB with Sswaye's ReShade. 3 ReShade presets are available to choose from. Do not change the ENB or alter the ENB settings.
 ![alt text](https://i.imgur.com/YhDDnm3.png)
 
 ### Beth Pie
