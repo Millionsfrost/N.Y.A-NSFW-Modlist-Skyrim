@@ -402,7 +402,7 @@ File: `Diary Of Mine 7.10.9_SE_fomod.7z`
 
 ### Acheron - Diary of Mine Addon
 
-URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2122750&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
+URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download
 
 File: `Acheron - Diary of Mine AddOn - 2.1.1.zip`
 
