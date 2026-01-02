@@ -118,18 +118,30 @@ You need to log into Nexus within Wabbajack by clicking the Gear at the top befo
 If you encounter any issues during the installation process, consider going through the steps of the ReadMe once more. If you still cannot figure out what the problem is, please refer to the [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096) in the Discord.
 
 
-# Post Installation
+# Post Installation (Starting a New Game)
 
 Warning: DO NEVER EVER USE LOOT in MO2
 
-Once you get into the game, listen to the Announcer in the Main Menu for more Explanations. If you skip the Main Menu you are in the Starter Room, wait 30 seconds or until mod notifications in the top right have disappeared Press Escape and open up the MCM Menu go to Skyrim Unbound and Configure your starting options and Click Lets go when finished. 
 
-Make your character. Once you finish your character, follow the Instruction on the Prompt. Another Prompt will tell you that everything is finished, but you still should wait atleast 1 Minute in the Room before you press Enter to start your Game!
+1. When you launch NYA you will have to wait for it to load before you can start a new game. In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release. <br>
 
-<ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>	
+2. Once you click on New Game as it's loading in, you may see some prompts. You can click okay to close them out. Once the messages in the top right corner stop, you can open up the menu, click on Mod Manager and find Skyrim Unbound. <br>
+
+3. In Skyrim Unbound configure your start options then click **"Lets Go"** when finished. You then can create your character. <br>
+
+4. Once you are done creating your character, another pop-up will ask you what you want to do pick **"STAY HERE"** let the MCM Recorder run and once it's done you will see a pop-up message saying **"Initialization Is Complete"** <br>
+
+5. Hit Enter then choose **"Continue"** You will now load into the game world.
+
+### **IF YOU SEE A POP UP THAT SAYS TO SAVE AND RELOAD DO NOT DO THAT (This is from the DOM mod and can be ignored).**
+
+### **IF YOU GET A POP UP SAYING A MOD CANT BE FOUND CLICK SKIP AND LET THE RECORDER KEEP GOING**
+Once you load into the game world open up the console and run this command setstage SKI_ConfigManagerInstance 1 it should bring up the missing MCMs
+
+### <ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>	
 
 <ins>N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information</ins> <br>
-## **IGNORE THE UBE PORTION OF THE VIDEO AS UBE IS NOT LONGER IN THE LIST**
+### **IGNORE THE UBE PORTION OF THE VIDEO AS UBE IS NOT LONGER IN THE LIST**
 [![IMAGE ALT TEXT](https://i.imgur.com/RTx5nj8.png)](https://www.youtube.com/watch?v=1dPJON9KIe4 "N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information")
 
 <ins>NYA Character Creation and MCM Tutorial</ins>	
