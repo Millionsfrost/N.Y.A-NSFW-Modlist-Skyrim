@@ -123,6 +123,7 @@ If you encounter any issues during the installation process, consider going thro
 Warning: DO NEVER EVER USE LOOT in MO2
 
 
+
 1. When you launch NYA you will have to wait for it to load before you can start a new game. In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release. <br>
 
 2. Once you click on New Game as it's loading in, you may see some prompts. You can click okay to close them out. Once the messages in the top right corner stop, you can open up the menu, click on Mod Manager and find Skyrim Unbound. <br>
@@ -133,7 +134,7 @@ Warning: DO NEVER EVER USE LOOT in MO2
 
 5. Hit Enter then choose **"Continue"** You will now load into the game world.
 
-### **IF YOU SEE A POP UP THAT SAYS TO SAVE AND RELOAD DO NOT DO THAT (This is from the DOM mod and can be ignored).**
+### **IF YOU SEE A POP UP THAT SAYS TO SAVE AND RELOAD DO NOT DO THAT DO NOT SAVE IN THE STARTING ROOM (This is from the DOM mod and can be ignored).**
 
 ### **IF YOU GET A POP UP SAYING A MOD CANT BE FOUND CLICK SKIP AND LET THE RECORDER KEEP GOING**
 Once you load into the game world open up the console and run this command setstage SKI_ConfigManagerInstance 1 it should bring up the missing MCMs
