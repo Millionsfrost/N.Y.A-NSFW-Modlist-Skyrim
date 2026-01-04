@@ -117,6 +117,35 @@ You need to log into Nexus within Wabbajack by clicking the Gear at the top befo
 
 If you encounter any issues during the installation process, consider going through the steps of the ReadMe once more. If you still cannot figure out what the problem is, please refer to the [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096) in the Discord.
 
+## **__Bad Fps ingame__**
+
+Bad Fps while playing ( Outside of Character Starting Room )
+
+**After the last Hours of Testing and fucking around we have found out certain Things.**
+
+The **HDT-SMP Flex** Mod in Mo2 seems to work for some People and for some it doesnt work well.
+
+The Modlist is **capped at 60**, if you play the List atm and you have **constant 60 Fps** you can** ignore this Post** mostly.
+
+If you have **bad Fps** in-game, like way lower then 60, consider turning off **HDT-SMP Flex** in the **Left Side** in Mo2, some Tests showed us an increase of **15-25 Fps**.
+
+Turning off **HDT-SMP Flex **will **not break** your Saves, **Faster HDT-SMP** on the other Hand tho will. Some People turned off **Faster HDT-SMP** and only used **HDT-SMP Flex **which also helped there Fps. " **Faster** " has an Esp tho and " **Flex** " doesnt. Again, if you have **no Fps Problems ignore it**. 7.0 atm has both Enabled which seems to be fine **for most of you.**
+
+
+**__## Lagg in Character Creation aka Memory Leak__**
+
+It seems after some Testing and checking the Hairs and a Comment we found from another Modlist Author from 2025 on the RaceMenu Comments Section, the Idea atm is that RaceMenu still has a MemoryLeak especially on the Hairslider. Goging manually through the Hairs we saw how our Stuff got higher and higher. Leaving Race Menu fill reset and fix everything.
+
+The Work Around is if you feel like you getting bad Fps in Race Menu, save your current Preset of your Character as for Example " Character WIP 1 " and leave Racemenu and then use the alternative power you have to reenter it and continue working on the Character. We saw it ramps up higher on Hairs from Dint and Bdo Hairs for Example.
+
+This is also guessing from us, but if we find out more i will tell you People ofc. Atm i just want that you are all able to create a nice Character and play without Problems!
+
+## **__Pagefile Adjustments__**
+
+In the Readme we tell you to setup the Pagefile to 40, some users have it setup to 60 or 80 or even 100, where 80 already is excessive. But some Users also noticed better Results in Racemenu when they had higher Values there. Use Pagefile Adjustments only as a Last Resort after trying other Thing. Dont try to play the List on less then 16GB of Ram tho.
+
+Keep in Mind i dont much about Ram, Hardware and Stuff like that, its just what we tested in the https://discord.com/channels/1201567388248834108/1457004865925550279 Channel, feel free to join there if you have Question or Problems arise.
+
 
 # Post Installation (Starting a New Game)
 
