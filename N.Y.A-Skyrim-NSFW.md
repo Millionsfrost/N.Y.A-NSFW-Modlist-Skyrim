@@ -155,7 +155,7 @@ Warning: DO NEVER EVER USE LOOT in MO2
 
 1. When you launch NYA you will have to wait for it to load before you can start a new game. In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release. <br>
 
-2. Once you click on New Game as it's loading in, you may see some prompts. You can click okay to close them out. Once the messages in the top right corner stop, you can open up the menu, click on Mod Manager and find Skyrim Unbound. <br>
+2. Once you click on New Game as it's loading in, you may see some prompts. You can click okay to close them out. Once the messages in the top right corner stop, you can open up the menu, click on Mod Configuration and find Skyrim Unbound. <br>
 
 3. In Skyrim Unbound configure your start options then click **"Lets Go"** when finished. You then can create your character. <br>
 
