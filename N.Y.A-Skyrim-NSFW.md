@@ -39,6 +39,9 @@ Increase the shader cache size via Nvidia Control Panel to at least **10GB**. Yo
 
 
 ## Microsoft
+
+We dont Support Linux. < < <
+
 Download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 You are also going to need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
@@ -85,6 +88,9 @@ Make sure that every single digit matches for the downloads, because there are m
 
 
 ## Steam Settings
+
+We dont Support GoG < < <
+
 *Disable Steam Overlay*. Right-click on Skyrim Special Edition in your Steam > "Properties" > "General" > untick "Enable Steam Overlay while in-game". 
 
 *Set Game Language to English*. Right-click on Skyrim Special Edition in your Steam > "Properties" > "Language" > select English.
