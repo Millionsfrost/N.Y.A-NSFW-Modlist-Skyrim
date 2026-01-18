@@ -7,7 +7,14 @@ Support and general talk about Sandland, you can find on the following Discord: 
 
 ## Sandland-SFW/NSFW-Modlist-Fallout 4
 
-Release V1.9 of Sandland, you need the latest Next gen Update from Fallout 4.
+Sandland – Release V2.0
+
+The latest update for Fallout 4 is required to use Sandland V2.0.
+
+Version 2.0 includes overall bug fixes and the removal of several mods to improve stability and compatibility.
+
+The NSFW profile received the most changes and added content.
+The SFW profile includes the bug fixes but less additional content, and is designed to be more open and flexible for users who want to add their own mods.
 
 Size: Downloads - 271 GB | Installation - 393 GB
 
