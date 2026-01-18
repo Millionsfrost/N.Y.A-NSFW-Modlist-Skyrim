@@ -50,9 +50,9 @@ File: `HG Hairdos 2 SE`
 
 ## Warning Warning READ THIS Warning Warning
 
-Regarding Demonic Creatures v2.0 Special Edition. The Mod is now hosted on the Discord and you can get it here: https://discord.com/channels/1201567388248834108/1420133956505833502
+Regarding Demonic Creatures v2.0 Special Edition. The Mod is now hosted on the Discord and you can get it here: https://discord.com/channels/1201567388248834108/1419728971204919336
 
-Its in the DC Mods Channel.
+Its in the Demonic Creatures Mods Channel. Dont forget to grab the Role so you can access the Channel.
 
 
 
