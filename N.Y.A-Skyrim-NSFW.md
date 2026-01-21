@@ -340,3 +340,6 @@ If you want to activate the Halgari RPG Loot mod *(adds custom enchantments to g
 Dont use it in Combo with OWL Loot Patcher.
 
 
+## - Additional Info for Linux users:
+If your game looks extremely low-poly like you accidentally set Skyrim to the lowest settings,
+the fix is to manually disable the "TAA Sharpen" mod in MO2.
