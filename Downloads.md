@@ -150,9 +150,9 @@ File: `GSPoses SE 20 03.7z`
 
 
 ### Creature Framework
-URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=1720964&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
+URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2145630&confirm=1&t=1&csrfKey=c3960a92b6a954939a0c6fb873e703c3
 
-File: `CreatureFrameworkV3-1.7z`
+File: `CreatureFrameworkV4_0.7z`
 
 
 
@@ -361,9 +361,9 @@ File: `V3_CompletionistAddon.zip`
 
 
 ### Paradise Halls
-URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/?do=download&r=1397119&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
+URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/?do=download&r=2144276&confirm=1&t=1&csrfKey=c3960a92b6a954939a0c6fb873e703c3
 
-File: `ParadiseHallsEnhanced(PAHE)SSE_8.1.6_Fomod.7z` 
+File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.2_Fomod.7z` 
 
 
 
@@ -456,3 +456,11 @@ File: `1 file duh`
 URL: https://www.loverslab.com/topic/258677-slacs-2-sco-cum-overlays/page/6/#findComment-7188307
 
 File: `SLACS 2 v0.79.5u.7z`
+
+
+### More Nasty Critters
+
+URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=1720964&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
+
+File: `MoreNastyCrittersSE&AE_v16_1F.7z`
+
