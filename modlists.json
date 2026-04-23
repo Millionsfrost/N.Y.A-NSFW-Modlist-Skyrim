@@ -27,23 +27,24 @@
     "links": {
       "image": "https://i.imgur.com/nx724h0.png",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/N.Y.A-Skyrim-NSFW.md",
-      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_9b5ada07-0564-498d-a108-69a7cbfc3f2b",
+      "download": "https://authored-files.wabbajack.org/N.Y.A NSFW Skyrim.wabbajack_b3bf219a-8753-4c24-a293-9160397bc6a5",
       "machineURL": "nyaskyrim",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "FDLXrpzUGpo=",
-      "Size": 4352301300,
-      "NumberOfArchives": 4284,
-      "SizeOfArchives": 404584427803,
-      "NumberOfInstalledFiles": 656001,
-      "SizeOfInstalledFiles": 880666674532,
-      "TotalSize": 1285251102335
+      "Hash": "d+ynRE/iNNI=",
+      "Size": 4357856943,
+      "NumberOfArchives": 4344,
+      "SizeOfArchives": 416419332672,
+      "NumberOfInstalledFiles": 579087,
+      "SizeOfInstalledFiles": 711663512556,
+      "TotalSize": 1128082845228
     },
-    "version": "7.0.3",
+    "version": "8.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-09T18:06:23.8387588Z",
+    "dateUpdated": "2026-04-23T14:22:01.3337887Z",
     "repositoryName": ""
   },
   {
@@ -75,7 +76,8 @@
       "download": "https://authored-files.wabbajack.org/Sandland Remake.wabbajack_4f36be17-2c5b-40ed-9f79-ea083a1580f6",
       "machineURL": "sandland",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "CZo8588QoCk=",
@@ -120,7 +122,8 @@
       "download": "https://authored-files.wabbajack.org/Infinite Pathways.wabbajack_aa5cee9e-0963-4497-9482-10ef72bfda78",
       "machineURL": "Millionsfrost_BG3_Infinite_Pathways",
       "discordURL": "https://discord.gg/AsJPrAv7MU",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "IBDeoYLxrb4=",
