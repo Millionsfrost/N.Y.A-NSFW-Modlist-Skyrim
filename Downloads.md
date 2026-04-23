@@ -87,13 +87,6 @@ File: `Only 1 File`
 
 
 
-## GOOGLE DRIVE DOWNLOADS
-### Karlov Manor
-URL: https://drive.google.com/file/d/1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm/edit
-
-File: `Only 1 File`
-
-
 ## LOVERSLAB DOWNLOADS
 #### Before starting your downloads from LoversLab, visit the site at least once and login. Then you can proceed with the downloading of the below files.
 https://www.loverslab.com
