@@ -439,7 +439,7 @@ File: `CrosshairRefEventsFix_v0.0.1.7z`
 
 ### More Nasty Critters
 
-URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=1720964&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
+URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=1133002ab9be76839b6c1f20f812f48e
 
 File: `MoreNastyCrittersSE&AE_v16_1F.7z`
 
