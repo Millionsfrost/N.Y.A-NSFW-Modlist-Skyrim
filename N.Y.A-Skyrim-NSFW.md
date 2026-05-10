@@ -1,4 +1,4 @@
-# N.Y.A NSFW Modlist Version 7.0
+# N.Y.A NSFW Modlist Version 8.0
 Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
 ![alt text](https://i.imgur.com/GjGgP7U.png "N.Y.A Poster Image")
@@ -15,6 +15,9 @@ Before posting a new support request in #unmodified-support or #modified-support
 # Pre-installation Steps
 Before you install the modlist, there are some very important steps you need to take in order for a smooth installation process as well as a more seamless experience in-game.
 Before diving into the modlist, it's essential to prepare your game environment. These pre-installation steps will help ensure a smooth installation process and a more seamless experience in-game. Follow **all** guidelines carefully:
+
+##  --Anniversary Edition Is Needed For NYA--
+
 
 
 ## Requirements
