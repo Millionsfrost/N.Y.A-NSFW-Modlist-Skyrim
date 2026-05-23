@@ -249,7 +249,7 @@ URL: https://www.loverslab.com/files/file/19169-commonwealth-captives-more-femal
 URL: https://www.loverslab.com/files/file/5258-roggvirs-no-strip-items-manager/?do=download&r=713414&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
 ## PiCSeL's Standalone Custom Magazines 2.0
-URL: https://www.loverslab.com/files/file/31724-picsels-standalone-custom-magazines/?do=download&r=2083400&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
+URL: https://www.loverslab.com/files/file/32660-picsels-spicy-periodicals/?do=download&r=2153297&confirm=1&t=1&csrfKey=cfc1db41aca581bb9d4a98c33289e855
 
 ## THIS MOD IS A MEGA DOWNLOAD:  Erotic Art - Expanded v3 3.0 
 URL: https://mega.nz/file/YRwknL6J#eZ7IbTz6QbB-MkA-XwISqLka7AO-flUdRbn6_pJYsqM
