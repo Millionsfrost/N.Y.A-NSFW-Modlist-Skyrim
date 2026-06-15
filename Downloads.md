@@ -36,12 +36,6 @@ File: `Only 1 File`
 
 
 
-### Paradise Halls Voice Addon
-URL: https://mega.nz/file/A1k2nD4D#L0wIZJ8h_yNDCJVN3XYTRoZZdD-9IURkMixEP0pwmCE
-
-File: `Only 1 File`
-
-
 
 ### HG Hairdos 2
 URL: https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ
@@ -360,20 +354,6 @@ File: `V3_CompletionistAddon.zip`
 
 
 
-### Paradise Halls
-URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/?do=download&r=2144276&confirm=1&t=1&csrfKey=c3960a92b6a954939a0c6fb873e703c3
-
-File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.2_Fomod.7z` 
-
-
-
-### Paradise Halls Fix
-URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/?do=download&r=1474750&confirm=1&t=1&csrfKey=c1650ce4aa237b3bb2e7d7a33a692a3c
-
-File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.0-fix2_Fomod.7z`
-
-
-
 ### Sexlab LightMeUp
 (Disabled in the modlist, only download if you want to use it manually. I disabled it because it makes light better in NSFW scenes, but with ENB you can get black squares on the ground due to lighting limitations)
 
@@ -389,22 +369,6 @@ File: `Sexlab LightMeUp SE 2.9.4.7z`
 URL: https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1680585&key=8d59158828212de902c585b2a7cb060e
 
 File: `SLLMU Patch April 2023.7z`
-
-
-
-### Diary Of Mine for Paradise Halls
-
-URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download&r=2122750&confirm=1&t=1&csrfKey=221e68844c5c5bf9ac9620cf99d9f851
-
-File: `Diary Of Mine 7.10.9_SE_fomod.7z`
-
-
-
-### Acheron - Diary of Mine Addon
-
-URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/?do=download
-
-File: `Acheron - Diary of Mine AddOn - 2.1.1.zip`
 
 
 
@@ -446,7 +410,7 @@ File: `CrosshairRefEventsFix_v0.0.1.7z`
 
 ### More Nasty Critters
 
-URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=1133002ab9be76839b6c1f20f812f48e
+URL: https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2160061&confirm=1&t=1&csrfKey=755c40ae82a939590c030b207bb5d5b1
 
-File: `MoreNastyCrittersSE&AE_v16_1F.7z`
+File: `MoreNastyCrittersSE&AE_v16_1G`
 
