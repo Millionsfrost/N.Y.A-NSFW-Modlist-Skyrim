@@ -240,35 +240,9 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 Please open as Fullscreen in your Brower or download the Picture.
 *Note* that Vermillion is left-handed so you may need to change your mouse buttons back to right-handed if they are not changed before an update.
 
-<a href="https://i.imgur.com/Ezt1TLZ.png"><img src="https://i.imgur.com/Ezt1TLZ.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/6pZOU2A.png"><img src="https://i.imgur.com/6pZOU2A.png" title="source: imgur.com" /></a>
 
-## Extra Hotkeys:
-
-New Hotkeys:
-
-. Key = also know as the dot key which is right next to the comma key, you can turn Clean Crafting on and Off. Clean crafting ON Means your Forge will no longer lag and it will only show you items you can craft where you have atleast 1 Material in your Inventory. When you press . Key you will see everything again but you will get quite some Lag bcs of all them modded Items.
-
-X Key = will turn the whole Hud on and off. 
-
-V Key = will let you dual wield block when you have a Sword and Spell in your Hand for Example.
-
-Shift + F2 = will let you cycle between 3 Reshade Presets we have. This means Color Schemes for the Normy.
-
-F1 Key = will let you adjust some Settings, similar to the MCM Menus.
-
-Shift + 1 = Menu = Settings Menu for Party Sheet Options and Layouts.
-Shift + 2 = Inspect Card = will let you inspect an NPCs Stat Card, like HP, Magicka, Stamina and other Information like Resistences etc. Costs Magicka to use.
-Shift + 3 = Party Sheet = will let you open a Party Sheet Screen where you can inspect your Companions Stats, Resistances etc, all in one go. Look below on how to change Portraits.
-Shift + 4 = Follower Hud Toggle
-
-Hotkeys above not mentioned on Layout Picture. 
-
-### New Combat Animations
-
-There is a new trader in Riverwood named Scarlet who sells rings and custom weapons that unlock animations.
-![alt text](https://i.imgur.com/fFk3Hsy.png)
-
-## Extra Buttons not on Picture:
+<a href="https://i.imgur.com/fFk3Hsy.png"><img src="https://i.imgur.com/fFk3Hsy.png" title="source: imgur.com" /></a>
 
 ### Lazy Item Hider
 
@@ -335,11 +309,5 @@ For 21:9 Ultrawide,
 
 
 
-
-
-
-## - Optional Mods - (included in N.Y.A)
-If you want to activate the Halgari RPG Loot mod *(adds custom enchantments to gear distributed throughtout the world, but also increases initial load time)* ensure to place the ESP in the plugins list under the NYA Backgrounds plugin.
-Dont use it in Combo with OWL Loot Patcher.
 
 
