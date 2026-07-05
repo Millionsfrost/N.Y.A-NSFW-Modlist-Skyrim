@@ -283,10 +283,6 @@ I also added them into the Obody Preset thingy, so basicly NPCS can only get the
 ### SexLab+
 This list uses SexLab+ aka P+, a newer version of SexLab.
 
-### Pandora Animation Behavior Overhaul:
-If you decide to mod the list and need to rerun Pandora, ensure to delete the meshes folder before running.
-![alt text](https://i.imgur.com/iNCJVVC.png)
-
 ## Simple (Ultra)wide Guide
 
 For 21:9 Ultrawide, 
