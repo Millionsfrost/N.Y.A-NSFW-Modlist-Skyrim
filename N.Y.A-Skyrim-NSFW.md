@@ -141,7 +141,7 @@ Keep in Mind i dont much about Ram, Hardware and Stuff like that, its just what 
 
 # Post Installation (Starting a New Game)
 
-Warning: DO NEVER EVER USE LOOT in MO2
+Warning: NEVER USE LOOT in MO2
 
 1. When you launch NYA you will have to wait for it to load before you can start a new game. <!-- In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release.--> <br>
 
@@ -219,7 +219,7 @@ Do not use Survival Mode. It has been reported that with Survival, there are man
 Please open as Fullscreen in your Brower or download the Picture.
 *Note* that Vermillion is left-handed so you may need to change your mouse buttons back to right-handed if they are not changed before an update.
 
-<a href="https://i.imgur.com/6pZOU2A.png"><img src="https://i.imgur.com/6pZOU2A.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/dJgFnhx.png"><img src="https://i.imgur.com/dJgFnhx.png" title="source: imgur.com" /></a>
 
 <a href="https://i.imgur.com/fFk3Hsy.png"><img src="https://i.imgur.com/fFk3Hsy.png" title="source: imgur.com" /></a>
 
