@@ -1,4 +1,4 @@
-# N.Y.A NSFW Modlist Version 8.0
+# N.Y.A NSFW Modlist
 Welcome to the N.Y.A Modlist! This comprehensive mod compilation aims to enhance your Skyrim experience with a plethora of exciting features that are not explicitly centered around adult content, though they are *certainly* included.
 
 ![alt text](https://i.imgur.com/GjGgP7U.png "N.Y.A Poster Image")
@@ -21,13 +21,10 @@ Before diving into the modlist, it's essential to prepare your game environment.
 
 
 ## Requirements
-Verify that your system meets the recommended requirement for running the modlist. Having a "worse" computer than this will not stop you from playing, but being below these requirements will likely result in performance issues.
+Join the Discord [Vermi's Hub](https://discord.gg/vermishub) and grab the NYA role and check out the channel NYA-FPS-Report to check out what others are getting this Modlist is very large and judging whats a minimun requirment is not exactly easy.
 
-Modlist was also tested on 6.0 on 8GB Vram and the Person got average 65 FPS.
-
-![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1")
-
-
+<!-- Verify that your system meets the recommended requirement for running the modlist. Having a "worse" computer than this will not stop you from playing, but being below these requirements will likely result in performance issues. ==>
+<!--![alt text](https://i.imgur.com/6nJCmTo.png "Logo Title Text 1") -->
 
 #### Page File and Shader Cache
 You will need to manually increase your page file as well as increase the size of your shader cache in order to avoid performance issues, even if you have a monster PC.
@@ -35,7 +32,7 @@ You will need to manually increase your page file as well as increase the size o
 To increase your page file, press Windows+R and enter **systempropertiesadvanced** into it. Under "Performance", click "Settings..." and swap to the Advanced tab. Here you want to click "Change" under virtual memory.
 
 
-Uncheck "Automatically manage..." and select your fastest SSD in the list of drives. Check "Custom Size" and set **Initial Size to 20480** and set **Maximum Size to 40000**. Now press "Set" and then APPLY before restarting your PC.
+Uncheck "Automatically manage..." and select your fastest SSD in the list of drives. Check "Custom Size" and set **Initial Size to 40960** and set **Maximum Size to 40960**. Now press "Set" and then APPLY before restarting your PC.
 
 
 Increase the shader cache size via Nvidia Control Panel to at least **10GB**. You can skip this if you're using an AMD GPU, this is set up by default for them. If you have it disabled or want to see how to enable it you can [go here](https://www.amd.com/en/resources/support-articles/faqs/dh-012.html#DH-012-Shader).
@@ -126,20 +123,6 @@ You need to log into Nexus within Wabbajack by clicking the Gear at the top befo
 
 If you encounter any issues during the installation process, consider going through the steps of the ReadMe once more. If you still cannot figure out what the problem is, please refer to the [Frequently Asked Questions (F.A.Q.)](https://discord.com/channels/1201567388248834108/1257432068250669096/1257432068250669096) in the Discord.
 
-## **__Bad Fps ingame__**
-
-Bad Fps while playing ( Outside of Character Starting Room )
-
-**After the last Hours of Testing and fucking around we have found out certain Things.**
-
-The **HDT-SMP Flex** Mod in Mo2 seems to work for some People and for some it doesnt work well.
-
-The Modlist is **capped at 60**, if you play the List atm and you have **constant 60 Fps** you can** ignore this Post** mostly.
-
-If you have **bad Fps** in-game, like way lower then 60, consider turning off **HDT-SMP Flex** in the **Left Side** in Mo2, some Tests showed us an increase of **15-25 Fps**.
-
-Turning off **HDT-SMP Flex **will **not break** your Saves, **Faster HDT-SMP** on the other Hand tho will. Some People turned off **Faster HDT-SMP** and only used **HDT-SMP Flex **which also helped there Fps. " **Faster** " has an Esp tho and " **Flex** " doesnt. Again, if you have **no Fps Problems ignore it**. 7.0 atm has both Enabled which seems to be fine **for most of you.**
-
 
 **__## Lagg in Character Creation aka Memory Leak__**
 
@@ -160,9 +143,7 @@ Keep in Mind i dont much about Ram, Hardware and Stuff like that, its just what 
 
 Warning: DO NEVER EVER USE LOOT in MO2
 
-
-
-1. When you launch NYA you will have to wait for it to load before you can start a new game. In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release. <br>
+1. When you launch NYA you will have to wait for it to load before you can start a new game. <!-- In 7.0 we have Main Menu Videos to show off some of the Mods in the newest release.--> <br>
 
 2. Once you click on New Game as it's loading in, you may see some prompts. You can click okay to close them out. Once the messages in the top right corner stop, you can open up the menu, click on Mod Configuration and find Skyrim Unbound. <br>
 
@@ -172,15 +153,13 @@ Warning: DO NEVER EVER USE LOOT in MO2
 
 5. Hit Enter then choose **"Continue"** You will now load into the game world.
 
-### **IF YOU SEE A POP UP THAT SAYS TO SAVE AND RELOAD DO NOT DO THAT DO NOT SAVE IN THE STARTING ROOM (This is from the DOM mod and can be ignored).**
-
 ### **IF YOU GET A POP UP SAYING A MOD CANT BE FOUND CLICK SKIP AND LET THE RECORDER KEEP GOING**
 Once you load into the game world open up the console and run this command setstage SKI_ConfigManagerInstance 1 it should bring up the missing MCMs
 
-### <ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>	
+###  Videos Are Deprecated Currently
+### ~~<ins>**MIDDLE-MOUSE CLICK THE BELOW IMAGES TO PLAY THE RESPECTIVE VIDEOS**</ins>~~
 
 <ins>N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information</ins> <br>
-### **IGNORE THE UBE PORTION OF THE VIDEO AS UBE IS NOT LONGER IN THE LIST**
 [![IMAGE ALT TEXT](https://i.imgur.com/RTx5nj8.png)](https://www.youtube.com/watch?v=1dPJON9KIe4 "N.Y.A NSFW Modlist Tutorials. Bodyslide and General Information")
 
 <ins>NYA Character Creation and MCM Tutorial</ins>	
@@ -196,7 +175,7 @@ Once you load into the game world open up the console and run this command setst
 
 In the Sexcraft MCM you can change your Sex Key. Normally its Z for me, Y for Americans i think. Pressing Z will initiate Dialogue and Masturbate, holding Z is surrender to initiate Scenes with Enemies. Later when you get more Perks you can also click Z to steal Stuff in the Act and hold Z to drain Enemies.
 
-### [N.Y.A Custom Background System](https://docs.google.com/spreadsheets/d/1tfuKo3nGhs8_owsJUz-d7d7Cb3du-Hd1Q6CmiLBWMFc/edit?usp=sharing) ( Class Mod but its called Backgrounds bcs its not Classes but if i say Classes you wont think its a Wallpaper Backgrounds Mod or something like that lmao )
+### [N.Y.A Custom Background System](https://docs.google.com/spreadsheets/d/1tfuKo3nGhs8_owsJUz-d7d7Cb3du-Hd1Q6CmiLBWMFc/edit?usp=sharing)
 
 1. How to Use "Legends of the Forgotten Paths" to Choose Your Background
 Open the Book
@@ -222,7 +201,7 @@ We dont use the Synthesis HPH patch anymore for a specific Reason. So now on Cha
 
 ### ENB Information
 
-N.Y.A 6.0+ now uses a customized version of Cabbage ENB with Sswaye's ReShade. 3 ReShade presets are available to choose from. Do not change the ENB or alter the ENB settings.
+N.Y.A uses a customized version of Cabbage ENB with Sswaye's ReShade. 3 ReShade presets are available to choose from. Do not change the ENB or alter the ENB settings.
 ![alt text](https://i.imgur.com/YhDDnm3.png)
 
 ### Beth Pie
@@ -284,24 +263,7 @@ I also added them into the Obody Preset thingy, so basicly NPCS can only get the
 This list uses SexLab+ aka P+, a newer version of SexLab.
 
 ## Simple (Ultra)wide Guide
-
-For 21:9 Ultrawide, 
-
-(1) Reinstall Edge UI Reinstall Edge UI selecting 21:9, on the patches select all Non-Automated Patches, leave rest unchanged.
-
-(2) Reinstall BodySlots - Edge UI selecting 21:9 and COCKs fix.
-
-(3) Grab EdgeUI C.O.C.K.S 21-9 fix https://www.nexusmods.com/skyrimspecialedition/mods/136604
-
-(4)  Grab MessageBox Control Widescreen Fix  https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=11607Nexus%20Mods%20::%20Skyrim%20Special%20Edition
-
-(5) Grab Untarnished DBVO Patch https://www.nexusmods.com/skyrimspecialedition/mods/121096?tab=files (note there is not a comprable EdgeUI Patch yet so it looks slightly different than the rest of the UI)
-
-(6) Load Order in the screenshots
-
-<img width="537" height="218" alt="image" src="https://github.com/user-attachments/assets/14db0b6c-936c-47f2-b213-51b2796df5d5" />
-
-<img width="700" height="923" alt="image" src="https://github.com/user-attachments/assets/fbb60a7b-cc11-4953-828b-d32eb7fe0acc" />
+REMOVED FROM THE README AND NOW HAS A POST IN THE FAQ ON THE DISCORD [Vermi's Hub](https://discord.com/channels/1201567388248834108/1523802637206818958) 
 
 
 
