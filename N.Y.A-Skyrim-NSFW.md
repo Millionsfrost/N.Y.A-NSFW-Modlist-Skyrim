@@ -64,7 +64,7 @@ You will also need an account on [Loverslab](https://www.loverslab.com). You wil
 In order to avoid issues when installing through Wabbajack, you will need to follow these **VERY IMPORTANT** steps.
 
 ## Setting Up Your Folders
-Press Windows+E and locate the Driver you would like to play Skyrim from, for example "C:\" or "D:\". Ensure that you have enough space for the list (750+ GB). You want to create 4 folders on the *root* of the drive (Here C:\).
+Press Windows+E and locate the Driver you would like to play Skyrim from, for example "C:\" or "D:\". Ensure that you have enough space for the list (1.060TB needed 364GB Downloads, 636 GB for Install and 60 GBs for Tempfiles NYA v9.3). You want to create 4 folders on the *root* of the drive (Here C:\).
 
 C:\NYA
 
