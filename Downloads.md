@@ -145,9 +145,9 @@ File: `CreatureFrameworkV4_0.7z`
 
 
 ### Horny Creatures of Skyrim
-URL: https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/?do=download&r=2086003&confirm=1&t=1&csrfKey=e43c1edf4eb329b29a94499c77d26373
+URL: https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/?do=download&r=2185243&confirm=1&t=1&csrfKey=cdfb2fb8af3411787526d72cc86d2945
 
-File: `HornyCreaturesofSkyrimSE&AE_V2-4.7z`
+File: `HornyCreaturesofSkyrimSE&AE_V2-4B.7z`
 
 
 
