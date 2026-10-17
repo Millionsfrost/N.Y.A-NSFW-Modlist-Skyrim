@@ -73,24 +73,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/main/Sandland-Fallout-4-banner.webp",
       "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
-      "download": "https://authored-files.wabbajack.org/Sandland Remake.wabbajack_a0f06dd9-7d2c-4840-beaf-43a6bb90f217",
+      "download": "https://authored-files.wabbajack.org/Sandland Remake.wabbajack_0a36f20b-7ee9-4c0e-a1e4-66d380ad50c8",
       "machineURL": "sandland",
       "discordURL": "https://discord.gg/V38xZ6CtzQ",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "/DWzvZR+hGQ=",
-      "Size": 358844799,
-      "NumberOfArchives": 1615,
-      "SizeOfArchives": 327717067407,
-      "NumberOfInstalledFiles": 226469,
-      "SizeOfInstalledFiles": 477806981304,
-      "TotalSize": 805524048711
+      "Hash": "emxvrnN8UhE=",
+      "Size": 348975170,
+      "NumberOfArchives": 1568,
+      "SizeOfArchives": 325472970393,
+      "NumberOfInstalledFiles": 224658,
+      "SizeOfInstalledFiles": 475712275389,
+      "TotalSize": 801185245782
     },
-    "version": "2.6",
+    "version": "2.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-31T17:13:14.6235675Z",
+    "dateUpdated": "2026-10-17T16:18:11.119468Z",
     "repositoryName": ""
   },
   {
