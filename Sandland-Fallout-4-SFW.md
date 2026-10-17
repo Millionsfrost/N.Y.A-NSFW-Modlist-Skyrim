@@ -5,7 +5,7 @@
 Support and general talk about Sandland, you can find on the following Discord: https://discord.gg/vermishub
 
 
-## Sandland-SFW/NSFW-Modlist-Fallout 4
+## Sandland-NSFW-Modlist-Fallout 4
 
 Sandland – Release V2.0
 
