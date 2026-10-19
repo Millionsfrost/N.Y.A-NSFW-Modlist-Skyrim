@@ -242,7 +242,7 @@ URL: https://www.loverslab.com/files/file/19121-commonwealth-captives-outfit-inj
 ## PorcPubes_Esl_02a.7z
 URL: https://www.loverslab.com/files/file/28178-porcupines-pubichairs/?do=download&r=1801686&confirm=1&t=1&csrfKey=9a6652dec58e43d09417a7dacbf16471
 
-## Commonwealth Captives NPC Patch 1.0.7.7z
+## Commonwealth Captives NPC Patch 1.0.9.7z
 URL: https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/?do=download
 
 ## Rogg No-Strip Items Manager v1.0.1.zip
